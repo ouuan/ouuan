@@ -96,6 +96,27 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <br />
       <a href="https://github.com/billchenchina">billchenchina</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/EntropyIncreaser">
+        <img src="https://avatars2.githubusercontent.com/u/13249806" width="100px;" alt="EntropyIncreaser"/>
+      </a>
+      <br />
+      <a href="https://github.com/EntropyIncreaser">Elegia Inferno</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/suhao">
+        <img src="https://avatars2.githubusercontent.com/u/24261214" width="100px;" alt="suhao"/>
+      </a>
+      <br />
+      <a href="https://github.com/suhao">suhao</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shakeabi">
+        <img src="https://avatars2.githubusercontent.com/u/36559835" width="100px;" alt="shakeabi"/>
+      </a>
+      <br />
+      <a href="https://github.com/shakeabi">Abishake</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
