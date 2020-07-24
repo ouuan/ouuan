@@ -25,6 +25,8 @@ jobs:
           git config --local user.email "ouuansteve@gmail.com"
           git config --local user.name "Yufan You"
           git commit -am "Update Top Followers"
+      - name: Pull changes
+        run: git pull -r
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
