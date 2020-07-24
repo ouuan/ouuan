@@ -16,11 +16,11 @@ if __name__ == "__main__":
     followers = []
 
     for i in range(1, 100000):
-        page = requests.get(f"https://api.github.com/users/{handle}/followers?page={i}&per_page=100").json()
+        page = requests.get(f"https://api.github.com/users/{handle}/followers?page={i}&per_page=100", headers = headers).json()
         if len(page) == 0:
             break
         for follower in page:
-            info = requests.get(follower["url"]).json()
+            info = requests.get(follower["url"], headers = headers).json()
             followers.append((info["followers"], info["login"], info["id"], info["name"] if info["name"] else info["login"]))
             print(followers[-1])
 
