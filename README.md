@@ -10,4 +10,11 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 -   :seedling: Learning competitive programming
 
 <!--START_SECTION:waka-->
+```text
+Markdown     8 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+YAML         7 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.32 % 
+C++          6 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+JavaScript   6 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+HTML         4 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
+```
 <!--END_SECTION:waka-->
