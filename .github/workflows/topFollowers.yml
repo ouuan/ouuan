@@ -19,7 +19,7 @@ jobs:
       - name: Install requests
         run: pip install requests
       - name: Update README
-        run: python src/getTopFollowers.py ouuan ${{ secrets.GITHUB_TOKEN }} README.md
+        run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
       - name: Commit changes
         run: |
           git config --local user.email "ouuansteve@gmail.com"
