@@ -22,6 +22,7 @@ if __name__ == "__main__":
         for follower in page:
             info = requests.get(follower["url"]).json()
             followers.append((info["followers"], info["login"], info["id"], info["name"] if info["name"] else info["login"]))
+            print(followers[-1])
 
     followers.sort(reverse = True)
 
