@@ -1,4 +1,6 @@
-## Hey, ouuan here! 👋
+## Hey, ouuan here! :wave:
+
+<img align="right" alt="ouuan's github stats" src="https://github-readme-stats.vercel.app/api?username=ouuan&show_icons=true">
 
 I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
@@ -6,5 +8,3 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
 -   :pencil2: Arch Linux & KDE & yakuake & Oh My Zsh & VS Code
 -   :seedling: Learning competitive programming
-
-![ouuan's github stats](https://github-readme-stats.vercel.app/api?username=ouuan&show_icons=true)
