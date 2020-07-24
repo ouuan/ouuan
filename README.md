@@ -8,6 +8,7 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
 -   :pencil2: Arch Linux & KDE & yakuake & Oh My Zsh & VS Code
 -   :seedling: Learning competitive programming
+-   :man: Pronouns: he/him
 
 ---
 
