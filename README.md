@@ -9,6 +9,9 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 -   :pencil2: Arch Linux & KDE & yakuake & Oh My Zsh & VS Code
 -   :seedling: Learning competitive programming
 
+---
+
+:bar_chart: **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
 Markdown     8 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
