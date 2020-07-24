@@ -12,7 +12,7 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
 ---
 
-:sparkles: **My Followers**
+#### :sparkles: My Followers
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -123,7 +123,7 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
 ---
 
-:bar_chart: **Weekly development breakdown**
+#### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
