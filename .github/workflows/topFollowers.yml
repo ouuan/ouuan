@@ -1,0 +1,29 @@
+name: Get Top Followers
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 20 * * *'
+
+jobs:
+  top-followers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Update README
+        run: python src/getTopFollowers.py ouuan ${{ secrets.GITHUB_TOKEN }} README.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "ouuansteve@gmail.com"
+          git config --local user.name "Yufan You"
+          git commit -am "Update Top Followers"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

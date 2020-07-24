@@ -12,7 +12,15 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
 ---
 
+:sparkles: **My Followers**
+
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
+
+---
+
 :bar_chart: **Weekly development breakdown**
+
 <!--START_SECTION:waka-->
 ```text
 Markdown     8 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
