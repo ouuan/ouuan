@@ -69,6 +69,13 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/bloodybaker">
+        <img src="https://avatars2.githubusercontent.com/u/30960200" width="100px;" alt="bloodybaker"/>
+      </a>
+      <br />
+      <a href="https://github.com/bloodybaker">Yevhenii Chykalov</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jq2">
         <img src="https://avatars2.githubusercontent.com/u/26396467" width="100px;" alt="jq2"/>
       </a>
@@ -109,13 +116,6 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       </a>
       <br />
       <a href="https://github.com/siger-young">Siger Young</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/EntropyIncreaser">
-        <img src="https://avatars2.githubusercontent.com/u/13249806" width="100px;" alt="EntropyIncreaser"/>
-      </a>
-      <br />
-      <a href="https://github.com/EntropyIncreaser">Elegia Inferno</a>
     </td>
   </tr>
 </table>
