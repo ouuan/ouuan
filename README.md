@@ -53,21 +53,12 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/ChungZH">Flex Zhong</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bloodybaker">
-        <img src="https://avatars2.githubusercontent.com/u/30960200" width="100px;" alt="bloodybaker"/>
-      </a>
-      <br />
-      <a href="https://github.com/bloodybaker">Yevhenii Chykalov</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Garfield550">
         <img src="https://avatars2.githubusercontent.com/u/3471836" width="100px;" alt="Garfield550"/>
       </a>
       <br />
       <a href="https://github.com/Garfield550">Garfield Lee</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/EndlessCheng">
         <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
@@ -75,6 +66,8 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <br />
       <a href="https://github.com/EndlessCheng">EndlessCheng</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/jq2">
         <img src="https://avatars2.githubusercontent.com/u/26396467" width="100px;" alt="jq2"/>
@@ -116,6 +109,13 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       </a>
       <br />
       <a href="https://github.com/siger-young">Siger Young</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/EntropyIncreaser">
+        <img src="https://avatars2.githubusercontent.com/u/13249806" width="100px;" alt="EntropyIncreaser"/>
+      </a>
+      <br />
+      <a href="https://github.com/EntropyIncreaser">Elegia Inferno</a>
     </td>
   </tr>
 </table>
