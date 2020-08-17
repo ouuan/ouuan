@@ -76,18 +76,18 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/EndlessCheng">EndlessCheng</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jq2">
-        <img src="https://avatars2.githubusercontent.com/u/26396467" width="100px;" alt="jq2"/>
-      </a>
-      <br />
-      <a href="https://github.com/jq2">Dan Morris</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Akshar-code">
         <img src="https://avatars2.githubusercontent.com/u/59618640" width="100px;" alt="Akshar-code"/>
       </a>
       <br />
       <a href="https://github.com/Akshar-code">Akshar Kottuvada</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jq2">
+        <img src="https://avatars2.githubusercontent.com/u/26396467" width="100px;" alt="jq2"/>
+      </a>
+      <br />
+      <a href="https://github.com/jq2">Dan Morris</a>
     </td>
     <td align="center">
       <a href="https://github.com/Xeonacid">
