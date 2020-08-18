@@ -60,27 +60,27 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/ChungZH">Flex Zhong</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Akshar-code">
+        <img src="https://avatars2.githubusercontent.com/u/59618640" width="100px;" alt="Akshar-code"/>
+      </a>
+      <br />
+      <a href="https://github.com/Akshar-code">Akshar Kottuvada</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/Garfield550">
         <img src="https://avatars2.githubusercontent.com/u/3471836" width="100px;" alt="Garfield550"/>
       </a>
       <br />
       <a href="https://github.com/Garfield550">Garfield Lee</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/EndlessCheng">
         <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
       </a>
       <br />
       <a href="https://github.com/EndlessCheng">EndlessCheng</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Akshar-code">
-        <img src="https://avatars2.githubusercontent.com/u/59618640" width="100px;" alt="Akshar-code"/>
-      </a>
-      <br />
-      <a href="https://github.com/Akshar-code">Akshar Kottuvada</a>
     </td>
     <td align="center">
       <a href="https://github.com/jq2">
