@@ -60,20 +60,20 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/ChungZH">Flex Zhong</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Garfield550">
-        <img src="https://avatars2.githubusercontent.com/u/3471836" width="100px;" alt="Garfield550"/>
-      </a>
-      <br />
-      <a href="https://github.com/Garfield550">Garfield Lee</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/jq2">
         <img src="https://avatars2.githubusercontent.com/u/26396467" width="100px;" alt="jq2"/>
       </a>
       <br />
       <a href="https://github.com/jq2">Dan Morris</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Garfield550">
+        <img src="https://avatars2.githubusercontent.com/u/3471836" width="100px;" alt="Garfield550"/>
+      </a>
+      <br />
+      <a href="https://github.com/Garfield550">Garfield Lee</a>
     </td>
     <td align="center">
       <a href="https://github.com/EndlessCheng">
