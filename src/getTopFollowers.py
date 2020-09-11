@@ -21,7 +21,7 @@ if __name__ == "__main__":
             break
         for follower in page:
             info = requests.get(follower["url"], headers = headers).json()
-            if info["following"] > 9000:
+            if info["following"] > 5000 and info["public_repos"] < 50:
                 continue
             followers.append((info["followers"], info["login"], info["id"], info["name"] if info["name"] else info["login"]))
             print(followers[-1])
