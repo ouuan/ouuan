@@ -6,9 +6,10 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
--   :pencil2: Arch Linux & KDE & yakuake & Oh My Zsh & VS Code
--   :seedling: Learning competitive programming
+-   :pencil2: Arch Linux / KDE / yakuake / Oh My Zsh / VS Code
+-   :seedling: Preparing for [Gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination)
 -   :man: Pronouns: he/him
+-   :thinking: Wondering why my README has more [forks](https://github.com/ouuan/ouuan/network/members) than [stars](https://github.com/ouuan/ouuan/stargazers)
 
 ---
 
