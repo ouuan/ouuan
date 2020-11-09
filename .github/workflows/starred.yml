@@ -1,0 +1,34 @@
+name: Update awesome-stars
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: 0 18 * * *
+
+jobs:
+  awesome-stars:
+    name: update awesome-stars
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+      - run: pip install starred
+      - name: Update star list
+        run: starred --username ouuan --sort --token ${{ secrets.GITHUB_TOKEN }} > AWESOME-STARS.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Update awesome stars"
+      - name: Pull changes
+        run: git pull -r
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
