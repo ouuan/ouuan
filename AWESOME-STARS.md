@@ -5,7 +5,6 @@
 
 ## Contents
 
-  - [ASP](#asp)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -36,27 +35,22 @@
   - [Vue](#vue)
   - [sed](#sed)
 
-## ASP 
-
-- [Wine-QQ-TIM](https://github.com/askme765cs/Wine-QQ-TIM) - 提供在Linux上运行最新版腾讯QQ与TIM的解决方案 Easiest Way to Run QQ&TIM on Linux
-
 ## C 
 
+- [vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
+- [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [BOIT](https://github.com/kernelbin/BOIT) - BOT for OIers.  /*BOIT = BOT + OI; yh蒟蒻写的给OIers用的一个bot，Made by kernel.bin with ❤*/
 - [proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
-- [stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
-- [JudgeDuck-OS](https://github.com/JudgeDuck/JudgeDuck-OS) - The Operating System for JudgeDuck -- Stable and Accurate Judge System
 
 ## C# # 
 
 - [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 - [osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [OpenVHead](https://github.com/TianxingWu/OpenVHead) - A 3D virtual head control system for VTuber in Unity with smooth motion and robust facial expressions
-- [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10 Activation Toolkit get digital license, the best open source Win 10 activator in GitHub. GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！
 - [CodeforcesEduHacking](https://github.com/im0qianqian/CodeforcesEduHacking) - 📊 Codeforces Edu & Div. 3 Open hacking
 
 ## C++ 
@@ -81,15 +75,12 @@
 - [ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [cpeditor](https://github.com/cpeditor/cpeditor) - The IDE for competitive programming :tada: | Fetch, Code, Compile, Run, Check, Submit :rocket:
 - [qtbase](https://github.com/qt/qtbase) - Qt Base (Core, Gui, Widgets, Network, ...)
-- [qt-solutions](https://github.com/qtproject/qt-solutions) - 
 - [SingleApplication](https://github.com/itay-grudev/SingleApplication) - Replacement of QtSingleApplication for Qt5 with support for instance communication.
 - [malicious-code](https://github.com/vijos/malicious-code) - Malicious code that Vijos judged.
 - [syzoj-tools](https://github.com/syzoj/syzoj-tools) - 一个为 OI 题目设计的方便的命令行工具，实现造题、验题、评测等整个评测流程
 - [Gobang-by-Qt](https://github.com/keyu-tian/Gobang-by-Qt) - A Gobang game (includes a naive AI) based on Min-Max-Search and Alpha-Beta-Pruning algorithm. (by Qt5.11)
 - [Project_LemonLime](https://github.com/Project-LemonLime/Project_LemonLime) - 为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持
 - [tiralabra](https://github.com/Laakeri/tiralabra) - 
-- [IOI2020Homework](https://github.com/OwenOwl/IOI2020Homework) - IOI 2020 集训队作业
-- [tokitsukaze-ACM-Template](https://github.com/tokitsu-kaze/tokitsukaze-ACM-Template) - ACM-ICPC Template
 - [jigsaw-solver](https://github.com/biswajitsc/jigsaw-solver) - A jigsaw puzzle solver for randomly shuffled square shaped images.
 - [Tree-Generator](https://github.com/ouuan/Tree-Generator) - Help competitive programming problem setters to generate different kinds of trees :evergreen_tree:
 - [CF-template](https://github.com/ouuan/CF-template) - template to code faster for CP
@@ -160,10 +151,10 @@
 - [openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [hightail](https://github.com/dj3500/hightail) - 
 - [Pixiv-Illustration-Collection-Backend](https://github.com/OysterQAQ/Pixiv-Illustration-Collection-Backend) - 不只是一个免费 Pixiv 高级会员搜索的站点
-- [proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
 
 ## JavaScript 
 
+- [Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex.
 - [github-standard-labels](https://github.com/yoshuawuyts/github-standard-labels) - Create a standard set of issue labels for a GitHub project
 - [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [hukum](https://github.com/abskmj/hukum) - An NPM module that displays Github Action progress in the terminal and aims to improve your development experience by printing status in realtime.
@@ -204,7 +195,6 @@
 - [hoj](https://github.com/ITcarrot/hoj) - 一个基于UOJ开发的在线评测系统
 - [old-textcomplete](https://github.com/yuku/old-textcomplete) - Moved to yuku/textcomplete
 - [emojionearea](https://github.com/mervick/emojionearea) - Emoji Picker Plugin for jQuery
-- [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
@@ -226,7 +216,6 @@
 
 - [first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation
 - [PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
-- [code-with-ai](https://github.com/goru001/code-with-ai) - Interface for people to use my model which predicts which techniques one should use to solve a competitive programming problem to get an AC
 
 ## Kotlin 
 
@@ -267,7 +256,6 @@
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [oiQuotations](https://github.com/iotang/oiQuotations) - Quotations for oi
 - [OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
-- [WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [bilibili-vtuber-danmaku](https://github.com/dd-center/bilibili-vtuber-danmaku) - Vtuber直播间的弹幕哟~
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 他妈的我终于能用谷歌搜中文了
@@ -307,7 +295,6 @@
 - [waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [ouuan](https://github.com/ouuan/ouuan) - Hey, ouuan here! :wave:
 - [bilibili-live-recorder](https://github.com/zachMelody/bilibili-live-recorder) - 下载 bilibili 直播 视频流
-- [notification-action](https://github.com/ouuan/notification-action) - GitHub Actions for generating notification messages for various GitHub webhook events :bell:
 - [oj](https://github.com/online-judge-tools/oj) - Tools for various online judges. Downloading sample cases, generating additional test cases, testing your code, and submitting it.
 - [Solvable-Minesweeper](https://github.com/eee555/Solvable-Minesweeper) - 
 - [cms](https://github.com/cms-dev/cms) - Contest Management System
@@ -328,7 +315,6 @@
 - [TGBullshitGeneratorBot](https://github.com/abc1763613206/TGBullshitGeneratorBot) - "狗屁不通文章生成器" (https://github.com/menzi11/BullshitGenerator) 的 Telegram Bot 移植版
 - [diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 - [talking-head-anime-demo](https://github.com/pkhungurn/talking-head-anime-demo) - Demo for the "Talking Head Anime from a Single Image."
-- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [CFBooster](https://github.com/fjzzq2002/CFBooster) - 
 - [polygon-cli](https://github.com/kunyavskiy/polygon-cli) - Command-line tool for polygon
 - [AlphaZero_Gomoku](https://github.com/junxiaosong/AlphaZero_Gomoku) - An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)
@@ -355,6 +341,8 @@
 
 ## Rust 
 
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
@@ -377,8 +365,6 @@
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [netease-cloud-music](https://github.com/innoob/netease-cloud-music) - 可用于ubuntu 18.04的网易云音乐
-- [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
 
 ## Standard ML 
 
