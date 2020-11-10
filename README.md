@@ -13,7 +13,7 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
 ---
 
-#### :sparkles: My Followers
+#### :sparkles: My followers
 
 <!--START_SECTION:top-followers-->
 <table>
