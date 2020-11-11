@@ -64,7 +64,6 @@
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [ncmdump](https://github.com/anonymous5l/ncmdump) - netease cloud music copyright protection file dump
 - [notepanda](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
-- [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [QCodeEditor](https://github.com/cpeditor/QCodeEditor) - Qt Code Editor widget. Now deprecated and will no longer be maintained by the CP Editor team.
 - [qgdbint](https://github.com/neko-para/qgdbint) - GDB interface in Qt
 - [systemsettings](https://github.com/KDE/systemsettings) - Control center to configure your Plasma Desktop
@@ -154,6 +153,10 @@
 
 ## JavaScript 
 
+- [hackernews-weekly](https://github.com/headllines/hackernews-weekly) - Hacker News weekly top 10 posts
+- [github-weekly](https://github.com/headllines/github-weekly) - Github weekly top 10 repos
+- [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
+- [chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex.
 - [github-standard-labels](https://github.com/yoshuawuyts/github-standard-labels) - Create a standard set of issue labels for a GitHub project
 - [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
@@ -199,7 +202,6 @@
 - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
 - [jnoj](https://github.com/shi-yang/jnoj) - Jiangnan Online Judge
-- [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合
 - [Luogu-Problem-Jumper](https://github.com/Anguei/Luogu-Problem-Jumper) - 在洛谷任意位置双击题号，自动跳转
 - [cfviz](https://github.com/sjsakib/cfviz) - Visualizes user data from codeforces.com using the official API
