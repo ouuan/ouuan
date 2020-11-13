@@ -288,6 +288,9 @@
 
 ## Python 
 
+- [pacman-watcher](https://github.com/ouuan/pacman-watcher) - A utility which helps you watch important package updates in the pacman package manager.
+- [appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
+- [dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python ⚙
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
 - [hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - :trophy: Show some love to your contributors!  A widget for your repo README. Visual and clean. Refreshes every hour.
