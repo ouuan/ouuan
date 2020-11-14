@@ -37,6 +37,7 @@
 
 ## C 
 
+- [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses
@@ -158,7 +159,6 @@
 - [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
 - [chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex.
-- [github-standard-labels](https://github.com/yoshuawuyts/github-standard-labels) - Create a standard set of issue labels for a GitHub project
 - [docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [hukum](https://github.com/abskmj/hukum) - An NPM module that displays Github Action progress in the terminal and aims to improve your development experience by printing status in realtime.
 - [full-mark-composition-generator](https://github.com/BeautyYuYanli/full-mark-composition-generator) - 将专业术语和名人名言以随机报菜名的方式填入模板，生成一篇只有聪明人才能看懂的满分作文！
@@ -288,9 +288,8 @@
 
 ## Python 
 
-- [pacman-watcher](https://github.com/ouuan/pacman-watcher) - A utility which helps you watch important package updates in the pacman package manager.
+- [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
 - [appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
-- [dynaconf](https://github.com/rochacbruno/dynaconf) - Configuration Management for Python ⚙
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
 - [hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - :trophy: Show some love to your contributors!  A widget for your repo README. Visual and clean. Refreshes every hour.
@@ -298,7 +297,7 @@
 - [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [geneva](https://github.com/Kkevsterrr/geneva) - automated censorship evasion for the client-side and server-side
 - [waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
-- [ouuan](https://github.com/ouuan/ouuan) - Hey, ouuan here! :wave:
+- [ouuan](https://github.com/ouuan/ouuan) - Hey, ouuan here! :wave: | GitHub Actions | Top Followers | WakaTime Stats | Awesome Stars
 - [bilibili-live-recorder](https://github.com/zachMelody/bilibili-live-recorder) - 下载 bilibili 直播 视频流
 - [oj](https://github.com/online-judge-tools/oj) - Tools for various online judges. Downloading sample cases, generating additional test cases, testing your code, and submitting it.
 - [Solvable-Minesweeper](https://github.com/eee555/Solvable-Minesweeper) - 
@@ -357,6 +356,7 @@
 
 ## Shell 
 
+- [kernel-modules-hook](https://github.com/saber-nyan/kernel-modules-hook) - Keeps your Arch Linux fully functional after a kernel upgrade
 - [link-checker](https://github.com/peter-evans/link-checker) - A GitHub action for link checking repository Markdown and HTML files
 - [arch-pkgbuild-builder](https://github.com/2m/arch-pkgbuild-builder) - Arch Linux PKGBUILD GitHub builder action
 - [git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
