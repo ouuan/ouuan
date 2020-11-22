@@ -154,6 +154,7 @@
 
 ## JavaScript 
 
+- [anichart.js](https://github.com/Jannchie/anichart.js) - 轻松制作数据可视化动画视频
 - [hackernews-weekly](https://github.com/headllines/hackernews-weekly) - Hacker News weekly top 10 posts
 - [github-weekly](https://github.com/headllines/github-weekly) - Github weekly top 10 repos
 - [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
