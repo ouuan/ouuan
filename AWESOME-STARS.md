@@ -154,7 +154,6 @@
 
 ## JavaScript 
 
-- [anichart.js](https://github.com/Jannchie/anichart.js) - 轻松制作数据可视化动画视频
 - [hackernews-weekly](https://github.com/headllines/hackernews-weekly) - Hacker News weekly top 10 posts
 - [github-weekly](https://github.com/headllines/github-weekly) - Github weekly top 10 repos
 - [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
@@ -245,7 +244,6 @@
 - [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [vscode-go-template](https://github.com/jinliming2/vscode-go-template) - Go Template Syntax Highlight Support for VSCode.
 - [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
-- [renaming](https://github.com/fengertao/renaming) - Guidance for changing the default branch name for GitHub repositories
 - [learn-git-the-super-hard-way](https://github.com/b1f6c1c4/learn-git-the-super-hard-way) - 不走寻常路的Git教程
 - [master-is-not-evil](https://github.com/ouuan/master-is-not-evil) - We don't master people. We only want to master git.
 - [renaming](https://github.com/tounan/renaming) - Yep
@@ -377,6 +375,7 @@
 
 ## TypeScript 
 
+- [anichart.js](https://github.com/Jannchie/anichart.js) - 轻松制作数据可视化动画视频
 - [vscode-cpp-helper](https://github.com/amir9480/vscode-cpp-helper) - vscode extension to create implementation for c++ function prototypes.
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
