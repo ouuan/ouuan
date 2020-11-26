@@ -37,6 +37,7 @@
 
 ## C 
 
+- [earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
@@ -156,7 +157,6 @@
 
 - [RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - color quantization lib
 - [async](https://github.com/caolan/async) - Async utilities for node and the browser
-- [electron-tabs](https://github.com/brrd/electron-tabs) - Simple tabs for Electron applications
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [hackernews-weekly](https://github.com/headllines/hackernews-weekly) - Hacker News weekly top 10 posts
 - [github-weekly](https://github.com/headllines/github-weekly) - Github weekly top 10 repos
