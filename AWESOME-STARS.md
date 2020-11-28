@@ -21,6 +21,7 @@
   - [Lean](#lean)
   - [Less](#less)
   - [Lua](#lua)
+  - [Makefile](#makefile)
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
@@ -155,6 +156,8 @@
 
 ## JavaScript 
 
+- [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
+- [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - color quantization lib
 - [async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
@@ -240,6 +243,10 @@
 ## Lua 
 
 - [nShogi-Lua](https://github.com/zyf722/nShogi-Lua) - A Shogi game written in TI-Lua
+
+## Makefile 
+
+- [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 
 ## Others 
 
@@ -363,7 +370,6 @@
 - [arch-pkgbuild-builder](https://github.com/2m/arch-pkgbuild-builder) - Arch Linux PKGBUILD GitHub builder action
 - [git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
-- [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [misspell-fixer-action](https://github.com/sobolevn/misspell-fixer-action) - 📝Automatically fixes typos and mistakes in your source code and docs!
