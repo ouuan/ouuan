@@ -24,6 +24,7 @@
   - [Makefile](#makefile)
   - [Others](#others)
   - [PHP](#php)
+  - [PureScript](#purescript)
   - [Python](#python)
   - [QML](#qml)
   - [Rust](#rust)
@@ -58,6 +59,7 @@
 
 ## C++ 
 
+- [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [lean](https://github.com/leanprover-community/lean) - Lean Theorem Prover
 - [cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook) - CMake Cookbook recipes.
 - [Despised](https://github.com/ouuan/Despised) - NOI bèi bǐ shì
@@ -156,6 +158,8 @@
 
 ## JavaScript 
 
+- [fake-luogu-paintboard-server](https://github.com/ouuan/fake-luogu-paintboard-server) - 模拟洛谷冬日绘板服务器，可用于测试脚本。
+- [http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - color quantization lib
@@ -227,6 +231,7 @@
 
 ## Kotlin 
 
+- [LuoGuAPI](https://github.com/HoshinoTented/LuoGuAPI) - API of LuoGu
 - [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 ## Lean 
@@ -294,6 +299,10 @@
 - [YLOJ](https://github.com/YLOJ/YLOJ) - Yali Online Judge
 - [emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
 - [CFRatingColor](https://github.com/hanlin-studio/CFRatingColor) - 利用Shields.io，实现按颜色显示Codeforces的Rating
+
+## PureScript 
+
+- [neodoc](https://github.com/felixSchl/neodoc) - Beautiful, hand-crafted commandline interfaces for node.js
 
 ## Python 
 
