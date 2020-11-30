@@ -158,6 +158,7 @@
 
 ## JavaScript 
 
+- [vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
 - [fake-luogu-paintboard-server](https://github.com/ouuan/fake-luogu-paintboard-server) - 模拟洛谷冬日绘板服务器，可用于测试脚本。
 - [http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
