@@ -127,6 +127,7 @@
 
 ## HTML 
 
+- [PaintBoardServer](https://github.com/HoshinoTented/PaintBoardServer) - A Server Side of PaintBoard
 - [syntax-highlighting](https://github.com/KDE/syntax-highlighting) - Syntax highlighting Engine for Structured Text and Code.
 - [hugo-video](https://github.com/martignoni/hugo-video) - A Hugo theme component to embed videos using HTML video element
 - [zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
@@ -232,7 +233,6 @@
 
 ## Kotlin 
 
-- [LuoGuAPI](https://github.com/HoshinoTented/LuoGuAPI) - API of LuoGu
 - [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 ## Lean 
@@ -307,6 +307,8 @@
 
 ## Python 
 
+- [rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
+- [ssfconv](https://github.com/fkxxyz/ssfconv) - Sogou input method skin file (.ssf file) converter, supports conversion to fcitx or fcitx5 format.
 - [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
 - [appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
