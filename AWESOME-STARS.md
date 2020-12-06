@@ -159,6 +159,8 @@
 
 ## JavaScript 
 
+- [websocket-as-promised](https://github.com/vitalets/websocket-as-promised) - A Promise-based API for WebSockets
+- [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Easily Build Your Vue.js App For Desktop With Electron
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
