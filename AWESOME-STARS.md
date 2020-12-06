@@ -127,7 +127,7 @@
 
 ## HTML 
 
-- [PaintBoardServer](https://github.com/HoshinoTented/PaintBoardServer) - A Server Side of PaintBoard
+- [fake-luogu-paintboard-server](https://github.com/ouuan/fake-luogu-paintboard-server) - 模拟洛谷冬日绘板服务器，可用于测试脚本。
 - [syntax-highlighting](https://github.com/KDE/syntax-highlighting) - Syntax highlighting Engine for Structured Text and Code.
 - [hugo-video](https://github.com/martignoni/hugo-video) - A Hugo theme component to embed videos using HTML video element
 - [zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
@@ -159,14 +159,12 @@
 
 ## JavaScript 
 
+- [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
-- [fake-luogu-paintboard-server](https://github.com/ouuan/fake-luogu-paintboard-server) - 模拟洛谷冬日绘板服务器，可用于测试脚本。
-- [http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - color quantization lib
 - [async](https://github.com/caolan/async) - Async utilities for node and the browser
-- [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 - [hackernews-weekly](https://github.com/headllines/hackernews-weekly) - Hacker News weekly top 10 posts
 - [github-weekly](https://github.com/headllines/github-weekly) - Github weekly top 10 repos
 - [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
