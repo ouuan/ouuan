@@ -77,6 +77,13 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/ChungZH">Flex Zhong</a>
     </td>
     <td align="center">
+      <a href="https://github.com/shincurry">
+        <img src="https://avatars2.githubusercontent.com/u/4946624" width="100px;" alt="shincurry"/>
+      </a>
+      <br />
+      <a href="https://github.com/shincurry">ココロ</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/EndlessCheng">
         <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
       </a>
@@ -91,32 +98,25 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/guofei9987">郭飞</a>
     </td>
     <td align="center">
+      <a href="https://github.com/HoshinoTented">
+        <img src="https://avatars2.githubusercontent.com/u/25280943" width="100px;" alt="HoshinoTented"/>
+      </a>
+      <br />
+      <a href="https://github.com/HoshinoTented">Hoshino Tented</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/u-u-z">
+        <img src="https://avatars2.githubusercontent.com/u/11187239" width="100px;" alt="u-u-z"/>
+      </a>
+      <br />
+      <a href="https://github.com/u-u-z">Remi_IO</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Enter-tainer">
         <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
       </a>
       <br />
       <a href="https://github.com/Enter-tainer">mgt</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Xeonacid">
-        <img src="https://avatars2.githubusercontent.com/u/13995937" width="100px;" alt="Xeonacid"/>
-      </a>
-      <br />
-      <a href="https://github.com/Xeonacid">Xeonacid</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/abc1763613206">
-        <img src="https://avatars2.githubusercontent.com/u/30773956" width="100px;" alt="abc1763613206"/>
-      </a>
-      <br />
-      <a href="https://github.com/abc1763613206">abc1763613206</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/billchenchina">
-        <img src="https://avatars2.githubusercontent.com/u/7758042" width="100px;" alt="billchenchina"/>
-      </a>
-      <br />
-      <a href="https://github.com/billchenchina">billchenchina</a>
     </td>
   </tr>
 </table>
