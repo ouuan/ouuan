@@ -280,7 +280,7 @@
 - [BiliOB](https://github.com/Jannchie/BiliOB) - BiliOB观测者是一个观测B站UP主及视频数据变化，并予以分析的Web应用程序。
 - [chaizi](https://github.com/kfcd/chaizi) - 漢語拆字字典
 - [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-- [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+- [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！⭐++
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
 - [shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
