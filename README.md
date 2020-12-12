@@ -15,6 +15,8 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
 #### :sparkles: My followers
 
+Star [ouuan/ouuan](https://github.com/ouuan/ouuan) to update this list.
+
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
