@@ -39,6 +39,7 @@
 
 ## C 
 
+- [ifuse](https://github.com/libimobiledevice/ifuse) - A fuse filesystem to access the contents of iOS devices
 - [earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
@@ -160,9 +161,7 @@
 ## JavaScript 
 
 - [websocket-as-promised](https://github.com/vitalets/websocket-as-promised) - A Promise-based API for WebSockets
-- [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Easily Build Your Vue.js App For Desktop With Electron
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - color quantization lib
@@ -431,8 +430,8 @@
 
 ## Vue 
 
+- [vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper) - The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design
 - [vue-color](https://github.com/xiaokaike/vue-color) - :art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh
-- [vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use powerful data table for vuejs with advanced customizations including sorting, column filtering, pagination, grouping etc
 - [awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
 - [EtherOJ](https://github.com/EtherOJ/EtherOJ) - A GitHub-Based Open Source and free Online Judge.
