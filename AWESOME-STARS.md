@@ -332,7 +332,7 @@
 - [aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
 - [testfmt5](https://github.com/kc97ble/testfmt5) - 
 - [thedamn](https://github.com/zyf722/thedamn) - Windows CMD implementation of "The Fuck" (https://github.com/nvbn/thefuck)
-- [AIDungeon](https://github.com/AIDungeon/AIDungeon) - Infinite adventures await!
+- [AIDungeon](https://github.com/latitudegames/AIDungeon) - Infinite adventures await!
 - [Mathics](https://github.com/mathics/Mathics) - A general-purpose computer algebra system.
 - [hexo2hugo](https://github.com/wd/hexo2hugo) - Tools help you to migrate hexo files to hugo
 - [dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
