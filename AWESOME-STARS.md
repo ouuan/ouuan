@@ -397,7 +397,7 @@
 
 ## TypeScript 
 
-- [anichart.js](https://github.com/Jannchie/anichart.js) - 轻松制作数据可视化动画视频
+- [anichart.js](https://github.com/Jannchie/anichart.js) - Easily create data visualization animation videos
 - [vscode-cpp-helper](https://github.com/amir9480/vscode-cpp-helper) - vscode extension to create implementation for c++ function prototypes.
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
