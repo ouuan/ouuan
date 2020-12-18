@@ -107,18 +107,18 @@ Star [ouuan/ouuan](https://github.com/ouuan/ouuan) to update this list.
       <a href="https://github.com/HoshinoTented">Hoshino Tented</a>
     </td>
     <td align="center">
-      <a href="https://github.com/u-u-z">
-        <img src="https://avatars2.githubusercontent.com/u/11187239" width="100px;" alt="u-u-z"/>
-      </a>
-      <br />
-      <a href="https://github.com/u-u-z">Remi_IO</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Enter-tainer">
         <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
       </a>
       <br />
       <a href="https://github.com/Enter-tainer">mgt</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/u-u-z">
+        <img src="https://avatars2.githubusercontent.com/u/11187239" width="100px;" alt="u-u-z"/>
+      </a>
+      <br />
+      <a href="https://github.com/u-u-z">Remi_IO</a>
     </td>
   </tr>
 </table>
