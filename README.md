@@ -130,11 +130,7 @@ Star [ouuan/ouuan](https://github.com/ouuan/ouuan) to update this list.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 20 mins   ███████████▒░░░░░░░░░░░░░   45.29 % 
-JSON         2 hrs 19 mins   ████████░░░░░░░░░░░░░░░░░   31.62 % 
-YAML         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Bash         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-C++          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
