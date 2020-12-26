@@ -130,7 +130,8 @@ Star [ouuan/ouuan](https://github.com/ouuan/ouuan) to update this list.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   12 mins         █████████████▓░░░░░░░░░░░   54.42 % 
+Python     10 mins         ███████████▒░░░░░░░░░░░░░   45.21 % 
 ```
 <!--END_SECTION:waka-->
 
