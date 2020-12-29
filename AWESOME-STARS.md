@@ -204,7 +204,7 @@
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [regexgen](https://github.com/devongovett/regexgen) - Generate regular expressions that match a set of strings
 - [highlight.js](https://github.com/highlightjs/highlight.js) - Javascript syntax highlighter
-- [ZenOnlineJudge](https://github.com/zzisu/ZenOnlineJudge) - Official version of Zen Online Judge. Have fun!
+- [ZenOnlineJudge](https://github.com/zhangzisu/ZenOnlineJudge) - Official version of Zen Online Judge. Have fun!
 - [nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 - [Hinata-Online-Judge](https://github.com/ouuan/Hinata-Online-Judge) - 一个有很多新增 feature 的 UOJ
 - [hoj](https://github.com/ITcarrot/hoj) - 一个基于UOJ开发的在线评测系统
