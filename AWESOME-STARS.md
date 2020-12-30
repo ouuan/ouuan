@@ -186,7 +186,7 @@
 - [pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [DDatElectron](https://github.com/dd-center/DDatElectron) - DD@Electron
-- [all-contributors-bot](https://github.com/all-contributors/all-contributors-bot) - 🤖 A GitHub bot to automate acknowledging contributors to your open source projects
+- [app](https://github.com/all-contributors/app) - 🤖 A GitHub App to automate acknowledging contributors to your open source projects
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
