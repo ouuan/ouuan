@@ -336,7 +336,7 @@
 - [Mathics](https://github.com/mathics/Mathics) - A general-purpose computer algebra system.
 - [hexo2hugo](https://github.com/wd/hexo2hugo) - Tools help you to migrate hexo files to hugo
 - [dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
-- [LuoguPaintBoard](https://github.com/ouuan/LuoguPaintBoard) - 洛谷冬日绘板脚本
+- [LuoguPaintBoard](https://github.com/ouuan/LuoguPaintBoard) - 洛谷冬日绘板脚本（已停止维护）
 - [TGBullshitGeneratorBot](https://github.com/abc1763613206/TGBullshitGeneratorBot) - "狗屁不通文章生成器" (https://github.com/menzi11/BullshitGenerator) 的 Telegram Bot 移植版
 - [diff-match-patch](https://github.com/google/diff-match-patch) - Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 - [talking-head-anime-demo](https://github.com/pkhungurn/talking-head-anime-demo) - Demo for the "Talking Head Anime from a Single Image."
