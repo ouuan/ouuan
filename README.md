@@ -130,11 +130,11 @@ Star [ouuan/ouuan](https://github.com/ouuan/ouuan) to update this list.
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     51 mins         ███████▓░░░░░░░░░░░░░░░░░   30.49 % 
-C++          36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.82 % 
-HTML         29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.26 % 
-JavaScript   22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Python       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Markdown     1 hr 16 mins    █████████▒░░░░░░░░░░░░░░░   36.95 % 
+C++          36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.83 % 
+HTML         29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+JavaScript   22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Python       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 ```
 <!--END_SECTION:waka-->
 
