@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [liche](https://github.com/raviqqe/liche) - Fast Link Checker for Markdown and HTML in Go
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
@@ -189,7 +190,6 @@
 - [app](https://github.com/all-contributors/app) - 🤖 A GitHub App to automate acknowledging contributors to your open source projects
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
-- [github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
