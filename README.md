@@ -93,18 +93,18 @@ Star [ouuan/ouuan](https://github.com/ouuan/ouuan) to update this list.
       <a href="https://github.com/shincurry">ココロ</a>
     </td>
     <td align="center">
-      <a href="https://github.com/EndlessCheng">
-        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
-      </a>
-      <br />
-      <a href="https://github.com/EndlessCheng">EndlessCheng</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/guofei9987">
         <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
       </a>
       <br />
       <a href="https://github.com/guofei9987">郭飞</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/EndlessCheng">
+        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
+      </a>
+      <br />
+      <a href="https://github.com/EndlessCheng">EndlessCheng</a>
     </td>
     <td align="center">
       <a href="https://github.com/HoshinoTented">
