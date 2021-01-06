@@ -404,7 +404,7 @@
 - [repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
 - [workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event
 - [Cluster-center](https://github.com/dd-center/Cluster-center) - DD@Home, Cluster Manager
-- [create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace.
+- [create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [upload-artifact](https://github.com/actions/upload-artifact) - 
 - [github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
