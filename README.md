@@ -130,10 +130,8 @@ Star [ouuan/ouuan](https://github.com/ouuan/ouuan) to update this list.
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   37 mins         ███████████████▒░░░░░░░░░   61.53 % 
-Python     13 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.79 % 
-JSON       8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Python   5 mins          ████████████████████▓░░░░   83.18 % 
+YAML     1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.82 % 
 ```
 <!--END_SECTION:waka-->
 
