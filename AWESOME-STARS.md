@@ -308,6 +308,7 @@
 
 ## Python 
 
+- [gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 无须人为干预，自动部署 Gitee Pages
 - [ouuan](https://github.com/ouuan/ouuan) - Hey, ouuan here! :wave: | GitHub Actions | Top Followers | WakaTime Stats | Awesome Stars
 - [rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
 - [ssfconv](https://github.com/fkxxyz/ssfconv) - Sogou input method skin file (.ssf file) converter, supports conversion to fcitx or fcitx5 format.
