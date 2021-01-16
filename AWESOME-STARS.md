@@ -379,6 +379,7 @@
 
 ## Shell 
 
+- [kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configration files
 - [kernel-modules-hook](https://github.com/saber-nyan/kernel-modules-hook) - Keeps your Arch Linux fully functional after a kernel upgrade
 - [link-checker](https://github.com/peter-evans/link-checker) - A GitHub action for link checking repository Markdown and HTML files
 - [arch-pkgbuild-builder](https://github.com/2m/arch-pkgbuild-builder) - Arch Linux PKGBUILD GitHub builder action
@@ -399,6 +400,7 @@
 
 ## TypeScript 
 
+- [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [anichart.js](https://github.com/Jannchie/anichart.js) - Easily create data visualization animation videos
 - [vscode-cpp-helper](https://github.com/amir9480/vscode-cpp-helper) - vscode extension to create implementation for c++ function prototypes.
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
