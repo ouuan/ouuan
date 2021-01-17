@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [most-active-github-users-counter](https://github.com/lauripiispanen/most-active-github-users-counter) - CLI tool that queries the GitHub GraphQL API for users and ranks them according to number of contributions
 - [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [liche](https://github.com/raviqqe/liche) - Fast Link Checker for Markdown and HTML in Go
@@ -400,6 +401,8 @@
 
 ## TypeScript 
 
+- [vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
+- [download-release-action](https://github.com/hecrj/download-release-action) - Download the assets of a GitHub release
 - [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [anichart.js](https://github.com/Jannchie/anichart.js) - Easily create data visualization animation videos
 - [vscode-cpp-helper](https://github.com/amir9480/vscode-cpp-helper) - vscode extension to create implementation for c++ function prototypes.
