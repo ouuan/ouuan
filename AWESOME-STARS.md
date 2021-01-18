@@ -261,7 +261,6 @@
 - [advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [wearenotsheep](https://github.com/themotu/wearenotsheep) - Guidance for changing the default branch name for GitHub repositories
 - [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-- [vscode-go-template](https://github.com/jinliming2/vscode-go-template) - Go Template Syntax Highlight Support for VSCode.
 - [clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [learn-git-the-super-hard-way](https://github.com/b1f6c1c4/learn-git-the-super-hard-way) - 不走寻常路的Git教程
 - [master-is-not-evil](https://github.com/ouuan/master-is-not-evil) - We don't master people. We only want to master git.
@@ -407,6 +406,7 @@
 - [anichart.js](https://github.com/Jannchie/anichart.js) - Easily create data visualization animation videos
 - [vscode-cpp-helper](https://github.com/amir9480/vscode-cpp-helper) - vscode extension to create implementation for c++ function prototypes.
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [vscode-go-template](https://github.com/jinliming2/vscode-go-template) - Go Template Syntax Highlight Support for VSCode.
 - [repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
 - [workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event
 - [Cluster-center](https://github.com/dd-center/Cluster-center) - DD@Home, Cluster Manager
