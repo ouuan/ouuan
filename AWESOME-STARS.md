@@ -323,7 +323,7 @@
 - [waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [bilibili-live-recorder](https://github.com/zachMelody/bilibili-live-recorder) - 下载 bilibili 直播 视频流
 - [oj](https://github.com/online-judge-tools/oj) - Tools for various online judges. Downloading sample cases, generating additional test cases, testing your code, and submitting it.
-- [Solvable-Minesweeper](https://github.com/eee555/Solvable-Minesweeper) - 
+- [Solvable-Minesweeper](https://github.com/eee555/Solvable-Minesweeper) - 黑猫扫雷v2.1.5——包含8种模式的无猜扫雷项目
 - [cms](https://github.com/cms-dev/cms) - Contest Management System
 - [AnimationsWithManim](https://github.com/Elteoremadebeethoven/AnimationsWithManim) - Animation course with Manim
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
