@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [QLivePlayer](https://github.com/IsoaSFlus/QLivePlayer) - A cute and useful Live Stream Player with danmaku support.
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [lean](https://github.com/leanprover-community/lean) - Lean Theorem Prover
 - [cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook) - CMake Cookbook recipes.
