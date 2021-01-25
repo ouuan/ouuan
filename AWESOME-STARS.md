@@ -27,6 +27,7 @@
   - [PureScript](#purescript)
   - [Python](#python)
   - [QML](#qml)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
   - [Shell](#shell)
@@ -39,6 +40,7 @@
 
 ## C 
 
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [ifuse](https://github.com/libimobiledevice/ifuse) - A fuse filesystem to access the contents of iOS devices
 - [earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
@@ -309,6 +311,7 @@
 
 ## Python 
 
+- [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 无须人为干预，自动部署 Gitee Pages
 - [ouuan](https://github.com/ouuan/ouuan) - Hey, ouuan here! :wave: | GitHub Actions | Top Followers | WakaTime Stats | Awesome Stars
 - [rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
@@ -367,6 +370,10 @@
 
 - [PlasmaVideoWallpaper](https://github.com/WuSiYu/PlasmaVideoWallpaper) - A KDE Plasma 5 wallpaper plugin which can let you using a video as the wallpaper
 
+## Ruby 
+
+- [gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
+
 ## Rust 
 
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -401,6 +408,7 @@
 
 ## TypeScript 
 
+- [grammarly](https://github.com/znck/grammarly) - Unofficial Grammarly VS Code Extension
 - [vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [download-release-action](https://github.com/hecrj/download-release-action) - Download the assets of a GitHub release
 - [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
