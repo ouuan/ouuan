@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -37,6 +38,10 @@
   - [Vim script](#vim-script)
   - [Vue](#vue)
   - [sed](#sed)
+
+## Batchfile 
+
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 
 ## C 
 
@@ -165,6 +170,7 @@
 
 ## JavaScript 
 
+- [geetest-validator](https://github.com/kuresaru/geetest-validator) - 
 - [websocket-as-promised](https://github.com/vitalets/websocket-as-promised) - A Promise-based API for WebSockets
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
@@ -311,6 +317,7 @@
 
 ## Python 
 
+- [bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 无须人为干预，自动部署 Gitee Pages
 - [ouuan](https://github.com/ouuan/ouuan) - Hey, ouuan here! :wave: | GitHub Actions | Top Followers | WakaTime Stats | Awesome Stars
