@@ -166,7 +166,7 @@
 - [judgels](https://github.com/ia-toki/judgels) - Competitive programming platform
 - [openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [hightail](https://github.com/dj3500/hightail) - 
-- [Pixiv-Illustration-Collection-Backend](https://github.com/OysterQAQ/Pixiv-Illustration-Collection-Backend) - 不只是一个免费 Pixiv 高级会员搜索的站点
+- [Pixiv-Illustration-Collection-Backend](https://github.com/OysterQAQ/Pixiv-Illustration-Collection-Backend) - 
 
 ## JavaScript 
 
