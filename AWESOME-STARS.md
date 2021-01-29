@@ -415,6 +415,7 @@
 
 ## TypeScript 
 
+- [clash-dashboard](https://github.com/Dreamacro/clash-dashboard) - web port of clash
 - [grammarly](https://github.com/znck/grammarly) - Unofficial Grammarly VS Code Extension
 - [vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [download-release-action](https://github.com/hecrj/download-release-action) - Download the assets of a GitHub release
