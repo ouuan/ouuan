@@ -1,3 +1,25 @@
+<!--
+
+Thank you if you like this README!
+
+BUT, please DO NOT copy this and create your README based on it.
+
+You can use it as a reference, and copy a part of it, but DO NOT copy this and create your README based on it.
+
+It is very common that you forget to change some information and leave mine in your README. This has happened too many times.
+
+And, this README is auto-updated by GitHub Actions, you can read [the official documentation](https://docs.github.com/actions) to learn about it.
+
+Only when you know what you are copying should you paste it. So, again, please DO NOT copy this and create your README based on it.
+
+What's more, you can find other awesome profile READMEs in https://github.com/abhisheknaiidu/awesome-github-profile-readme. There could be one that fits you better than this README.
+
+Wish you a good-looking README!
+
+                            —— ouuan (https://github.com/ouuan)
+
+-->
+
 ## Hey, ouuan here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/ouuan)
 
 <img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&show_icons=true">
