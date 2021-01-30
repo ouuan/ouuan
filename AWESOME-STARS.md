@@ -45,6 +45,7 @@
 
 ## C 
 
+- [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [ifuse](https://github.com/libimobiledevice/ifuse) - A fuse filesystem to access the contents of iOS devices
 - [earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
