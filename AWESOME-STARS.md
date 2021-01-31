@@ -123,6 +123,7 @@
 
 ## Go 
 
+- [htmltest](https://github.com/wjdp/htmltest) - :white_check_mark: Test generated HTML for problems
 - [most-active-github-users-counter](https://github.com/lauripiispanen/most-active-github-users-counter) - CLI tool that queries the GitHub GraphQL API for users and ranks them according to number of contributions
 - [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -216,7 +217,6 @@
 - [regexgen](https://github.com/devongovett/regexgen) - Generate regular expressions that match a set of strings
 - [highlight.js](https://github.com/highlightjs/highlight.js) - Javascript syntax highlighter
 - [ZenOnlineJudge](https://github.com/zhangzisu/ZenOnlineJudge) - Official version of Zen Online Judge. Have fun!
-- [nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 - [Hinata-Online-Judge](https://github.com/ouuan/Hinata-Online-Judge) - 一个有很多新增 feature 的 UOJ
 - [hoj](https://github.com/ITcarrot/hoj) - 一个基于UOJ开发的在线评测系统
 - [old-textcomplete](https://github.com/yuku/old-textcomplete) - Moved to yuku/textcomplete
@@ -267,6 +267,7 @@
 
 ## Others 
 
+- [winlibs_mingw](https://github.com/brechtsanders/winlibs_mingw) - winlibs standalone build of GCC compiler and MinGW-w64
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [wearenotsheep](https://github.com/themotu/wearenotsheep) - Guidance for changing the default branch name for GitHub repositories
@@ -318,7 +319,6 @@
 
 ## Python 
 
-- [linkchecker](https://github.com/linkchecker/linkchecker) - check links in web documents or full websites
 - [bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 无须人为干预，自动部署 Gitee Pages
@@ -396,6 +396,7 @@
 
 ## Shell 
 
+- [htmltest-action](https://github.com/wjdp/htmltest-action) - :white_check_mark::octocat: Run htmltest as part of your GitHub Actions workflow
 - [kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configration files
 - [kernel-modules-hook](https://github.com/saber-nyan/kernel-modules-hook) - Keeps your Arch Linux fully functional after a kernel upgrade
 - [link-checker](https://github.com/peter-evans/link-checker) - A GitHub action for link checking repository Markdown and HTML files
