@@ -160,6 +160,10 @@ C++        1 hr 41 mins    ██▒░░░░░░░░░░░░░░�
 
 ---
 
-#### :star2: Awesome stars
+#### :star2: Projects starred by me
 
 [My Awesome Stars](AWESOME-STARS.md)
+
+#### :wrench: VS Code extensions I'm using
+
+[My VS Code Extensions](MY-VSCODE-EXTENSIONS.md)
