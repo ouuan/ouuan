@@ -172,6 +172,7 @@
 
 ## JavaScript 
 
+- [my-vscode-extensions](https://github.com/ouuan/my-vscode-extensions) - List your installed VS Code extensions in a Markdown file :sunglasses:
 - [geetest-validator](https://github.com/kuresaru/geetest-validator) - 
 - [websocket-as-promised](https://github.com/vitalets/websocket-as-promised) - A Promise-based API for WebSockets
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
