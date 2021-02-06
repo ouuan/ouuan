@@ -123,6 +123,7 @@
 
 ## Go 
 
+- [cpt](https://github.com/cp-tools/cpt) - An amazing versatile CLI tool for competitive programming!
 - [htmltest](https://github.com/wjdp/htmltest) - :white_check_mark: Test generated HTML for problems
 - [most-active-github-users-counter](https://github.com/lauripiispanen/most-active-github-users-counter) - CLI tool that queries the GitHub GraphQL API for users and ranks them according to number of contributions
 - [gdu](https://github.com/dundee/gdu) - Disk usage analyzer with console interface written in Go
@@ -172,6 +173,7 @@
 
 ## JavaScript 
 
+- [vscode-ext-color-highlight](https://github.com/egonyans/vscode-ext-color-highlight) - Extension adds colored border around css/web colors in the editor
 - [my-vscode-extensions](https://github.com/ouuan/my-vscode-extensions) - List your installed VS Code extensions in a Markdown file :sunglasses:
 - [geetest-validator](https://github.com/kuresaru/geetest-validator) - 
 - [websocket-as-promised](https://github.com/vitalets/websocket-as-promised) - A Promise-based API for WebSockets
