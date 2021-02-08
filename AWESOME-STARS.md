@@ -173,6 +173,8 @@
 
 ## JavaScript 
 
+- [tst-more-tree-commands](https://github.com/piroor/tst-more-tree-commands) - Provides extra tree manipulation commands for Tree Style Tab.
+- [treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [vscode-ext-color-highlight](https://github.com/egonyans/vscode-ext-color-highlight) - Extension adds colored border around css/web colors in the editor
 - [my-vscode-extensions](https://github.com/ouuan/my-vscode-extensions) - List your installed VS Code extensions in a Markdown file :sunglasses:
 - [geetest-validator](https://github.com/kuresaru/geetest-validator) - 
@@ -297,7 +299,7 @@
 - [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！⭐++
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
+- [ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下Shadowsocks的前世今生，以及一个简单的教程总结
 - [shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 - [extend-chen_zhe-voice](https://github.com/QuadnucYard/extend-chen_zhe-voice) - chen_zhe音源扩展版
 - [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
@@ -322,6 +324,8 @@
 
 ## Python 
 
+- [repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
+- [codeforces_live_bot](https://github.com/TobxD/codeforces_live_bot) - 
 - [bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 无须人为干预，自动部署 Gitee Pages
@@ -421,6 +425,7 @@
 
 ## TypeScript 
 
+- [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [clash-dashboard](https://github.com/Dreamacro/clash-dashboard) - web port of clash
 - [grammarly](https://github.com/znck/grammarly) - Unofficial Grammarly VS Code Extension
 - [vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
