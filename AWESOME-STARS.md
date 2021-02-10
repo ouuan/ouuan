@@ -34,7 +34,6 @@
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
   - [TypeScript](#typescript)
-  - [V](#v)
   - [Vim script](#vim-script)
   - [Vue](#vue)
   - [sed](#sed)
@@ -173,6 +172,10 @@
 
 ## JavaScript 
 
+- [greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
+- [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
+- [tg-sticker-convert-bot](https://github.com/mkg20001/tg-sticker-convert-bot) - Converts Telegram Photos / Documents into the required 512 .PNG format
+- [codeblue](https://github.com/blueedgetechno/codeblue) - An Atom package to test and submit solutions during codeforces contests.
 - [tst-more-tree-commands](https://github.com/piroor/tst-more-tree-commands) - Provides extra tree manipulation commands for Tree Style Tab.
 - [treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [vscode-ext-color-highlight](https://github.com/egonyans/vscode-ext-color-highlight) - Extension adds colored border around css/web colors in the editor
@@ -272,6 +275,7 @@
 
 ## Others 
 
+- [phyphox-experiments](https://github.com/Staacks/phyphox-experiments) - Physical Phone Experiments (in-app experiment collection)
 - [winlibs_mingw](https://github.com/brechtsanders/winlibs_mingw) - winlibs standalone build of GCC compiler and MinGW-w64
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
@@ -324,6 +328,7 @@
 
 ## Python 
 
+- [OnlineJudgeHelper](https://github.com/nodchip/OnlineJudgeHelper) - A scriprt to improve  the usability of online judges
 - [repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [codeforces_live_bot](https://github.com/TobxD/codeforces_live_bot) - 
 - [bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
@@ -392,6 +397,7 @@
 
 ## Rust 
 
+- [paru](https://github.com/Morganamilo/paru) - AUR helper based on yay
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -454,10 +460,6 @@
 - [luoguPaintAutomatonTS](https://github.com/Enter-tainer/luoguPaintAutomatonTS) - luogu冬日画板自动绘图脚本支持多用户，维护
 - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
 - [utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-
-## V 
-
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 ## Vim script 
 
