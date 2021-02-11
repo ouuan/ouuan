@@ -38,7 +38,7 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 -   :pencil2: Arch Linux / KDE / yakuake / Oh My Zsh / VS Code
 -   :seedling: Preparing for [Gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination)
 -   :man: Pronouns: he/him
--   :key: GPG key: `863A0F9FA8127FA4`
+-   :key: GPG key: [`863A0F9FA8127FA4`](ouuan-gpg-pub.asc)
 
 ---
 
