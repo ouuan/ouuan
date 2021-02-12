@@ -44,6 +44,9 @@
 
 ## C 
 
+- [i3](https://github.com/i3/i3) - A tiling window manager
+- [rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
+- [i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [ifuse](https://github.com/libimobiledevice/ifuse) - A fuse filesystem to access the contents of iOS devices
@@ -175,7 +178,6 @@
 - [greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
 - [tg-sticker-convert-bot](https://github.com/mkg20001/tg-sticker-convert-bot) - Converts Telegram Photos / Documents into the required 512 .PNG format
-- [codeblue](https://github.com/blueedgetechno/codeblue) - An Atom package to test and submit solutions during codeforces contests.
 - [tst-more-tree-commands](https://github.com/piroor/tst-more-tree-commands) - Provides extra tree manipulation commands for Tree Style Tab.
 - [treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [vscode-ext-color-highlight](https://github.com/egonyans/vscode-ext-color-highlight) - Extension adds colored border around css/web colors in the editor
@@ -409,6 +411,7 @@
 
 ## Shell 
 
+- [clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [htmltest-action](https://github.com/wjdp/htmltest-action) - :white_check_mark::octocat: Run htmltest as part of your GitHub Actions workflow
 - [kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configration files
 - [kernel-modules-hook](https://github.com/saber-nyan/kernel-modules-hook) - Keeps your Arch Linux fully functional after a kernel upgrade
