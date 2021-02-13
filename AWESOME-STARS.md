@@ -175,6 +175,7 @@
 
 ## JavaScript 
 
+- [github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
 - [tg-sticker-convert-bot](https://github.com/mkg20001/tg-sticker-convert-bot) - Converts Telegram Photos / Documents into the required 512 .PNG format
