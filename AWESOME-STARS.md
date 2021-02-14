@@ -278,6 +278,7 @@
 
 ## Others 
 
+- [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。
 - [phyphox-experiments](https://github.com/Staacks/phyphox-experiments) - Physical Phone Experiments (in-app experiment collection)
 - [winlibs_mingw](https://github.com/brechtsanders/winlibs_mingw) - winlibs standalone build of GCC compiler and MinGW-w64
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
@@ -331,6 +332,7 @@
 
 ## Python 
 
+- [users-noreply-github-com](https://github.com/ouuan/users-noreply-github-com) - Get the @users.noreply.github.com email of a GitHub user.
 - [OnlineJudgeHelper](https://github.com/nodchip/OnlineJudgeHelper) - A scriprt to improve  the usability of online judges
 - [repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [codeforces_live_bot](https://github.com/TobxD/codeforces_live_bot) - 
@@ -400,7 +402,7 @@
 
 ## Rust 
 
-- [paru](https://github.com/Morganamilo/paru) - AUR helper based on yay
+- [paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
