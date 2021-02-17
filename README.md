@@ -148,6 +148,57 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/HoshinoTented">Hoshino Tented</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/district10">
+        <img src="https://avatars2.githubusercontent.com/u/5262037" width="100px;" alt="district10"/>
+      </a>
+      <br />
+      <a href="https://github.com/district10">TANG ZhiXiong</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Enter-tainer">
+        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
+      </a>
+      <br />
+      <a href="https://github.com/Enter-tainer">mgt</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Xeonacid">
+        <img src="https://avatars2.githubusercontent.com/u/13995937" width="100px;" alt="Xeonacid"/>
+      </a>
+      <br />
+      <a href="https://github.com/Xeonacid">Xeonacid</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/u-u-z">
+        <img src="https://avatars2.githubusercontent.com/u/11187239" width="100px;" alt="u-u-z"/>
+      </a>
+      <br />
+      <a href="https://github.com/u-u-z">Remi_IO</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lucifer1004">
+        <img src="https://avatars2.githubusercontent.com/u/13583761" width="100px;" alt="lucifer1004"/>
+      </a>
+      <br />
+      <a href="https://github.com/lucifer1004">Zihua Wu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/billchenchina">
+        <img src="https://avatars2.githubusercontent.com/u/7758042" width="100px;" alt="billchenchina"/>
+      </a>
+      <br />
+      <a href="https://github.com/billchenchina">billchenchina</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/goh-chunlin">
+        <img src="https://avatars2.githubusercontent.com/u/8535306" width="100px;" alt="goh-chunlin"/>
+      </a>
+      <br />
+      <a href="https://github.com/goh-chunlin">Goh Chun Lin</a>
+    </td>
+  </tr>
 </table>
 <!--END_SECTION:top-followers-->
 
