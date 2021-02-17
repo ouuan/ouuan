@@ -1,9 +1,6 @@
 name: WakaTime Readme
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron: '0 19 * * *'
   workflow_dispatch:
