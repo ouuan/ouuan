@@ -69,6 +69,20 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/Ir1d">Ir1dXD</a>
     </td>
     <td align="center">
+      <a href="https://github.com/TatevKaren">
+        <img src="https://avatars2.githubusercontent.com/u/76843403" width="100px;" alt="TatevKaren"/>
+      </a>
+      <br />
+      <a href="https://github.com/TatevKaren">Tatev_Karen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gdut-yy">
+        <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
+      </a>
+      <br />
+      <a href="https://github.com/gdut-yy">张逸扬</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/tengge1">
         <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
       </a>
@@ -82,6 +96,8 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <br />
       <a href="https://github.com/xtlsoft">Tianle Xu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/thanhtoan1196">
         <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
@@ -96,8 +112,6 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <br />
       <a href="https://github.com/memset0">memset0</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/2014CAIS01">
         <img src="https://avatars2.githubusercontent.com/u/22931465" width="100px;" alt="2014CAIS01"/>
@@ -127,6 +141,15 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/Garfield550">Garfield Lee</a>
     </td>
     <td align="center">
+      <a href="https://github.com/rememberber">
+        <img src="https://avatars2.githubusercontent.com/u/4653893" width="100px;" alt="rememberber"/>
+      </a>
+      <br />
+      <a href="https://github.com/rememberber">周波</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/ChungZH">
         <img src="https://avatars2.githubusercontent.com/u/42088872" width="100px;" alt="ChungZH"/>
       </a>
@@ -147,8 +170,6 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <br />
       <a href="https://github.com/shincurry">ココロ</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/EndlessCheng">
         <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
@@ -164,13 +185,6 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/HoshinoTented">Hoshino Tented</a>
     </td>
     <td align="center">
-      <a href="https://github.com/district10">
-        <img src="https://avatars2.githubusercontent.com/u/5262037" width="100px;" alt="district10"/>
-      </a>
-      <br />
-      <a href="https://github.com/district10">TANG ZhiXiong</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Enter-tainer">
         <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
       </a>
@@ -178,25 +192,11 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/Enter-tainer">mgt</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Xeonacid">
-        <img src="https://avatars2.githubusercontent.com/u/13995937" width="100px;" alt="Xeonacid"/>
+      <a href="https://github.com/district10">
+        <img src="https://avatars2.githubusercontent.com/u/5262037" width="100px;" alt="district10"/>
       </a>
       <br />
-      <a href="https://github.com/Xeonacid">Xeonacid</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/u-u-z">
-        <img src="https://avatars2.githubusercontent.com/u/11187239" width="100px;" alt="u-u-z"/>
-      </a>
-      <br />
-      <a href="https://github.com/u-u-z">Remi_IO</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lucifer1004">
-        <img src="https://avatars2.githubusercontent.com/u/13583761" width="100px;" alt="lucifer1004"/>
-      </a>
-      <br />
-      <a href="https://github.com/lucifer1004">Zihua Wu</a>
+      <a href="https://github.com/district10">TANG ZhiXiong</a>
     </td>
   </tr>
 </table>
