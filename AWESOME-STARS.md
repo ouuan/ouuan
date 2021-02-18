@@ -70,6 +70,7 @@
 
 ## C++ 
 
+- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [QLivePlayer](https://github.com/IsoaSFlus/QLivePlayer) - A cute and useful Live Stream Player with danmaku support.
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
