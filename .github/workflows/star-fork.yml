@@ -1,0 +1,21 @@
+name: This repo has x stars y forks
+
+on:
+  push:
+    branches:
+      - master
+  fork:
+  watch:
+    types:
+      - started
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: This repo has x stars y forks
+        uses: ouuan/This-repo-has-x-stars-y-forks-action@v1
+        with:
+          token: ${{ secrets.STAR_FORK_TOKEN }}
+          template: "My awesome GitHub profile README with <star> stars and <fork> forks."
