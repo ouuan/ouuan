@@ -17,7 +17,7 @@ jobs:
           python-version: 3.8
       - run: pip install starred
       - name: Update star list
-        run: starred --username ouuan --sort --token ${{ secrets.GITHUB_TOKEN }} > AWESOME-STARS.md
+        run: starred --username ${{ github.repository_owner }} --sort --token ${{ secrets.GITHUB_TOKEN }} > AWESOME-STARS.md
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
