@@ -177,8 +177,8 @@
 
 ## JavaScript 
 
-- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 3 stars 0 fork.
-- [This-Repo-Has-514-Stars](https://github.com/RealPeha/This-Repo-Has-514-Stars) - Yes, it's true
+- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 19 stars 4 forks.
+- [This-Repo-Has-747-Stars](https://github.com/RealPeha/This-Repo-Has-747-Stars) - Yes, it's true
 - [github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
@@ -282,7 +282,7 @@
 
 ## Others 
 
-- [this-repo-has-2-stars-0-fork](https://github.com/ouuan/this-repo-has-2-stars-0-fork) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 2 stars 0 fork.
+- [this-repo-has-7-stars-2-forks](https://github.com/ouuan/this-repo-has-7-stars-2-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 7 stars 2 forks.
 - [phyphox-experiments](https://github.com/Staacks/phyphox-experiments) - Physical Phone Experiments (in-app experiment collection)
 - [winlibs_mingw](https://github.com/brechtsanders/winlibs_mingw) - winlibs standalone build of GCC compiler and MinGW-w64
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
@@ -343,7 +343,7 @@
 - [bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 无须人为干预，自动部署 Gitee Pages
-- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 25 stars and 51 forks.
+- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 27 stars and 54 forks.
 - [rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
 - [ssfconv](https://github.com/fkxxyz/ssfconv) - Sogou input method skin file (.ssf file) converter, supports conversion to fcitx or fcitx5 format.
 - [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
