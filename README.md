@@ -192,11 +192,11 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/EndlessCheng">EndlessCheng</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HoshinoTented">
-        <img src="https://avatars2.githubusercontent.com/u/25280943" width="100px;" alt="HoshinoTented"/>
+      <a href="https://github.com/Enter-tainer">
+        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
       </a>
       <br />
-      <a href="https://github.com/HoshinoTented">Hoshino Tented</a>
+      <a href="https://github.com/Enter-tainer">mgt</a>
     </td>
   </tr>
 </table>
