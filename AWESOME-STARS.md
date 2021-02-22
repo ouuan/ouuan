@@ -177,8 +177,8 @@
 
 ## JavaScript 
 
-- [This-Repo-Has-981-Stars](https://github.com/RealPeha/This-Repo-Has-981-Stars) - Yes, it's true
-- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 29 stars 6 forks.
+- [This-Repo-Has-1176-Stars](https://github.com/RealPeha/This-Repo-Has-1176-Stars) - Yes, it's true :orange_heart:
+- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 32 stars 6 forks.
 - [github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
@@ -282,7 +282,7 @@
 
 ## Others 
 
-- [this-repo-has-12-stars-3-forks](https://github.com/ouuan/this-repo-has-12-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 12 stars 3 forks.
+- [this-repo-has-14-stars-3-forks](https://github.com/ouuan/this-repo-has-14-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 14 stars 3 forks.
 - [phyphox-experiments](https://github.com/Staacks/phyphox-experiments) - Physical Phone Experiments (in-app experiment collection)
 - [winlibs_mingw](https://github.com/brechtsanders/winlibs_mingw) - winlibs standalone build of GCC compiler and MinGW-w64
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
@@ -304,7 +304,7 @@
 - [OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [bilibili-vtuber-danmaku](https://github.com/dd-center/bilibili-vtuber-danmaku) - Vtuber直播间的弹幕哟~
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
-- [Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 他妈的我终于能用谷歌搜中文了
+- [Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [omuse-zsh-theme](https://github.com/ouuan/omuse-zsh-theme) - A zsh theme based on amuse
 - [BiliOB](https://github.com/Jannchie/BiliOB) - BiliOB观测者是一个观测B站UP主及视频数据变化，并予以分析的Web应用程序。
 - [chaizi](https://github.com/kfcd/chaizi) - 漢語拆字字典
@@ -344,7 +344,7 @@
 - [bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages | 无须人为干预，自动部署 Gitee Pages
-- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 29 stars and 57 forks.
+- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 30 stars and 58 forks.
 - [rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
 - [ssfconv](https://github.com/fkxxyz/ssfconv) - Sogou input method skin file (.ssf file) converter, supports conversion to fcitx or fcitx5 format.
 - [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
