@@ -177,8 +177,8 @@
 
 ## JavaScript 
 
-- [This-Repo-Has-1176-Stars](https://github.com/RealPeha/This-Repo-Has-1176-Stars) - Yes, it's true :orange_heart:
-- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 32 stars 6 forks.
+- [This-Repo-Has-1303-Stars](https://github.com/RealPeha/This-Repo-Has-1303-Stars) - Yes, it's true :orange_heart:
+- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 34 stars 6 forks.
 - [github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
@@ -344,7 +344,7 @@
 - [bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages | 无须人为干预，自动部署 Gitee Pages
-- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 30 stars and 58 forks.
+- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 31 stars and 57 forks.
 - [rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
 - [ssfconv](https://github.com/fkxxyz/ssfconv) - Sogou input method skin file (.ssf file) converter, supports conversion to fcitx or fcitx5 format.
 - [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
@@ -407,6 +407,7 @@
 
 ## Rust 
 
+- [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
