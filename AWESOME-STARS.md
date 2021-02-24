@@ -177,8 +177,8 @@
 
 ## JavaScript 
 
-- [This-Repo-Has-1303-Stars](https://github.com/RealPeha/This-Repo-Has-1303-Stars) - Yes, it's true :orange_heart:
-- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 34 stars 6 forks.
+- [This-Repo-Has-1403-Stars](https://github.com/RealPeha/This-Repo-Has-1403-Stars) - Yes, it's true :orange_heart:
+- [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
 - [github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
@@ -282,7 +282,7 @@
 
 ## Others 
 
-- [this-repo-has-14-stars-3-forks](https://github.com/ouuan/this-repo-has-14-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 14 stars 3 forks.
+- [this-repo-has-15-stars-3-forks](https://github.com/ouuan/this-repo-has-15-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 15 stars 3 forks.
 - [phyphox-experiments](https://github.com/Staacks/phyphox-experiments) - Physical Phone Experiments (in-app experiment collection)
 - [winlibs_mingw](https://github.com/brechtsanders/winlibs_mingw) - winlibs standalone build of GCC compiler and MinGW-w64
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
