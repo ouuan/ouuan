@@ -158,7 +158,6 @@
 - [OI-transit](https://github.com/yhx-12243/OI-transit) - OI transit
 - [MajsoulPaipuAnalyzer](https://github.com/zyr17/MajsoulPaipuAnalyzer) - 雀魂牌谱分析工具
 - [magolor.github.io](https://github.com/Magolor/magolor.github.io) - Magolor's Blog:
-- [BZOJ-Local-Judge](https://github.com/ouuan/BZOJ-Local-Judge) - 为 OIer 提供一个完整、便捷的 BZOJ 离线题库使用平台。
 - [BZPRO](https://github.com/remmina/BZPRO) - BZOJ离线题库 附赠爬虫一枚
 - [bzojch](https://github.com/Ruanxingzhi/bzojch) - BZOJ离线题库
 - [OIer](https://github.com/nocrizwang/OIer) - A database for OIers
@@ -177,7 +176,8 @@
 
 ## JavaScript 
 
-- [This-Repo-Has-1403-Stars](https://github.com/RealPeha/This-Repo-Has-1403-Stars) - Yes, it's true :orange_heart:
+- [git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
+- [This-Repo-Has-1453-Stars](https://github.com/RealPeha/This-Repo-Has-1453-Stars) - Yes, it's true :orange_heart:
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
 - [github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
@@ -237,7 +237,7 @@
 - [old-textcomplete](https://github.com/yuku/old-textcomplete) - Moved to yuku/textcomplete
 - [emojionearea](https://github.com/mervick/emojionearea) - Emoji Picker Plugin for jQuery
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization to challenge and educate!
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [jnoj](https://github.com/shi-yang/jnoj) - Jiangnan Online Judge
 - [MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合
 - [Luogu-Problem-Jumper](https://github.com/Anguei/Luogu-Problem-Jumper) - 在洛谷任意位置双击题号，自动跳转
@@ -282,7 +282,7 @@
 
 ## Others 
 
-- [this-repo-has-15-stars-3-forks](https://github.com/ouuan/this-repo-has-15-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 15 stars 3 forks.
+- [this-repo-has-17-stars-3-forks](https://github.com/ouuan/this-repo-has-17-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 17 stars 3 forks.
 - [phyphox-experiments](https://github.com/Staacks/phyphox-experiments) - Physical Phone Experiments (in-app experiment collection)
 - [winlibs_mingw](https://github.com/brechtsanders/winlibs_mingw) - winlibs standalone build of GCC compiler and MinGW-w64
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
@@ -344,7 +344,7 @@
 - [bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages | 无须人为干预，自动部署 Gitee Pages
-- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 31 stars and 57 forks.
+- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 31 stars and 58 forks.
 - [rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
 - [ssfconv](https://github.com/fkxxyz/ssfconv) - Sogou input method skin file (.ssf file) converter, supports conversion to fcitx or fcitx5 format.
 - [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
