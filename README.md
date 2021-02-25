@@ -164,18 +164,18 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/ChungZH">Flex Zhong</a>
     </td>
     <td align="center">
-      <a href="https://github.com/guofei9987">
-        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
-      </a>
-      <br />
-      <a href="https://github.com/guofei9987">郭飞</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/iBug">
         <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
       </a>
       <br />
       <a href="https://github.com/iBug">iBug</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/guofei9987">
+        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
+      </a>
+      <br />
+      <a href="https://github.com/guofei9987">郭飞</a>
     </td>
     <td align="center">
       <a href="https://github.com/shincurry">
