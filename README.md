@@ -192,11 +192,11 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/EndlessCheng">EndlessCheng</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Enter-tainer">
-        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
+      <a href="https://github.com/PranamBhat">
+        <img src="https://avatars2.githubusercontent.com/u/32120033" width="100px;" alt="PranamBhat"/>
       </a>
       <br />
-      <a href="https://github.com/Enter-tainer">mgt</a>
+      <a href="https://github.com/PranamBhat">Pranam K</a>
     </td>
   </tr>
 </table>
