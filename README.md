@@ -150,13 +150,6 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/rememberber">
-        <img src="https://avatars2.githubusercontent.com/u/4653893" width="100px;" alt="rememberber"/>
-      </a>
-      <br />
-      <a href="https://github.com/rememberber">周波</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ChungZH">
         <img src="https://avatars2.githubusercontent.com/u/42088872" width="100px;" alt="ChungZH"/>
       </a>
@@ -164,11 +157,11 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/ChungZH">Flex Zhong</a>
     </td>
     <td align="center">
-      <a href="https://github.com/iBug">
-        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
+      <a href="https://github.com/rememberber">
+        <img src="https://avatars2.githubusercontent.com/u/4653893" width="100px;" alt="rememberber"/>
       </a>
       <br />
-      <a href="https://github.com/iBug">iBug</a>
+      <a href="https://github.com/rememberber">周波</a>
     </td>
     <td align="center">
       <a href="https://github.com/guofei9987">
@@ -176,6 +169,13 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       </a>
       <br />
       <a href="https://github.com/guofei9987">郭飞</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/iBug">
+        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
+      </a>
+      <br />
+      <a href="https://github.com/iBug">iBug</a>
     </td>
     <td align="center">
       <a href="https://github.com/shincurry">
