@@ -177,7 +177,7 @@
 ## JavaScript 
 
 - [git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [This-Repo-Has-1501-Stars](https://github.com/RealPeha/This-Repo-Has-1501-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1528-Stars](https://github.com/RealPeha/This-Repo-Has-1528-Stars) - Yes, it's true :purple_heart:
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 35 stars 6 forks.
 - [github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
@@ -282,6 +282,7 @@
 
 ## Others 
 
+- [OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [cjktty-patches](https://github.com/zhmars/cjktty-patches) - CJKTTY patches
 - [this-repo-has-18-stars-3-forks](https://github.com/ouuan/this-repo-has-18-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 18 stars 3 forks.
 - [phyphox-experiments](https://github.com/Staacks/phyphox-experiments) - Physical Phone Experiments (in-app experiment collection)
@@ -302,7 +303,6 @@
 - [document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [oiQuotations](https://github.com/iotang/oiQuotations) - Quotations for oi
-- [OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [bilibili-vtuber-danmaku](https://github.com/dd-center/bilibili-vtuber-danmaku) - Vtuber直播间的弹幕哟~
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
