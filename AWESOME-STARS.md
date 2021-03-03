@@ -177,7 +177,7 @@
 ## JavaScript 
 
 - [git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [This-Repo-Has-1564-Stars](https://github.com/RealPeha/This-Repo-Has-1564-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1568-Stars](https://github.com/RealPeha/This-Repo-Has-1568-Stars) - Yes, it's true :purple_heart:
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
 - [github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
@@ -230,7 +230,7 @@
 - [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [regexgen](https://github.com/devongovett/regexgen) - Generate regular expressions that match a set of strings
-- [highlight.js](https://github.com/highlightjs/highlight.js) - Javascript syntax highlighter
+- [highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
 - [ZenOnlineJudge](https://github.com/zhangzisu/ZenOnlineJudge) - Official version of Zen Online Judge. Have fun!
 - [Hinata-Online-Judge](https://github.com/ouuan/Hinata-Online-Judge) - 一个有很多新增 feature 的 UOJ
 - [hoj](https://github.com/ITcarrot/hoj) - 一个基于UOJ开发的在线评测系统
@@ -345,7 +345,7 @@
 - [bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages | 无须人为干预，自动部署 Gitee Pages
-- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 32 stars and 60 forks.
+- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 32 stars and 59 forks.
 - [rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
 - [ssfconv](https://github.com/fkxxyz/ssfconv) - Sogou input method skin file (.ssf file) converter, supports conversion to fcitx or fcitx5 format.
 - [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
