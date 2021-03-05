@@ -62,18 +62,18 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/gaocegege">Ce Gao</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ir1d">
-        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ir1d">Ir1dXD</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/TatevKaren">
         <img src="https://avatars2.githubusercontent.com/u/76843403" width="100px;" alt="TatevKaren"/>
       </a>
       <br />
       <a href="https://github.com/TatevKaren">Tatev_Karen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ir1d">
+        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ir1d">Ir1dXD</a>
     </td>
     <td align="center">
       <a href="https://github.com/gdut-yy">
@@ -157,18 +157,18 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/guofei9987">郭飞</a>
     </td>
     <td align="center">
-      <a href="https://github.com/iBug">
-        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
-      </a>
-      <br />
-      <a href="https://github.com/iBug">iBug</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rememberber">
         <img src="https://avatars2.githubusercontent.com/u/4653893" width="100px;" alt="rememberber"/>
       </a>
       <br />
       <a href="https://github.com/rememberber">周波</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/iBug">
+        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
+      </a>
+      <br />
+      <a href="https://github.com/iBug">iBug</a>
     </td>
     <td align="center">
       <a href="https://github.com/ChungZH">
