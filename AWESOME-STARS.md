@@ -177,7 +177,7 @@
 ## JavaScript 
 
 - [git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [This-Repo-Has-1582-Stars](https://github.com/RealPeha/This-Repo-Has-1582-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1591-Stars](https://github.com/RealPeha/This-Repo-Has-1591-Stars) - Yes, it's true :purple_heart:
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
 - [github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
@@ -327,6 +327,7 @@
 
 ## PHP 
 
+- [astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [YLOJ](https://github.com/YLOJ/YLOJ) - Yali Online Judge
 - [emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
 - [CFRatingColor](https://github.com/hanlin-studio/CFRatingColor) - 利用Shields.io，实现按颜色显示Codeforces的Rating
