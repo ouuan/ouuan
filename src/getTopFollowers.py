@@ -37,7 +37,7 @@ if __name__ == "__main__":
             break
         for follower in page:
             info = requests.get(follower["url"], headers = headers).json()
-            if info["following"] > 5000 and info["public_repos"] < 50:
+            if info["following"] > info["public_repos"] * 100:
                 print(f"Ignored: https://github.com/{info['login']} with {info['followers']} followers and {info['following']} following")
                 continue
             followers.append((info["followers"], info["login"], info["id"], info["name"] if info["name"] else info["login"]))
