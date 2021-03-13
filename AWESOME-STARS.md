@@ -23,6 +23,7 @@
   - [Less](#less)
   - [Lua](#lua)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [Others](#others)
   - [PHP](#php)
   - [PureScript](#purescript)
@@ -177,7 +178,7 @@
 ## JavaScript 
 
 - [git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [This-Repo-Has-1618-Stars](https://github.com/RealPeha/This-Repo-Has-1618-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1622-Stars](https://github.com/RealPeha/This-Repo-Has-1622-Stars) - Yes, it's true :purple_heart:
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
 - [github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
@@ -279,6 +280,10 @@
 ## Makefile 
 
 - [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
+
+## Markdown 
+
+- [document](https://github.com/FastGitORG/document) - 📄 FastGit Document
 
 ## Others 
 
@@ -410,6 +415,7 @@
 
 ## Rust 
 
+- [viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
