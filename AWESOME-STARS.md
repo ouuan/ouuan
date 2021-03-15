@@ -151,7 +151,6 @@
 - [hugo-video](https://github.com/martignoni/hugo-video) - A Hugo theme component to embed videos using HTML video element
 - [zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
 - [all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-- [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [cpeditor.github.io](https://github.com/cpeditor/cpeditor.github.io) - The official website of CP Editor :memo:
 - [emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [yihui](https://github.com/rbind/yihui) - Personal website of Yihui Xie
@@ -178,7 +177,7 @@
 ## JavaScript 
 
 - [git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [This-Repo-Has-1623-Stars](https://github.com/RealPeha/This-Repo-Has-1623-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1624-Stars](https://github.com/RealPeha/This-Repo-Has-1624-Stars) - Yes, it's true :purple_heart:
 - [This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
 - [github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
@@ -216,6 +215,7 @@
 - [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [DDatElectron](https://github.com/dd-center/DDatElectron) - DD@Electron
 - [app](https://github.com/all-contributors/app) - 🤖 A GitHub App to automate acknowledging contributors to your open source projects
+- [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
@@ -351,7 +351,7 @@
 - [bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages | 无须人为干预，自动部署 Gitee Pages
-- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 36 stars and 62 forks.
+- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 36 stars and 63 forks.
 - [rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
 - [ssfconv](https://github.com/fkxxyz/ssfconv) - Sogou input method skin file (.ssf file) converter, supports conversion to fcitx or fcitx5 format.
 - [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
