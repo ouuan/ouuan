@@ -141,20 +141,20 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/guofei9987">郭飞</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Garfield550">
-        <img src="https://avatars2.githubusercontent.com/u/3471836" width="100px;" alt="Garfield550"/>
-      </a>
-      <br />
-      <a href="https://github.com/Garfield550">Garfield Lee</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/iBug">
         <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
       </a>
       <br />
       <a href="https://github.com/iBug">iBug</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Garfield550">
+        <img src="https://avatars2.githubusercontent.com/u/3471836" width="100px;" alt="Garfield550"/>
+      </a>
+      <br />
+      <a href="https://github.com/Garfield550">Garfield Lee</a>
     </td>
     <td align="center">
       <a href="https://github.com/rememberber">
@@ -192,11 +192,11 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/Enter-tainer">mgt</a>
     </td>
     <td align="center">
-      <a href="https://github.com/HoshinoTented">
-        <img src="https://avatars2.githubusercontent.com/u/25280943" width="100px;" alt="HoshinoTented"/>
+      <a href="https://github.com/district10">
+        <img src="https://avatars2.githubusercontent.com/u/5262037" width="100px;" alt="district10"/>
       </a>
       <br />
-      <a href="https://github.com/HoshinoTented">Hoshino Tented</a>
+      <a href="https://github.com/district10">TANG ZhiXiong</a>
     </td>
   </tr>
 </table>
