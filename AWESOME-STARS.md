@@ -289,7 +289,7 @@
 
 - [OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [cjktty-patches](https://github.com/zhmars/cjktty-patches) - CJKTTY patches
-- [this-repo-has-20-stars-3-forks](https://github.com/ouuan/this-repo-has-20-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 20 stars 3 forks.
+- [this-repo-has-21-stars-3-forks](https://github.com/ouuan/this-repo-has-21-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 21 stars 3 forks.
 - [phyphox-experiments](https://github.com/Staacks/phyphox-experiments) - Physical Phone Experiments (in-app experiment collection)
 - [winlibs_mingw](https://github.com/brechtsanders/winlibs_mingw) - winlibs standalone build of GCC compiler and MinGW-w64
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
@@ -351,7 +351,7 @@
 - [bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages | 无须人为干预，自动部署 Gitee Pages
-- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 35 stars and 61 forks.
+- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 35 stars and 62 forks.
 - [rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
 - [ssfconv](https://github.com/fkxxyz/ssfconv) - Sogou input method skin file (.ssf file) converter, supports conversion to fcitx or fcitx5 format.
 - [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
@@ -372,7 +372,7 @@
 - [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
 - [AlphaZero_Gomoku_MPI](https://github.com/initial-h/AlphaZero_Gomoku_MPI) - An asynchronous/parallel method of  AlphaGo Zero algorithm with Gomoku
-- [telegram_pipebot](https://github.com/mcfx0/telegram_pipebot) - Connect other bots as pipes.
+- [telegram_pipebot](https://github.com/mcfx/telegram_pipebot) - Connect other bots as pipes.
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
 - [testfmt5](https://github.com/kc97ble/testfmt5) - 
