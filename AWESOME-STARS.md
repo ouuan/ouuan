@@ -46,7 +46,6 @@
 
 ## C 
 
-- [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
@@ -183,9 +182,9 @@
 
 ## JavaScript 
 
-- [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
+- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [RealPeha/This-Repo-Has-1644-Stars](https://github.com/RealPeha/This-Repo-Has-1644-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1645-Stars](https://github.com/RealPeha/This-Repo-Has-1645-Stars) - Yes, it's true :purple_heart:
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
 - [ouuan/github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [mauriciopoppe/greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
@@ -295,9 +294,7 @@
 
 ## Others 
 
-- [loonggg/DevMoneySharing](https://github.com/loonggg/DevMoneySharing) - 独立开发者赚钱经验分享
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
-- [zhmars/cjktty-patches](https://github.com/zhmars/cjktty-patches) - CJKTTY patches
 - [ouuan/this-repo-has-22-stars-3-forks](https://github.com/ouuan/this-repo-has-22-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 22 stars 3 forks.
 - [Staacks/phyphox-experiments](https://github.com/Staacks/phyphox-experiments) - Physical Phone Experiments (in-app experiment collection)
 - [brechtsanders/winlibs_mingw](https://github.com/brechtsanders/winlibs_mingw) - winlibs standalone build of GCC compiler and MinGW-w64
@@ -341,7 +338,6 @@
 
 ## PHP 
 
-- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [YLOJ/YLOJ](https://github.com/YLOJ/YLOJ) - Yali Online Judge
 - [joypixels/emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
 - [hanlin-studio/CFRatingColor](https://github.com/hanlin-studio/CFRatingColor) - 利用Shields.io，实现按颜色显示Codeforces的Rating
@@ -352,6 +348,7 @@
 
 ## Python 
 
+- [0xHJK/music-dl](https://github.com/0xHJK/music-dl) - search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐、咪咕音乐等搜索和下载歌曲
 - [mmulet/font-game-engine](https://github.com/mmulet/font-game-engine) - Make your own game in a font!
 - [tobi-wan-kenobi/bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
 - [ouuan/users-noreply-github-com](https://github.com/ouuan/users-noreply-github-com) - Get the @users.noreply.github.com email of a GitHub user.
@@ -495,6 +492,14 @@
 
 ## Vim script 
 
+- [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
+- [Chiel92/vim-autoformat](https://github.com/Chiel92/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
+- [lilydjwg/fcitx.vim](https://github.com/lilydjwg/fcitx.vim) - keep and restore fcitx state when leaving/re-entering insert mode
+- [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: quoting/parenthesizing made simple
+- [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
+- [takac/vim-hardtime](https://github.com/takac/vim-hardtime) - Plugin to help you stop repeating the basic movement keys
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [mhinz/vim-signify](https://github.com/mhinz/vim-signify) - :heavy_plus_sign: Show a diff using Vim its sign column.
 - [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
