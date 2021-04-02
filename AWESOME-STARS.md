@@ -184,7 +184,7 @@
 
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [RealPeha/This-Repo-Has-1654-Stars](https://github.com/RealPeha/This-Repo-Has-1654-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1653-Stars](https://github.com/RealPeha/This-Repo-Has-1653-Stars) - Yes, it's true :purple_heart:
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
 - [ouuan/github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [mauriciopoppe/greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
@@ -291,6 +291,7 @@
 ## Markdown 
 
 - [FastGitORG/document](https://github.com/FastGitORG/document) - 📄 FastGit Document
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Others 
 
@@ -378,7 +379,6 @@
 - [Elteoremadebeethoven/AnimationsWithManim](https://github.com/Elteoremadebeethoven/AnimationsWithManim) - Animation course with Manim
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [initial-h/AlphaZero_Gomoku_MPI](https://github.com/initial-h/AlphaZero_Gomoku_MPI) - An asynchronous/parallel method of  AlphaGo Zero algorithm with Gomoku
 - [mcfx/telegram_pipebot](https://github.com/mcfx/telegram_pipebot) - Connect other bots as pipes.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
