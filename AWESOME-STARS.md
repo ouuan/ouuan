@@ -184,7 +184,7 @@
 
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [RealPeha/This-Repo-Has-1653-Stars](https://github.com/RealPeha/This-Repo-Has-1653-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1654-Stars](https://github.com/RealPeha/This-Repo-Has-1654-Stars) - Yes, it's true :purple_heart:
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
 - [ouuan/github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [mauriciopoppe/greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
@@ -238,7 +238,7 @@
 - [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [devongovett/regexgen](https://github.com/devongovett/regexgen) - Generate regular expressions that match a set of strings
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
+- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [zhangzisu/ZenOnlineJudge](https://github.com/zhangzisu/ZenOnlineJudge) - Official version of Zen Online Judge. Have fun!
 - [ouuan/Hinata-Online-Judge](https://github.com/ouuan/Hinata-Online-Judge) - 一个有很多新增 feature 的 UOJ
 - [ITcarrot/hoj](https://github.com/ITcarrot/hoj) - 一个基于UOJ开发的在线评测系统
@@ -492,6 +492,7 @@
 
 ## Vim script 
 
+- [dkarter/bullets.vim](https://github.com/dkarter/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [Chiel92/vim-autoformat](https://github.com/Chiel92/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
