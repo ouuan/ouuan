@@ -493,6 +493,7 @@
 
 ## Vim script 
 
+- [jamesl33/vim-textobj-function](https://github.com/jamesl33/vim-textobj-function) - Vim plugin: Text objects for functions
 - [mcchrish/nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager for vim/neovim powered by n³
 - [arp242/confirm_quit.vim](https://github.com/arp242/confirm_quit.vim) - Ask for confirmation before quitting Vim.
 - [dkarter/bullets.vim](https://github.com/dkarter/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
