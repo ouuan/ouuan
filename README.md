@@ -35,7 +35,7 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
--   :pencil2: Arch Linux / i3-wm / Oh My Zsh / VS Code / Firefox
+-   :pencil2: Arch Linux / i3-wm / Oh My Zsh / NeoVim / Firefox
 -   :seedling: Preparing for [Gaokao](https://en.wikipedia.org/wiki/National_College_Entrance_Examination)
 -   :man: Pronouns: he/him
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
@@ -221,7 +221,3 @@ JavaScript   26 mins         █▒░░░░░░░░░░░░░░░
 #### :star2: Projects starred by me
 
 [My Awesome Stars](AWESOME-STARS.md)
-
-#### :wrench: VS Code extensions I'm using
-
-[My VS Code Extensions](MY-VSCODE-EXTENSIONS.md)
