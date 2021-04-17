@@ -16,6 +16,7 @@
   - [Go](#go)
   - [HTML](#html)
   - [Haml](#haml)
+  - [Handlebars](#handlebars)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -173,6 +174,10 @@
 ## Haml 
 
 - [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+
+## Handlebars 
+
+- [rtorr/vim-cheat-sheet](https://github.com/rtorr/vim-cheat-sheet) - A mobile friendly Vim cheat sheet
 
 ## Java 
 
@@ -493,6 +498,10 @@
 
 ## Vim script 
 
+- [RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
+- [christoomey/vim-system-copy](https://github.com/christoomey/vim-system-copy) - Vim plugin for copying to the system clipboard with text-objects and motions
+- [kana/vim-textobj-entire](https://github.com/kana/vim-textobj-entire) - Vim plugin: Text objects for entire buffer
+- [wellle/targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
 - [jamesl33/vim-textobj-function](https://github.com/jamesl33/vim-textobj-function) - Vim plugin: Text objects for functions
 - [mcchrish/nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager for vim/neovim powered by n³
 - [arp242/confirm_quit.vim](https://github.com/arp242/confirm_quit.vim) - Ask for confirmation before quitting Vim.
