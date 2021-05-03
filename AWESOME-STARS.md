@@ -288,6 +288,7 @@
 
 ## Lua 
 
+- [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline written in Lua
 - [akinsho/nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) - A snazzy bufferline for Neovim
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
 - [zyf722/nShogi-Lua](https://github.com/zyf722/nShogi-Lua) - A Shogi game written in TI-Lua
@@ -501,6 +502,8 @@
 
 ## Vim script 
 
+- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
+- [brooth/far.vim](https://github.com/brooth/far.vim) - Find And Replace Vim plugin
 - [michaeljsmith/vim-indent-object](https://github.com/michaeljsmith/vim-indent-object) - Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim scripts, etc.
 - [ouuan/vim-plug-config](https://github.com/ouuan/vim-plug-config) - Manage the configs for each vim-plugged plugin in a separate file.
 - [bkad/CamelCaseMotion](https://github.com/bkad/CamelCaseMotion) - A vim script to provide CamelCase motion through words (fork of inkarkat's camelcasemotion script)
