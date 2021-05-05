@@ -288,6 +288,11 @@
 
 ## Lua 
 
+- [windwp/nvim-spectre](https://github.com/windwp/nvim-spectre) - Find the enemy and replace them with dark power.
+- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
+- [sunjon/Shade.nvim](https://github.com/sunjon/Shade.nvim) - An Nvim lua plugin that dims your inactive windows
+- [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
+- [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
 - [folke/lsp-trouble.nvim](https://github.com/folke/lsp-trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline written in Lua
 - [akinsho/nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) - A snazzy bufferline for Neovim
@@ -368,7 +373,7 @@
 - [SigureMo/bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [yanglbme/gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages | 无须人为干预，自动部署 Gitee Pages
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 39 stars and 71 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 39 stars and 72 forks.
 - [fkxxyz/rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
 - [fkxxyz/ssfconv](https://github.com/fkxxyz/ssfconv) - Sogou input method skin file (.ssf file) converter, supports conversion to fcitx or fcitx5 format.
 - [ouuan/pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
