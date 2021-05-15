@@ -289,6 +289,7 @@
 
 ## Lua 
 
+- [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅  Highlight, list and search todo comments in your projects
 - [delphinus/mappy.nvim](https://github.com/delphinus/mappy.nvim) - A tiny utility to call any *map commands.
 - [npxbr/gruvbox.nvim](https://github.com/npxbr/gruvbox.nvim) - Lua port of the most famous vim colorscheme
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
@@ -513,6 +514,7 @@
 
 ## Vim script 
 
+- [nacitar/a.vim](https://github.com/nacitar/a.vim) - Alternate Files quickly (.c --&gt; .h etc)
 - [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [brooth/far.vim](https://github.com/brooth/far.vim) - Find And Replace Vim plugin
