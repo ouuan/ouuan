@@ -289,6 +289,7 @@
 
 ## Lua 
 
+- [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
 - [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.
 - [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - lsp signature hint when you type
@@ -483,7 +484,6 @@
 - [shalva97/kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configration files
 - [saber-nyan/kernel-modules-hook](https://github.com/saber-nyan/kernel-modules-hook) - Keeps your Arch Linux fully functional after a kernel upgrade
 - [peter-evans/link-checker](https://github.com/peter-evans/link-checker) - A GitHub action for link checking repository Markdown and HTML files
-- [2m/arch-pkgbuild-builder](https://github.com/2m/arch-pkgbuild-builder) - Arch Linux PKGBUILD GitHub builder action
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
@@ -492,7 +492,7 @@
 - [sobolevn/misspell-fixer-action](https://github.com/sobolevn/misspell-fixer-action) - 📝Automatically fixes typos and mistakes in your source code and docs!
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## Standard ML 
 
@@ -537,6 +537,9 @@
 
 ## Vim script 
 
+- [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim) - Switch between single-line and multiline forms of code
+- [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen replacement
+- [rhysd/conflict-marker.vim](https://github.com/rhysd/conflict-marker.vim) - Weapon to fight against conflicts in Vim.
 - [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - Intelligently reopen files at your last edit position in Vim.
 - [camspiers/lens.vim](https://github.com/camspiers/lens.vim) - A Vim Automatic Window Resizing Plugin
 - [pechorin/any-jump.vim](https://github.com/pechorin/any-jump.vim) - Jump to any definition and references 👁 IDE madness without overhead 🚀
