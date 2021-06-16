@@ -83,6 +83,22 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/gdut-yy">张逸扬</a>
     </td>
     <td align="center">
+      <a href="https://github.com/hua1995116">
+        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
+      </a>
+      <br />
+      <a href="https://github.com/hua1995116">蓝色的秋风</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fantasy9527">
+        <img src="https://avatars2.githubusercontent.com/u/9129438" width="100px;" alt="Fantasy9527"/>
+      </a>
+      <br />
+      <a href="https://github.com/Fantasy9527">{F.A.N}</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/tengge1">
         <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
       </a>
@@ -96,8 +112,6 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <br />
       <a href="https://github.com/xtlsoft">Tianle Xu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/thanhtoan1196">
         <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
@@ -133,6 +147,8 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <br />
       <a href="https://github.com/WBGlIl">WBGlIl</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/sanshengshui">
         <img src="https://avatars2.githubusercontent.com/u/23117382" width="100px;" alt="sanshengshui"/>
@@ -147,8 +163,6 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <br />
       <a href="https://github.com/iBug">iBug</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Garfield550">
         <img src="https://avatars2.githubusercontent.com/u/3471836" width="100px;" alt="Garfield550"/>
@@ -183,20 +197,6 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       </a>
       <br />
       <a href="https://github.com/shincurry">ココロ</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/EndlessCheng">
-        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
-      </a>
-      <br />
-      <a href="https://github.com/EndlessCheng">EndlessCheng</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kirollos91">
-        <img src="https://avatars2.githubusercontent.com/u/61518899" width="100px;" alt="kirollos91"/>
-      </a>
-      <br />
-      <a href="https://github.com/kirollos91">Kirollos Samir</a>
     </td>
   </tr>
 </table>
