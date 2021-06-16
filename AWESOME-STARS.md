@@ -162,7 +162,6 @@
 - [rbind/yihui](https://github.com/rbind/yihui) - Personal website of Yihui Xie
 - [Lingeros-tot/Lingeros-tot.github.io](https://github.com/Lingeros-tot/Lingeros-tot.github.io) - 
 - [yhx-12243/OI-transit](https://github.com/yhx-12243/OI-transit) - OI transit
-- [zyr17/MajsoulPaipuAnalyzer](https://github.com/zyr17/MajsoulPaipuAnalyzer) - 雀魂牌谱分析工具
 - [Magolor/magolor.github.io](https://github.com/Magolor/magolor.github.io) - Magolor's Blog:
 - [remmina/BZPRO](https://github.com/remmina/BZPRO) - BZOJ离线题库 附赠爬虫一枚
 - [Ruanxingzhi/bzojch](https://github.com/Ruanxingzhi/bzojch) - BZOJ离线题库
@@ -254,6 +253,7 @@
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [shi-yang/jnoj](https://github.com/shi-yang/jnoj) - Jiangnan Online Judge
+- [zyr17/MajsoulPaipuAnalyzer](https://github.com/zyr17/MajsoulPaipuAnalyzer) - 雀魂牌谱分析工具
 - [Ice-Hazymoon/MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合
 - [Anguei/Luogu-Problem-Jumper](https://github.com/Anguei/Luogu-Problem-Jumper) - 在洛谷任意位置双击题号，自动跳转
 - [sjsakib/cfviz](https://github.com/sjsakib/cfviz) - Visualizes user data from codeforces.com using the official API
@@ -390,7 +390,7 @@
 - [SigureMo/bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [yanglbme/gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages | 无须人为干预，自动部署 Gitee Pages
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 43 stars and 78 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 44 stars and 78 forks
 - [fkxxyz/rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
 - [fkxxyz/ssfconv](https://github.com/fkxxyz/ssfconv) - Sogou input method skin file (.ssf file) converter, supports conversion to fcitx or fcitx5 format.
 - [ouuan/pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
