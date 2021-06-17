@@ -44,6 +44,7 @@
 
 ## C 
 
+- [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [xdbob/xss-lock](https://github.com/xdbob/xss-lock) - xss-lock fork from https://bitbucket.org/raymonad/xss-lock
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager
