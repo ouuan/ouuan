@@ -190,7 +190,7 @@
 - [SOJdevelopers/SOJ-front-end](https://github.com/SOJdevelopers/SOJ-front-end) - 
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [RealPeha/This-Repo-Has-1671-Stars](https://github.com/RealPeha/This-Repo-Has-1671-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1669-Stars](https://github.com/RealPeha/This-Repo-Has-1669-Stars) - Yes, it's true :purple_heart:
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 36 stars 6 forks.
 - [ouuan/github-file-authors](https://github.com/ouuan/github-file-authors) - Get GitHub usernames of the authors to each file based on the commit log.
 - [mauriciopoppe/greuler](https://github.com/mauriciopoppe/greuler) - graph theory visualizations
@@ -457,7 +457,6 @@
 
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-- [Kethku/neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust
 - [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
