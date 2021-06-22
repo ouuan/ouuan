@@ -185,18 +185,18 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/rememberber">周波</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Enter-tainer">
-        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
-      </a>
-      <br />
-      <a href="https://github.com/Enter-tainer">mgt</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/thequackyduck">
         <img src="https://avatars2.githubusercontent.com/u/79815764" width="100px;" alt="thequackyduck"/>
       </a>
       <br />
       <a href="https://github.com/thequackyduck">thequackyduck</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Enter-tainer">
+        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
+      </a>
+      <br />
+      <a href="https://github.com/Enter-tainer">mgt</a>
     </td>
   </tr>
 </table>
