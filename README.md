@@ -171,18 +171,18 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/Garfield550">Garfield Lee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ChungZH">
-        <img src="https://avatars2.githubusercontent.com/u/42088872" width="100px;" alt="ChungZH"/>
-      </a>
-      <br />
-      <a href="https://github.com/ChungZH">Flex Zhong</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/thequackyduck">
         <img src="https://avatars2.githubusercontent.com/u/79815764" width="100px;" alt="thequackyduck"/>
       </a>
       <br />
       <a href="https://github.com/thequackyduck">thequackyduck</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ChungZH">
+        <img src="https://avatars2.githubusercontent.com/u/42088872" width="100px;" alt="ChungZH"/>
+      </a>
+      <br />
+      <a href="https://github.com/ChungZH">Flex Zhong</a>
     </td>
     <td align="center">
       <a href="https://github.com/rememberber">
