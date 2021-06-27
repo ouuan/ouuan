@@ -59,6 +59,7 @@
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [xorg62/tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
+- [ouuan/Despised](https://github.com/ouuan/Despised) - NOI bèi bǐ shì
 - [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [kernelbin/BOIT](https://github.com/kernelbin/BOIT) - BOT for OIers.  /*BOIT = BOT + OI; yh蒟蒻写的给OIers用的一个bot，Made by kernel.bin with ❤*/
@@ -80,7 +81,6 @@
 - [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [leanprover-community/lean](https://github.com/leanprover-community/lean) - Lean Theorem Prover
 - [dev-cafe/cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook) - CMake Cookbook recipes.
-- [ouuan/Despised](https://github.com/ouuan/Despised) - NOI bèi bǐ shì
 - [ouuan/uoj-data-converter](https://github.com/ouuan/uoj-data-converter) - 将各种各样格式的数据转换为 UOJ 的格式 :tada: 文件名转换 | subtask 设置| 添加样例 | 生成 problem.conf :rocket:
 - [csb6/html-plus-plus](https://github.com/csb6/html-plus-plus) - Write HTML using C++ templates
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -374,6 +374,7 @@
 
 ## Python 
 
+- [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [jrouleau/bluetooth-autoconnect](https://github.com/jrouleau/bluetooth-autoconnect) - A linux command line tool to automatically connect to all paired and trusted bluetooth devices.
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [0xHJK/music-dl](https://github.com/0xHJK/music-dl) - search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐、咪咕音乐等搜索和下载歌曲
@@ -471,6 +472,7 @@
 
 ## Shell 
 
+- [KSXGitHub/github-actions-deploy-aur](https://github.com/KSXGitHub/github-actions-deploy-aur) - GitHub Actions to publish AUR package
 - [lideming/kernel-modules-hook-reflink](https://github.com/lideming/kernel-modules-hook-reflink) - 
 - [ouuan/pkgbuild-action](https://github.com/ouuan/pkgbuild-action) - Make the package in a minimal environment and generate `.SRCINFO`.
 - [ouuan/AUR-template](https://github.com/ouuan/AUR-template) - Manage AUR packages in a GitHub repository, with CI tests and auto-publish :rocket:
