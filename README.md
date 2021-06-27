@@ -208,11 +208,11 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
 
 <!--START_SECTION:waka-->
 ```text
-Bash         4 hrs 44 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.64 % 
-Other        3 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.50 % 
-YAML         2 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-TypeScript   1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-VimL         1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Other        3 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.88 % 
+YAML         2 hrs 49 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.96 % 
+TypeScript   1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Bash         1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+C++          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 ```
 <!--END_SECTION:waka-->
 
