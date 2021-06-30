@@ -209,7 +209,7 @@
 - [headllines/github-weekly](https://github.com/headllines/github-weekly) - Github weekly top 10 repos
 - [t9tio/cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
-- [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex.
+- [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [abskmj/hukum](https://github.com/abskmj/hukum) - An NPM module that displays Github Action progress in the terminal and aims to improve your development experience by printing status in realtime.
 - [BeautyYuYanli/full-mark-composition-generator](https://github.com/BeautyYuYanli/full-mark-composition-generator) - 将专业术语和名人名言以随机报菜名的方式填入模板，生成一篇只有聪明人才能看懂的满分作文！
@@ -331,7 +331,6 @@
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [b1f6c1c4/learn-git-the-super-hard-way](https://github.com/b1f6c1c4/learn-git-the-super-hard-way) - 不走寻常路的Git教程
-- [ouuan/master-is-not-evil](https://github.com/ouuan/master-is-not-evil) - We don't master people. We only want to master git.
 - [tounan/renaming](https://github.com/tounan/renaming) - Yep
 - [adobe-fonts/source-han-super-otc](https://github.com/adobe-fonts/source-han-super-otc) - Source Han & Noto CJK Mega/Ultra OTCs
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
