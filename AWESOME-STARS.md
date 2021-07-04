@@ -472,6 +472,7 @@
 
 ## Shell 
 
+- [nachoparker/btrfs-du](https://github.com/nachoparker/btrfs-du) - Easily print BTRFS subvolume/snapshot disk usage
 - [KSXGitHub/github-actions-deploy-aur](https://github.com/KSXGitHub/github-actions-deploy-aur) - GitHub Actions to publish AUR package
 - [lideming/kernel-modules-hook-reflink](https://github.com/lideming/kernel-modules-hook-reflink) - 
 - [ouuan/pkgbuild-action](https://github.com/ouuan/pkgbuild-action) - Make the package in a minimal environment and generate `.SRCINFO`.
