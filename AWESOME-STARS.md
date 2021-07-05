@@ -146,7 +146,7 @@
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [apex/gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
-- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
+- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
 - [EndlessCheng/mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
 
 ## HTML 
@@ -178,6 +178,7 @@
 
 ## Java 
 
+- [oasisfeng/island](https://github.com/oasisfeng/island) - Island for Android
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [ia-toki/judgels](https://github.com/ia-toki/judgels) - Competitive programming platform
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
