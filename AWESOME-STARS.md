@@ -158,6 +158,7 @@
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [cpeditor/cpeditor.github.io](https://github.com/cpeditor/cpeditor.github.io) - The official website of CP Editor :memo:
+- [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [rbind/yihui](https://github.com/rbind/yihui) - Personal website of Yihui Xie
 - [Lingeros-tot/Lingeros-tot.github.io](https://github.com/Lingeros-tot/Lingeros-tot.github.io) - 
@@ -288,6 +289,7 @@
 
 ## Lua 
 
+- [AckslD/nvim-anywise-reg.lua](https://github.com/AckslD/nvim-anywise-reg.lua) - Plugin for making registers content-aware beyond char- and linewise
 - [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) - Hlsearch Lens for Neovim
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
@@ -411,7 +413,6 @@
 - [initial-h/AlphaZero_Gomoku_MPI](https://github.com/initial-h/AlphaZero_Gomoku_MPI) - An asynchronous/parallel method of  AlphaGo Zero algorithm with Gomoku
 - [mcfx/telegram_pipebot](https://github.com/mcfx/telegram_pipebot) - Connect other bots as pipes.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [miurahr/aqtinstall](https://github.com/miurahr/aqtinstall) - aqt: Another (unofficial) Qt  CLI  Installer on multi-platforms
 - [kc97ble/testfmt5](https://github.com/kc97ble/testfmt5) - 
 - [zyf722/thedamn](https://github.com/zyf722/thedamn) - Windows CMD implementation of "The Fuck" (https://github.com/nvbn/thefuck)
 - [Latitude-Archives/AIDungeon](https://github.com/Latitude-Archives/AIDungeon) - Infinite adventures await!
@@ -503,6 +504,7 @@
 
 ## TypeScript 
 
+- [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.
 - [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
