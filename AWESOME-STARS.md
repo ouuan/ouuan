@@ -184,7 +184,7 @@
 - [ia-toki/judgels](https://github.com/ia-toki/judgels) - Competitive programming platform
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [dj3500/hightail](https://github.com/dj3500/hightail) - 
-- [OysterQAQ/Pixiv-Illustration-Collection-Backend](https://github.com/OysterQAQ/Pixiv-Illustration-Collection-Backend) - 
+- [OysterQAQ/Pixiv-Illustration-Collection-Backend](https://github.com/OysterQAQ/Pixiv-Illustration-Collection-Backend) - pixivic.com Backend
 
 ## JavaScript 
 
