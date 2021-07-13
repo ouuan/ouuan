@@ -76,18 +76,18 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/zTrix">Wenlei Zhu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gdut-yy">
-        <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
-      </a>
-      <br />
-      <a href="https://github.com/gdut-yy">张逸扬</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/hua1995116">
         <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
       </a>
       <br />
       <a href="https://github.com/hua1995116">蓝色的秋风</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gdut-yy">
+        <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
+      </a>
+      <br />
+      <a href="https://github.com/gdut-yy">张逸扬</a>
     </td>
     <td align="center">
       <a href="https://github.com/Fantasy9527">
@@ -134,18 +134,18 @@ I'm Y**ou** Y**u**f**an**, a senior high school student from Wuhan, China.
       <a href="https://github.com/guofei9987">郭飞</a>
     </td>
     <td align="center">
-      <a href="https://github.com/memset0">
-        <img src="https://avatars2.githubusercontent.com/u/34177126" width="100px;" alt="memset0"/>
-      </a>
-      <br />
-      <a href="https://github.com/memset0">memset0</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/WBGlIl">
         <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
       </a>
       <br />
       <a href="https://github.com/WBGlIl">WBGlIl</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/memset0">
+        <img src="https://avatars2.githubusercontent.com/u/34177126" width="100px;" alt="memset0"/>
+      </a>
+      <br />
+      <a href="https://github.com/memset0">memset0</a>
     </td>
   </tr>
   <tr>
