@@ -357,7 +357,7 @@
 - [Jannchie/BiliOB](https://github.com/Jannchie/BiliOB) - BiliOB观测者是一个观测B站UP主及视频数据变化，并予以分析的Web应用程序。
 - [kfcd/chaizi](https://github.com/kfcd/chaizi) - 漢語拆字字典
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-- [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！⭐++
+- [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [KeiKinn/ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下Shadowsocks的前世今生，以及一个简单的教程总结
 - [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享 - Program algorithm learning materials collection in Chinese
@@ -583,7 +583,7 @@
 - [Norserium/vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper) - The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design
 - [xiaokaike/vue-color](https://github.com/xiaokaike/vue-color) - :art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [EtherOJ/EtherOJ](https://github.com/EtherOJ/EtherOJ) - A GitHub-Based Open Source and free Online Judge.
 - [dd-center/vtbs.moe](https://github.com/dd-center/vtbs.moe) - Virtual YouTubers in bilibili
 - [pnowy/github-stars-history](https://github.com/pnowy/github-stars-history) - The missing github stars history!
