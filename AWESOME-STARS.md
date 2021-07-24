@@ -293,7 +293,6 @@
 
 ## Lua 
 
-- [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) - Neovim plugin for locking a buffer to a window
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
 - [AckslD/nvim-anywise-reg.lua](https://github.com/AckslD/nvim-anywise-reg.lua) - Plugin for making registers content-aware beyond char- and linewise
@@ -546,6 +545,7 @@
 
 ## Vim script 
 
+- [chiefnoah/neuron-v2.vim](https://github.com/chiefnoah/neuron-v2.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange) - Easy text exchange operator for Vim
 - [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
 - [mcchrish/nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager for vim/neovim powered by n³
