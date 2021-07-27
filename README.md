@@ -83,12 +83,21 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/hua1995116">蓝色的秋风</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Trumeet">
+        <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
+      </a>
+      <br />
+      <a href="https://github.com/Trumeet">Yuuta Liang</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/gdut-yy">
         <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
       </a>
       <br />
       <a href="https://github.com/gdut-yy">张逸扬</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Fantasy9527">
         <img src="https://avatars2.githubusercontent.com/u/9129438" width="100px;" alt="Fantasy9527"/>
@@ -96,8 +105,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/Fantasy9527">{F.A.N}</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/tengge1">
         <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
@@ -140,6 +147,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/WBGlIl">WBGlIl</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/memset0">
         <img src="https://avatars2.githubusercontent.com/u/34177126" width="100px;" alt="memset0"/>
@@ -147,8 +156,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/memset0">memset0</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/sanshengshui">
         <img src="https://avatars2.githubusercontent.com/u/23117382" width="100px;" alt="sanshengshui"/>
@@ -190,13 +197,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       </a>
       <br />
       <a href="https://github.com/rememberber">周波</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Enter-tainer">
-        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
-      </a>
-      <br />
-      <a href="https://github.com/Enter-tainer">mgt</a>
     </td>
   </tr>
 </table>
