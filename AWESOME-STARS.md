@@ -191,6 +191,7 @@
 
 ## JavaScript 
 
+- [tauri-apps/vue-cli-plugin-tauri](https://github.com/tauri-apps/vue-cli-plugin-tauri) - Turn your Vue SPA into a lightweight cross-platform desktop app
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 - [SOJdevelopers/SOJ-front-end](https://github.com/SOJdevelopers/SOJ-front-end) - 
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
