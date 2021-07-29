@@ -69,18 +69,18 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/Ir1d">Ir1dXD</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zTrix">
-        <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
-      </a>
-      <br />
-      <a href="https://github.com/zTrix">Wenlei Zhu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/hua1995116">
         <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
       </a>
       <br />
       <a href="https://github.com/hua1995116">蓝色的秋风</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zTrix">
+        <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
+      </a>
+      <br />
+      <a href="https://github.com/zTrix">Wenlei Zhu</a>
     </td>
     <td align="center">
       <a href="https://github.com/Trumeet">
