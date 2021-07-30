@@ -37,6 +37,7 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
+  - [Stylus](#stylus)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
@@ -124,7 +125,6 @@
 - [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer) - Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
 - [memset0/lavandula](https://github.com/memset0/lavandula) - mem0 的小玩具 qwq
 - [cn/constitution](https://github.com/cn/constitution) - 中华人民共和国宪法
-- [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
 
 ## Dockerfile 
 
@@ -508,6 +508,10 @@
 ## Standard ML 
 
 - [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
+
+## Stylus 
+
+- [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
 
 ## TeX 
 
