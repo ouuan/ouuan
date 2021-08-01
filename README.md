@@ -55,6 +55,13 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/wizardforcel">布客飞龙</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Magicianred">
+        <img src="https://avatars2.githubusercontent.com/u/4624113" width="100px;" alt="Magicianred"/>
+      </a>
+      <br />
+      <a href="https://github.com/Magicianred">Simone Paolucci</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/gaocegege">
         <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
       </a>
@@ -89,6 +96,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/Trumeet">Yuuta Liang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/gdut-yy">
         <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
@@ -96,8 +105,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/gdut-yy">张逸扬</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Fantasy9527">
         <img src="https://avatars2.githubusercontent.com/u/9129438" width="100px;" alt="Fantasy9527"/>
@@ -140,6 +147,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/guofei9987">郭飞</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/WBGlIl">
         <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
@@ -147,8 +156,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/WBGlIl">WBGlIl</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/memset0">
         <img src="https://avatars2.githubusercontent.com/u/34177126" width="100px;" alt="memset0"/>
@@ -190,13 +197,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       </a>
       <br />
       <a href="https://github.com/EndlessCheng">EndlessCheng</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/rememberber">
-        <img src="https://avatars2.githubusercontent.com/u/4653893" width="100px;" alt="rememberber"/>
-      </a>
-      <br />
-      <a href="https://github.com/rememberber">周波</a>
     </td>
   </tr>
 </table>
