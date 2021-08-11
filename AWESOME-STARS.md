@@ -88,7 +88,6 @@
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [anonymous5l/ncmdump](https://github.com/anonymous5l/ncmdump) - netease cloud music copyright protection file dump
 - [ChungZH/notepanda](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
-- [cpeditor/QCodeEditor](https://github.com/cpeditor/QCodeEditor) - Qt Code Editor widget. Now deprecated and will no longer be maintained by the CP Editor team.
 - [neko-para/qgdbint](https://github.com/neko-para/qgdbint) - GDB interface in Qt
 - [KDE/systemsettings](https://github.com/KDE/systemsettings) - Control center to configure your Plasma Desktop
 - [ouuan/CPTH](https://github.com/ouuan/CPTH) - :star2: Competitive Programming Template Headers | With documentation, CI tests and Codecov
