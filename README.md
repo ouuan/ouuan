@@ -192,11 +192,11 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/Garfield550">Garfield Lee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ChungZH">
-        <img src="https://avatars2.githubusercontent.com/u/42088872" width="100px;" alt="ChungZH"/>
+      <a href="https://github.com/EndlessCheng">
+        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
       </a>
       <br />
-      <a href="https://github.com/ChungZH">Flex Zhong</a>
+      <a href="https://github.com/EndlessCheng">EndlessCheng</a>
     </td>
   </tr>
 </table>
