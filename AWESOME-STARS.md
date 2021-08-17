@@ -11,7 +11,6 @@
   - [CMake](#cmake)
   - [CSS](#css)
   - [Dockerfile](#dockerfile)
-  - [GLSL](#glsl)
   - [Go](#go)
   - [HTML](#html)
   - [Haml](#haml)
@@ -128,10 +127,6 @@
 ## Dockerfile 
 
 - [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
-
-## GLSL 
-
-- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 
 ## Go 
 
@@ -277,6 +272,7 @@
 
 - [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation
 - [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
+- [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 
 ## Kotlin 
 
