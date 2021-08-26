@@ -186,6 +186,7 @@
 
 ## JavaScript 
 
+- [07akioni/xicons](https://github.com/07akioni/xicons) - SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)
 - [DavidNHill/JSMinesweeper](https://github.com/DavidNHill/JSMinesweeper) - Minesweeper player, solver and analyser in javascript
 - [ouuan/botzone-local-runner](https://github.com/ouuan/botzone-local-runner) - 在本地运行 Botzone judger & bot
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
