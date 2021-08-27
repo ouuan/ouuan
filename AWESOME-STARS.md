@@ -186,6 +186,7 @@
 
 ## JavaScript 
 
+- [w8r/avl](https://github.com/w8r/avl) - :eyeglasses: Fast AVL tree for Node and browser
 - [07akioni/xicons](https://github.com/07akioni/xicons) - SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)
 - [DavidNHill/JSMinesweeper](https://github.com/DavidNHill/JSMinesweeper) - Minesweeper player, solver and analyser in javascript
 - [ouuan/botzone-local-runner](https://github.com/ouuan/botzone-local-runner) - 在本地运行 Botzone judger & bot
@@ -519,6 +520,7 @@
 
 ## TypeScript 
 
+- [dividab/ts-exhaustive-check](https://github.com/dividab/ts-exhaustive-check) - Exhaustive check for typescript type never
 - [ibezkrovnyi/image-quantization](https://github.com/ibezkrovnyi/image-quantization) - Image Quantization Library with alpha support (based on https://github.com/leeoniya/RgbQuant.js, https://github.com/timoxley/neuquant and http://www.ece.mcmaster.ca/~xwu/cq.c)
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [Clansty/Icalingua](https://github.com/Clansty/Icalingua) - A Linux client for QQ and more :electron:
