@@ -45,6 +45,7 @@
 
 ## C 
 
+- [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
@@ -389,7 +390,7 @@
 
 ## Python 
 
-- [yhx-12243/oierdb-ng](https://github.com/yhx-12243/oierdb-ng) - New generation of [OIerDB](/bytew.net/OIer)
+- [yhx-12243/oierdb-ng](https://github.com/yhx-12243/oierdb-ng) - New generation of [OIerDb](/bytew.net/OIer)
 - [anishathalye/neural-hash-collider](https://github.com/anishathalye/neural-hash-collider) - Preimage attack against NeuralHash 💣
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [SigureMo/yutto](https://github.com/SigureMo/yutto) - :ice_cube: 一个可爱且任性的 B 站视频下载器（bilili2.x）
