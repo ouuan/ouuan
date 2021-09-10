@@ -168,7 +168,7 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
         <img src="https://avatars2.githubusercontent.com/u/34177126" width="100px;" alt="memset0"/>
       </a>
       <br />
-      <a href="https://github.com/memset0">whisperain</a>
+      <a href="https://github.com/memset0">whisperain‮ </a>
     </td>
     <td align="center">
       <a href="https://github.com/sanshengshui">
