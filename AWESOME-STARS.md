@@ -300,6 +300,7 @@
 
 ## Lua 
 
+- [Julian/lean.nvim](https://github.com/Julian/lean.nvim) - neovim support for the Lean theorem prover
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) - A Neovim plugin to deal with treesitter units
 - [gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) - Populate the quickfix with json entries
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
@@ -437,7 +438,7 @@
 - [kc97ble/testfmt5](https://github.com/kc97ble/testfmt5) - 
 - [zyf722/thedamn](https://github.com/zyf722/thedamn) - Windows CMD implementation of "The Fuck" (https://github.com/nvbn/thefuck)
 - [Latitude-Archives/AIDungeon](https://github.com/Latitude-Archives/AIDungeon) - Infinite adventures await!
-- [mathics/Mathics](https://github.com/mathics/Mathics) - A general-purpose computer algebra system.
+- [mathics/Mathics](https://github.com/mathics/Mathics) - This repository if for archival. Please see https://Mathics3/mathics-core
 - [wd/hexo2hugo](https://github.com/wd/hexo2hugo) - Tools help you to migrate hexo files to hugo
 - [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
 - [ouuan/LuoguPaintBoard](https://github.com/ouuan/LuoguPaintBoard) - 洛谷冬日绘板脚本（已停止维护）
@@ -529,6 +530,7 @@
 
 ## TypeScript 
 
+- [leanprover/lean-client-js](https://github.com/leanprover/lean-client-js) - 
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Fast Vue Language Support Extension
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [pladaria/reconnecting-websocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js)
