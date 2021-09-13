@@ -410,7 +410,7 @@
 - [nodchip/OnlineJudgeHelper](https://github.com/nodchip/OnlineJudgeHelper) - A scriprt to improve  the usability of online judges
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [TobxD/codeforces_live_bot](https://github.com/TobxD/codeforces_live_bot) - 
-- [SigureMo/bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
+- [SigureMo/bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (includes bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [yanglbme/gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages With GitHub Actions | 无须人为干预，由 GitHub Actions 自动部署 Gitee Pages
 - [fkxxyz/rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
