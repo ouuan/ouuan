@@ -27,15 +27,15 @@ Wish you a good-looking profile README!
 
 -->
 
-## Hey, ouuan here! :wave: [![ ](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/ouuan)
+## Hey, ouuan here! :wave:
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
 I'm Y**ou** Y**u**f**an**, a freshman at THU.
 
--   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
--   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
+-   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/TypeScript/Vue
 -   :pencil2: Arch Linux / i3-wm / Oh My Zsh / NeoVim / Firefox
+-   :seedling: Taking courses & doing homework at THU
 -   :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
 -   :man: Pronouns: he/him
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
