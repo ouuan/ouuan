@@ -68,7 +68,7 @@ query {{
             name = follower["name"]
             id = follower["databaseId"]
             followerNumber = follower["followers"]["totalCount"]
-            if following > repo * 100:
+            if following > repo * 50:
                 print(f"Ignored: https://github.com/{login} with {followerNumber} followers and {following} following")
                 continue
             followers.append((followerNumber, login, id, name if name else login))
