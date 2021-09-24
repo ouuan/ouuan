@@ -533,6 +533,7 @@
 
 ## TypeScript 
 
+- [ouuan/truth-table-generator](https://github.com/ouuan/truth-table-generator) - 由逻辑表达式生成真值表 | 离散数学 Open Project
 - [robertying/learnX](https://github.com/robertying/learnX) - 清华大学网络学堂 App，以 React Native 构建。App for Tsinghua University Web Learning, developed with React Native. ⚛️
 - [leanprover/lean-client-js](https://github.com/leanprover/lean-client-js) - 
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Fast Vue Language Support Extension
