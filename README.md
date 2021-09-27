@@ -185,18 +185,18 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/iBug">iBug</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Garfield550">
-        <img src="https://avatars2.githubusercontent.com/u/3471836" width="100px;" alt="Garfield550"/>
-      </a>
-      <br />
-      <a href="https://github.com/Garfield550">Garfield Lee</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Mahmoud-Italy">
         <img src="https://avatars2.githubusercontent.com/u/17962343" width="100px;" alt="Mahmoud-Italy"/>
       </a>
       <br />
       <a href="https://github.com/Mahmoud-Italy">Mahmoud Italy</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Garfield550">
+        <img src="https://avatars2.githubusercontent.com/u/3471836" width="100px;" alt="Garfield550"/>
+      </a>
+      <br />
+      <a href="https://github.com/Garfield550">Garfield Lee</a>
     </td>
   </tr>
 </table>
