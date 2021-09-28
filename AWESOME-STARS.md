@@ -193,6 +193,9 @@
 
 ## JavaScript 
 
+- [johnsoncodehk/vue-tsc](https://github.com/johnsoncodehk/vue-tsc) - vue-tsc --noEmit && vite build
+- [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
+- [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) - eslint-config-typescript for vue-cli
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [ds300/postinstall-postinstall](https://github.com/ds300/postinstall-postinstall) - 
@@ -401,6 +404,7 @@
 
 ## Python 
 
+- [rocats/repeater](https://github.com/rocats/repeater) - demo: @greater_repeater_bot
 - [yhx-12243/oierdb-ng](https://github.com/yhx-12243/oierdb-ng) - New generation of [OIerDb](/bytew.net/OIer)
 - [anishathalye/neural-hash-collider](https://github.com/anishathalye/neural-hash-collider) - Preimage attack against NeuralHash 💣
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -536,6 +540,8 @@
 
 ## TypeScript 
 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [ouuan/truth-table-generator](https://github.com/ouuan/truth-table-generator) - 由逻辑表达式生成真值表 | 离散数学 Open Project
 - [robertying/learnX](https://github.com/robertying/learnX) - 清华大学网络学堂 App，以 React Native 构建。App for Tsinghua University Web Learning, developed with React Native. ⚛️
 - [leanprover/lean-client-js](https://github.com/leanprover/lean-client-js) - 
