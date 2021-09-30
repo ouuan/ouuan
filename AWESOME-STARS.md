@@ -47,7 +47,7 @@
 
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
+- [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [xdbob/xss-lock](https://github.com/xdbob/xss-lock) - xss-lock fork from https://bitbucket.org/raymonad/xss-lock
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager
@@ -307,6 +307,12 @@
 
 ## Lua 
 
+- [kdheepak/cmp-latex-symbols](https://github.com/kdheepak/cmp-latex-symbols) - Add latex symbol support for nvim-cmp.
+- [hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer) - nvim-cmp source for buffer words
+- [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - nvim-cmp source for neovim builtin LSP client
+- [hrsh7th/cmp-vsnip](https://github.com/hrsh7th/cmp-vsnip) - nvim-cmp source for vim-vsnip
+- [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - nvim-cmp source for path
+- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [weilbith/nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu) - Pop-up menu for code actions to show meta-information and diff preview
 - [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager neovim plugin with telescope integration
 - [Julian/lean.nvim](https://github.com/Julian/lean.nvim) - neovim support for the Lean theorem prover
@@ -542,6 +548,7 @@
 
 ## TypeScript 
 
+- [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [ouuan/truth-table-generator](https://github.com/ouuan/truth-table-generator) - 由逻辑表达式生成真值表 | 离散数学 Open Project
