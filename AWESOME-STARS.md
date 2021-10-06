@@ -87,7 +87,6 @@
 - [ouuan/uoj-data-converter](https://github.com/ouuan/uoj-data-converter) - 将各种各样格式的数据转换为 UOJ 的格式 :tada: 文件名转换 | subtask 设置| 添加样例 | 生成 problem.conf :rocket:
 - [csb6/html-plus-plus](https://github.com/csb6/html-plus-plus) - Write HTML using C++ templates
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [anonymous5l/ncmdump](https://github.com/anonymous5l/ncmdump) - netease cloud music copyright protection file dump
 - [ChungZH/notepanda](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
 - [neko-para/qgdbint](https://github.com/neko-para/qgdbint) - GDB interface in Qt
 - [KDE/systemsettings](https://github.com/KDE/systemsettings) - Control center to configure your Plasma Desktop
@@ -427,7 +426,7 @@
 - [nodchip/OnlineJudgeHelper](https://github.com/nodchip/OnlineJudgeHelper) - A scriprt to improve  the usability of online judges
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [TobxD/codeforces_live_bot](https://github.com/TobxD/codeforces_live_bot) - 
-- [SigureMo/bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (includes bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
+- [SigureMo/bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [yanglbme/gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages With GitHub Actions | 无须人为干预，由 GitHub Actions 自动部署 Gitee Pages
 - [fkxxyz/rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
