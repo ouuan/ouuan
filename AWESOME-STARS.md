@@ -410,6 +410,7 @@
 
 ## Python 
 
+- [ZenithalHourlyRate/thuservices](https://github.com/ZenithalHourlyRate/thuservices) - https://thu.services. A yellow page for Tsinghua/THU service/info/utils
 - [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
 - [rocats/repeater](https://github.com/rocats/repeater) - demo: @greater_repeater_bot
 - [yhx-12243/oierdb-ng](https://github.com/yhx-12243/oierdb-ng) - New generation of [OIerDb](/bytew.net/OIer)
