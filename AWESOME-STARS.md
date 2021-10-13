@@ -548,6 +548,7 @@
 
 ## TypeScript 
 
+- [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
