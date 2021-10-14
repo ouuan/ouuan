@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
 - [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli) - Command line interface used by all WakaTime text editor plugins.
 - [z4yx/GoAuthing](https://github.com/z4yx/GoAuthing) - Authentication utility for srun4000 (auth.tsinghua.edu.cn / net.tsinghua.edu.cn / Tsinghua-IPv4)
@@ -192,6 +193,7 @@
 
 ## JavaScript 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [johnsoncodehk/vue-tsc](https://github.com/johnsoncodehk/vue-tsc) - vue-tsc --noEmit && vite build
 - [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 - [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) - eslint-config-typescript for vue-cli
@@ -552,7 +554,7 @@
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
-- [ouuan/truth-table-generator](https://github.com/ouuan/truth-table-generator) - 由逻辑表达式生成真值表 | 离散数学 Open Project
+- [ouuan/truth-table-generator](https://github.com/ouuan/truth-table-generator) - 它现在不仅有真值表，还有主范式、最简范式、王浩算法、手动等值演算 | 离散数学 Open Project
 - [robertying/learnX](https://github.com/robertying/learnX) - 清华大学网络学堂 App，以 React Native 构建。App for Tsinghua University Web Learning, developed with React Native. ⚛️
 - [leanprover/lean-client-js](https://github.com/leanprover/lean-client-js) - 
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance Vue language support in some aspects
