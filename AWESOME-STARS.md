@@ -525,6 +525,7 @@
 
 ## Shell 
 
+- [SiddharthPant/booky](https://github.com/SiddharthPant/booky) - A simple script for pdf bookmarks creation
 - [nachoparker/btrfs-du](https://github.com/nachoparker/btrfs-du) - Easily print BTRFS subvolume/snapshot disk usage
 - [KSXGitHub/github-actions-deploy-aur](https://github.com/KSXGitHub/github-actions-deploy-aur) - GitHub Actions to publish AUR package
 - [lideming/kernel-modules-hook-reflink](https://github.com/lideming/kernel-modules-hook-reflink) - 
@@ -566,7 +567,7 @@
 - [ouuan/truth-table-generator](https://github.com/ouuan/truth-table-generator) - 它现在不仅有真值表，还有主范式、最简范式、王浩算法、手动等值演算 | 离散数学 Open Project
 - [robertying/learnX](https://github.com/robertying/learnX) - 清华大学网络学堂 App，以 React Native 构建。App for Tsinghua University Web Learning, developed with React Native. ⚛️
 - [leanprover/lean-client-js](https://github.com/leanprover/lean-client-js) - 
-- [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance Vue language support in some aspects
+- [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [pladaria/reconnecting-websocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js)
 - [dividab/ts-exhaustive-check](https://github.com/dividab/ts-exhaustive-check) - Exhaustive check for typescript type never
