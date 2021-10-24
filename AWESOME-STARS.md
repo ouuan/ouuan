@@ -256,7 +256,7 @@
 - [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
 - [zamhown/wear-a-mask](https://github.com/zamhown/wear-a-mask) - 😷 An SPA that uses only the front-end to perform deep-learning-based facial landmark detection on images and automatically adds breathing mask stickers.
 - [f2e-awesome/knowledge](https://github.com/f2e-awesome/knowledge) - 文档着重构建一个完整的「前端技术架构图谱」，方便 F2E(Front End Engineering又称FEE、F2E) 学习与进阶。
-- [remarkjs/remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - plugin to support frontmatter (YAML, TOML, and more)
+- [remarkjs/remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - remark plugin to support frontmatter (YAML, TOML, and more)
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter
 - [remarkjs/remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the @unifiedjs collective
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -560,6 +560,7 @@
 
 ## TypeScript 
 
+- [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
