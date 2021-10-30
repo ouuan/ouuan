@@ -30,6 +30,7 @@
   - [PureScript](#purescript)
   - [Python](#python)
   - [QML](#qml)
+  - [Ren'Py](#ren'py)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -194,6 +195,7 @@
 
 ## JavaScript 
 
+- [kgco/RateMySupervisor](https://github.com/kgco/RateMySupervisor) - 永久免费开源的导师评价数据、数据爬虫、无需编程基础的展示网页以及新信息补充平台
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [johnsoncodehk/vue-tsc](https://github.com/johnsoncodehk/vue-tsc) - vue-tsc --noEmit && vite build
@@ -498,6 +500,10 @@
 ## QML 
 
 - [WuSiYu/PlasmaVideoWallpaper](https://github.com/WuSiYu/PlasmaVideoWallpaper) - A KDE Plasma 5 wallpaper plugin which can let you using a video as the wallpaper
+
+## Ren'Py 
+
+- [MAY-game-studio/Loraines_when_they_shine](https://github.com/MAY-game-studio/Loraines_when_they_shine) - 
 
 ## Ruby 
 
