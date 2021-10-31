@@ -34,7 +34,7 @@ Wish you a good-looking profile README!
 I'm Y**ou** Y**u**f**an**, a freshman at THU.
 
 -   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
--   :pencil2: Arch Linux / i3wm / Neovim / nnn / Oh My Zsh
+-   :pencil2: Arch Linux / i3wm / Neovim / nnn / yadm
 -   :seedling: Taking courses & doing assignments at THU
 -   :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
 -   :man: Pronouns: he/him
