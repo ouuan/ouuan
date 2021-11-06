@@ -78,6 +78,7 @@
 
 ## C++ 
 
+- [kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) - bcrypt for NodeJs
 - [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [hluk/FakeVim](https://github.com/hluk/FakeVim) - Vim emulation in QTextEdit, QPlainTextEdit and similar Qt widgets
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
@@ -171,7 +172,7 @@
 - [Magolor/magolor.github.io](https://github.com/Magolor/magolor.github.io) - Magolor's Blog:
 - [remmina/BZPRO](https://github.com/remmina/BZPRO) - BZOJ离线题库 附赠爬虫一枚
 - [Ruanxingzhi/bzojch](https://github.com/Ruanxingzhi/bzojch) - BZOJ离线题库
-- [nocrizwang/OIer](https://github.com/nocrizwang/OIer) - A database for OIers
+- [OIerDb-ng/OIer](https://github.com/OIerDb-ng/OIer) - A database for OIers
 - [zyf722/zyf722.github.io](https://github.com/zyf722/zyf722.github.io) - World.create(__MAX__);
 
 ## Haml 
@@ -197,7 +198,14 @@
 
 ## JavaScript 
 
-- [dcodeIO/bcrypt.js](https://github.com/dcodeIO/bcrypt.js) - Optimized bcrypt in plain JavaScript with zero dependencies.
+- [fastify/fastify-secure-session](https://github.com/fastify/fastify-secure-session) - Create a secure stateless cookie session for Fastify
+- [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
+- [fastify/fastify-mongodb](https://github.com/fastify/fastify-mongodb) - Fastify MongoDB connection plugin
+- [fastify/fastify-jwt](https://github.com/fastify/fastify-jwt) - JWT utils for Fastify
+- [fastify/fastify-sensible](https://github.com/fastify/fastify-sensible) - Defaults for Fastify that everyone can agree on
+- [fastify/fastify-helmet](https://github.com/fastify/fastify-helmet) - Important security headers for Fastify
+- [fastify/fastify-csrf](https://github.com/fastify/fastify-csrf) - A fastify csrf plugin.
+- [fastify/fastify-cookie](https://github.com/fastify/fastify-cookie) - A Fastify plugin to add cookies support
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [fastify/fastify-auth](https://github.com/fastify/fastify-auth) - Run multiple auth functions in Fastify
 - [fastify/fastify-static](https://github.com/fastify/fastify-static) - Plugin for serving static file as fast as possible
