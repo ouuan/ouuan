@@ -416,7 +416,7 @@
 - [KeiKinn/ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下Shadowsocks的前世今生，以及一个简单的教程总结
 - [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享 - Program algorithm learning materials collection in Chinese
 - [QuadnucYard/extend-chen_zhe-voice](https://github.com/QuadnucYard/extend-chen_zhe-voice) - chen_zhe音源扩展版
-- [laynH/Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
+- [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [SFOI-Team/luogu-problem-list](https://github.com/SFOI-Team/luogu-problem-list) - A problem list for luogu OJ.
 - [teorth/QED](https://github.com/teorth/QED) - Repository for the QED interactive text and possible extensions
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
