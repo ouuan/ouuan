@@ -485,7 +485,7 @@
 - [kc97ble/testfmt5](https://github.com/kc97ble/testfmt5) - 
 - [zyf722/thedamn](https://github.com/zyf722/thedamn) - Windows CMD implementation of "The Fuck" (https://github.com/nvbn/thefuck)
 - [Latitude-Archives/AIDungeon](https://github.com/Latitude-Archives/AIDungeon) - Infinite adventures await!
-- [mathics/Mathics](https://github.com/mathics/Mathics) - This repository if for archival. Please see https://github.com/Mathics3/mathics-core
+- [mathics/Mathics](https://github.com/mathics/Mathics) - This repository is for archival. Please see https://github.com/Mathics3/mathics-core
 - [wd/hexo2hugo](https://github.com/wd/hexo2hugo) - Tools help you to migrate hexo files to hugo
 - [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
 - [ouuan/LuoguPaintBoard](https://github.com/ouuan/LuoguPaintBoard) - 洛谷冬日绘板脚本（已停止维护）
