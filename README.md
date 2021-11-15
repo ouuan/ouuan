@@ -204,7 +204,7 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
 
 ---
 
-#### :bar_chart: Weekly development breakdown
+#### :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
 ```text
