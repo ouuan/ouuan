@@ -20,4 +20,4 @@ jobs:
         uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
         with:
           token: ${{ secrets.STAR_FORK_TOKEN }}
-          template: "This profile README has <starCount> stars and <forkCount> forks"
+          template: "A profile README with <starCount> stars and <forkCount> forks 🌟"
