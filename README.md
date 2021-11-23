@@ -76,6 +76,13 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/lzwjava">lzwjava</a>
     </td>
     <td align="center">
+      <a href="https://github.com/mashirozx">
+        <img src="https://avatars2.githubusercontent.com/u/16148054" width="100px;" alt="mashirozx"/>
+      </a>
+      <br />
+      <a href="https://github.com/mashirozx">Mashiro</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Ir1d">
         <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
       </a>
@@ -89,6 +96,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/hua1995116">蓝色的秋风</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Trumeet">
         <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
@@ -96,8 +105,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/Trumeet">Yuuta Liang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/zTrix">
         <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
@@ -140,6 +147,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/thanhtoan1196">Toan Tran</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/guofei9987">
         <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
@@ -147,8 +156,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/guofei9987">郭飞</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/WBGlIl">
         <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
@@ -190,13 +197,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       </a>
       <br />
       <a href="https://github.com/memset0">whisperain</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sanshengshui">
-        <img src="https://avatars2.githubusercontent.com/u/23117382" width="100px;" alt="sanshengshui"/>
-      </a>
-      <br />
-      <a href="https://github.com/sanshengshui">mushuwei</a>
     </td>
   </tr>
 </table>
