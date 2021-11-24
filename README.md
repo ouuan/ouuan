@@ -127,6 +127,13 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/Fantasy9527">{F.A.N}</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Renovamen">
+        <img src="https://avatars2.githubusercontent.com/u/29454156" width="100px;" alt="Renovamen"/>
+      </a>
+      <br />
+      <a href="https://github.com/Renovamen">Xiaohan Zou</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/tengge1">
         <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
       </a>
@@ -140,6 +147,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/xtlsoft">Tianle Xu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/thanhtoan1196">
         <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
@@ -147,8 +156,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/thanhtoan1196">Toan Tran</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/guofei9987">
         <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
@@ -190,13 +197,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       </a>
       <br />
       <a href="https://github.com/EndlessCheng">EndlessCheng</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/memset0">
-        <img src="https://avatars2.githubusercontent.com/u/34177126" width="100px;" alt="memset0"/>
-      </a>
-      <br />
-      <a href="https://github.com/memset0">whisperain</a>
     </td>
   </tr>
 </table>
