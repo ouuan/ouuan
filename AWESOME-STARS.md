@@ -136,7 +136,6 @@
 
 ## Go 
 
-- [anatol/booster](https://github.com/anatol/booster) - Fast and secure initramfs generator
 - [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal) - Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA with App Authenticators and Yubico.
 - [greenpau/caddy-authorize](https://github.com/greenpau/caddy-authorize) - Authorization Plugin for Caddy v2 (JWT/PASETO)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
@@ -204,6 +203,7 @@
 
 ## JavaScript 
 
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [TheConnMan/docker-hub-rss](https://github.com/TheConnMan/docker-hub-rss) - RSS feed for Docker Hub images
 - [fastify/fastify-secure-session](https://github.com/fastify/fastify-secure-session) - Create a secure stateless cookie session for Fastify
 - [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
@@ -275,7 +275,7 @@
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of github repos
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of github repos www.star-history.com
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
 - [zamhown/wear-a-mask](https://github.com/zamhown/wear-a-mask) - 😷 An SPA that uses only the front-end to perform deep-learning-based facial landmark detection on images and automatically adds breathing mask stickers.
