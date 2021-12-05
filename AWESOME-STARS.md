@@ -275,7 +275,7 @@
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos star-history.com
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
 - [zamhown/wear-a-mask](https://github.com/zamhown/wear-a-mask) - 😷 An SPA that uses only the front-end to perform deep-learning-based facial landmark detection on images and automatically adds breathing mask stickers.
@@ -592,6 +592,7 @@
 
 ## TypeScript 
 
+- [UNIDY2002/THUInfo](https://github.com/UNIDY2002/THUInfo) - An APP aimed at integrating various sources of campus information, developed with React Native ⚛️
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
 - [antfu/unocss](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
