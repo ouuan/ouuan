@@ -141,21 +141,14 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/Fantasy9527">{F.A.N}</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Renovamen">
-        <img src="https://avatars2.githubusercontent.com/u/29454156" width="100px;" alt="Renovamen"/>
-      </a>
-      <br />
-      <a href="https://github.com/Renovamen">Xiaohan Zou</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/tengge1">
         <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
       </a>
       <br />
       <a href="https://github.com/tengge1">tengge1</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/xtlsoft">
         <img src="https://avatars2.githubusercontent.com/u/16159830" width="100px;" alt="xtlsoft"/>
@@ -197,6 +190,13 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       </a>
       <br />
       <a href="https://github.com/Konano">Nano</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mahmoud-Italy">
+        <img src="https://avatars2.githubusercontent.com/u/17962343" width="100px;" alt="Mahmoud-Italy"/>
+      </a>
+      <br />
+      <a href="https://github.com/Mahmoud-Italy">Mahmoud Italy</a>
     </td>
   </tr>
 </table>
