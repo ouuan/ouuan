@@ -599,7 +599,7 @@
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
 - [antfu/unocss](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [posva/pinia](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
+- [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [nuxt/framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
