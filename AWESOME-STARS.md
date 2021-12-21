@@ -595,7 +595,7 @@
 
 ## TypeScript 
 
-- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A blazing fast unit test framework powered by Vite ⚡️
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [UNIDY2002/THUInfo](https://github.com/UNIDY2002/THUInfo) - An APP aimed at integrating various sources of campus information, developed with React Native ⚛️
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
