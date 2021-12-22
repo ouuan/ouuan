@@ -204,6 +204,7 @@
 
 ## JavaScript 
 
+- [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [TheConnMan/docker-hub-rss](https://github.com/TheConnMan/docker-hub-rss) - RSS feed for Docker Hub images
 - [fastify/fastify-secure-session](https://github.com/fastify/fastify-secure-session) - Create a secure stateless cookie session for Fastify
