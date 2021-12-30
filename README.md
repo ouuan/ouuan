@@ -208,11 +208,11 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     18 hrs 39 mins  ███████▓░░░░░░░░░░░░░░░░░   30.75 % 
-C++          15 hrs 35 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.70 % 
-TypeScript   8 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-text         3 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Shell        2 hrs 22 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Markdown     18 hrs 49 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.83 % 
+C++          15 hrs 35 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.22 % 
+TypeScript   13 hrs 35 mins  █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+text         3 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+JSON         2 hrs 25 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 <!--END_SECTION:waka-->
 
