@@ -392,6 +392,7 @@
 
 ## Others 
 
+- [ouuan/luogu-motaki](https://github.com/ouuan/luogu-motaki) - 服务端-客户端架构的洛谷冬日绘板工具
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
 - [tuna/collection](https://github.com/tuna/collection) - idea collections from TUNA
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -692,6 +693,7 @@
 
 ## Vue 
 
+- [ouuan/luogu-paintboard-heatmap](https://github.com/ouuan/luogu-paintboard-heatmap) - 洛谷冬日绘板热力图
 - [MegEngine/MegSpot](https://github.com/MegEngine/MegSpot) - MegSpot是一款高效、专业、跨平台的图片&视频对比应用
 - [vuejs/docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) - :cn: Chinese translation for v3.vuejs.org
 - [vuejs/docs](https://github.com/vuejs/docs) - Vue 3 core documentation
