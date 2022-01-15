@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Awk](#awk)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -43,6 +44,10 @@
   - [Vim script](#vim-script)
   - [Vue](#vue)
   - [sed](#sed)
+
+## Awk 
+
+- [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 
 ## C 
 
@@ -176,7 +181,7 @@
 - [Lingeros-tot/Lingeros-tot.github.io](https://github.com/Lingeros-tot/Lingeros-tot.github.io) - 
 - [yhx-12243/OI-transit](https://github.com/yhx-12243/OI-transit) - OI transit
 - [Magolor/magolor.github.io](https://github.com/Magolor/magolor.github.io) - Magolor's Blog:
-- [remmina/BZPRO](https://github.com/remmina/BZPRO) - BZOJ离线题库 附赠爬虫一枚
+- [trinitrotofu/BZPRO](https://github.com/trinitrotofu/BZPRO) - BZOJ离线题库 附赠爬虫一枚
 - [Ruanxingzhi/bzojch](https://github.com/Ruanxingzhi/bzojch) - BZOJ离线题库
 - [OIerDb-ng/OIer](https://github.com/OIerDb-ng/OIer) - A database for OIers
 - [zyf722/zyf722.github.io](https://github.com/zyf722/zyf722.github.io) - World.create(__MAX__);
@@ -659,6 +664,7 @@
 
 ## Vim script 
 
+- [machakann/vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - Make the yanked region apparent!
 - [antoinemadec/FixCursorHold.nvim](https://github.com/antoinemadec/FixCursorHold.nvim) - Fix CursorHold Performance.
 - [axlebedev/footprints](https://github.com/axlebedev/footprints) - Vim plugin: footprints. Highlight last edited lines.
 - [leafOfTree/vim-vue-plugin](https://github.com/leafOfTree/vim-vue-plugin) - Vim syntax and indent plugin for .vue files
