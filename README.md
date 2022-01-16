@@ -192,11 +192,11 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/memset0">whisperain</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sanshengshui">
-        <img src="https://avatars2.githubusercontent.com/u/23117382" width="100px;" alt="sanshengshui"/>
+      <a href="https://github.com/iBug">
+        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
       </a>
       <br />
-      <a href="https://github.com/sanshengshui">mushuwei</a>
+      <a href="https://github.com/iBug">iBug</a>
     </td>
   </tr>
 </table>
