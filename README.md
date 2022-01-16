@@ -55,25 +55,11 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/wizardforcel">布客飞龙</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Magicianred">
-        <img src="https://avatars2.githubusercontent.com/u/4624113" width="100px;" alt="Magicianred"/>
-      </a>
-      <br />
-      <a href="https://github.com/Magicianred">Simone Paolucci</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gaocegege">
         <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
       </a>
       <br />
       <a href="https://github.com/gaocegege">Ce Gao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/webpointdev">
-        <img src="https://avatars2.githubusercontent.com/u/88071912" width="100px;" alt="webpointdev"/>
-      </a>
-      <br />
-      <a href="https://github.com/webpointdev">RabbitSheriff</a>
     </td>
     <td align="center">
       <a href="https://github.com/lzwjava">
@@ -96,8 +82,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/Ir1d">Ir1dXD</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/hua1995116">
         <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
@@ -112,6 +96,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/zTrix">Wenlei Zhu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Trumeet">
         <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
@@ -147,8 +133,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/xtlsoft">Tianle Xu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/guofei9987">
         <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
@@ -163,6 +147,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/thanhtoan1196">Toan Tran</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/cubercsl">
         <img src="https://avatars2.githubusercontent.com/u/22931465" width="100px;" alt="cubercsl"/>
@@ -185,18 +171,32 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/Konano">Nano</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Mahmoud-Italy">
-        <img src="https://avatars2.githubusercontent.com/u/17962343" width="100px;" alt="Mahmoud-Italy"/>
-      </a>
-      <br />
-      <a href="https://github.com/Mahmoud-Italy">Mahmoud Italy</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/EndlessCheng">
         <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
       </a>
       <br />
       <a href="https://github.com/EndlessCheng">EndlessCheng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lowlighter">
+        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+      </a>
+      <br />
+      <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/memset0">
+        <img src="https://avatars2.githubusercontent.com/u/34177126" width="100px;" alt="memset0"/>
+      </a>
+      <br />
+      <a href="https://github.com/memset0">whisperain</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sanshengshui">
+        <img src="https://avatars2.githubusercontent.com/u/23117382" width="100px;" alt="sanshengshui"/>
+      </a>
+      <br />
+      <a href="https://github.com/sanshengshui">mushuwei</a>
     </td>
   </tr>
 </table>
