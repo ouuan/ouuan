@@ -181,7 +181,7 @@
 - [Lingeros-tot/Lingeros-tot.github.io](https://github.com/Lingeros-tot/Lingeros-tot.github.io) - 
 - [yhx-12243/OI-transit](https://github.com/yhx-12243/OI-transit) - OI transit
 - [Magolor/magolor.github.io](https://github.com/Magolor/magolor.github.io) - Magolor's Blog:
-- [trinitrotofu/BZPRO](https://github.com/trinitrotofu/BZPRO) - BZOJ离线题库 附赠爬虫一枚
+- [trinitrotofu/BZPRO](https://github.com/trinitrotofu/BZPRO) - BZOJ离线题库 附赠下载器一枚
 - [Ruanxingzhi/bzojch](https://github.com/Ruanxingzhi/bzojch) - BZOJ离线题库
 - [OIerDb-ng/OIer](https://github.com/OIerDb-ng/OIer) - A database for OIers
 - [zyf722/zyf722.github.io](https://github.com/zyf722/zyf722.github.io) - World.create(__MAX__);
