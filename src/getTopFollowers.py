@@ -48,8 +48,14 @@ query {{
                 following {{
                     totalCount
                 }}
-                repositories {{
+                repositories(first: 3, isFork: false, orderBy: {{
+                    field: STARGAZERS,
+                    direction: DESC
+                }}) {{
                     totalCount
+                    nodes {{
+                        stargazerCount
+                    }}
                 }}
                 followers {{
                     totalCount
@@ -63,13 +69,14 @@ query {{
         res = response.json()["data"]["user"]["followers"]
         for follower in res["nodes"]:
             following = follower["following"]["totalCount"]
-            repo = follower["repositories"]["totalCount"]
+            repoCount = follower["repositories"]["totalCount"]
             login = follower["login"]
             name = follower["name"]
             id = follower["databaseId"]
             followerNumber = follower["followers"]["totalCount"]
-            if following > repo * 50:
-                print(f"Ignored: https://github.com/{login} with {followerNumber} followers and {following} following")
+            thirdStars = follower["repositories"]["nodes"][2]["stargazerCount"] if repoCount >= 3 else 0
+            if (following > repoCount * 50 and thirdStars < 30) or thirdStars < 5:
+                print(f"Skipped: https://github.com/{login} with {followerNumber} followers and {following} following")
                 continue
             followers.append((followerNumber, login, id, name if name else login))
             print(followers[-1])
