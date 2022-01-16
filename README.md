@@ -34,7 +34,7 @@ Wish you a good-looking profile README!
 I'm Y**ou** Y**u**f**an**, a freshman at THU.
 
 -   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
--   :pencil2: Arch Linux / i3wm / Neovim / nnn / yadm
+-   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
 -   :seedling: Taking courses & doing assignments at THU
 -   :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
 -   :man: Pronouns: he/him
@@ -42,7 +42,7 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
 
 ---
 
-#### :sparkles: My followers
+#### :sparkles: [My followers](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -204,7 +204,7 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
 
 ---
 
-#### :bar_chart: Monthly coding time
+#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
 ```text
@@ -218,6 +218,6 @@ Vue          4 hrs 58 mins   ██░░░░░░░░░░░░░░░
 
 ---
 
-#### :star2: Projects starred by me
+#### :star2: [Projects starred by me](https://github.com/maguowei/starred)
 
 [My Awesome Stars](AWESOME-STARS.md)
