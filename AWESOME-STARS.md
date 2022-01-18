@@ -706,7 +706,7 @@
 - [ouuan/luogu-paintboard-heatmap](https://github.com/ouuan/luogu-paintboard-heatmap) - 洛谷冬日绘板热力图
 - [MegEngine/MegSpot](https://github.com/MegEngine/MegSpot) - MegSpot是一款高效、专业、跨平台的图片&视频对比应用
 - [vuejs/docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) - :cn: Chinese translation for v3.vuejs.org
-- [vuejs/docs](https://github.com/vuejs/docs) - Vue 3 core documentation
+- [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
 - [Norserium/vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper) - The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design
 - [xiaokaike/vue-color](https://github.com/xiaokaike/vue-color) - :art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
