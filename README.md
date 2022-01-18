@@ -62,6 +62,13 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/gaocegege">Ce Gao</a>
     </td>
     <td align="center">
+      <a href="https://github.com/webpointdev">
+        <img src="https://avatars2.githubusercontent.com/u/88071912" width="100px;" alt="webpointdev"/>
+      </a>
+      <br />
+      <a href="https://github.com/webpointdev">RabbitSheriff</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lzwjava">
         <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
       </a>
@@ -89,6 +96,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/hua1995116">蓝色的秋风</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zTrix">
         <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
@@ -96,8 +105,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/zTrix">Wenlei Zhu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Trumeet">
         <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
@@ -140,6 +147,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/guofei9987">郭飞</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/thanhtoan1196">
         <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
@@ -147,8 +156,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/thanhtoan1196">Toan Tran</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/cubercsl">
         <img src="https://avatars2.githubusercontent.com/u/22931465" width="100px;" alt="cubercsl"/>
@@ -190,13 +197,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       </a>
       <br />
       <a href="https://github.com/memset0">whisperain</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/iBug">
-        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
-      </a>
-      <br />
-      <a href="https://github.com/iBug">iBug</a>
     </td>
   </tr>
 </table>
