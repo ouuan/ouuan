@@ -83,6 +83,7 @@
 
 ## C++ 
 
+- [xsun2001/thuac2022-adk](https://github.com/xsun2001/thuac2022-adk) - 
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) - bcrypt for NodeJs
 - [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
