@@ -459,7 +459,6 @@
 
 ## Python 
 
-- [saiblo/saiblo-local-judger](https://github.com/saiblo/saiblo-local-judger) - 
 - [Konano/Tuna-Erha-Bot](https://github.com/Konano/Tuna-Erha-Bot) - 
 - [RimoChan/steal_piano](https://github.com/RimoChan/steal_piano) - 【steal piano】GitHub偷情分析工具！
 - [rss2email/rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
