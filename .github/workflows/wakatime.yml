@@ -14,3 +14,4 @@ jobs:
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
           COMMIT_MESSAGE: Update Wakapi stats
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+          BLOCKS: "⬜🟨🟩"
