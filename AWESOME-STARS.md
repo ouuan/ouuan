@@ -144,6 +144,7 @@
 
 ## Go 
 
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
 - [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal) - Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA with App Authenticators and Yubico.
 - [greenpau/caddy-authorize](https://github.com/greenpau/caddy-authorize) - Authorization Plugin for Caddy v2 (JWT/PASETO)
@@ -278,7 +279,6 @@
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
-- [dd-center/bilibili-vtuber-danmaku](https://github.com/dd-center/bilibili-vtuber-danmaku) - Vtuber直播间的弹幕哟~
 - [Monogatari/Monogatari](https://github.com/Monogatari/Monogatari) - Monogatari is a simple web visual novel engine, created to bring Visual Novels to the web.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
@@ -429,6 +429,7 @@
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [iotang/oiQuotations](https://github.com/iotang/oiQuotations) - Quotations for oi
+- [dd-center/bilibili-vtuber-danmaku](https://github.com/dd-center/bilibili-vtuber-danmaku) - Vtuber直播间的弹幕哟~
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [ouuan/omuse-zsh-theme](https://github.com/ouuan/omuse-zsh-theme) - A zsh theme based on amuse
