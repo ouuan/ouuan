@@ -66,7 +66,7 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
         <img src="https://avatars2.githubusercontent.com/u/88071912" width="100px;" alt="webpointdev"/>
       </a>
       <br />
-      <a href="https://github.com/webpointdev">RabbitSheriff</a>
+      <a href="https://github.com/webpointdev">New Dragon Warrior</a>
     </td>
     <td align="center">
       <a href="https://github.com/lzwjava">
