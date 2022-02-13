@@ -556,6 +556,7 @@
 
 ## Ruby 
 
+- [AndrewRadev/switch.vim](https://github.com/AndrewRadev/switch.vim) - A simple Vim plugin to switch segments of text with predefined replacements
 - [igrigorik/vimgolf](https://github.com/igrigorik/vimgolf) - Real Vim ninjas count every keystroke - do you?
 - [igrigorik/gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 
