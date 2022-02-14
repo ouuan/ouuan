@@ -470,6 +470,7 @@
 
 ## Python 
 
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
 - [Konano/Tuna-Erha-Bot](https://github.com/Konano/Tuna-Erha-Bot) - 
 - [RimoChan/steal_piano](https://github.com/RimoChan/steal_piano) - 【steal piano】GitHub偷情分析工具！
