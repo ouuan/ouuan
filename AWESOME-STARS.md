@@ -217,6 +217,7 @@
 
 ## JavaScript 
 
+- [wuomzfx/tree-shaking-test](https://github.com/wuomzfx/tree-shaking-test) - how to do tree-shaking best
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [fastify/fastify-autoload](https://github.com/fastify/fastify-autoload) - Require all plugins in a directory
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
@@ -620,6 +621,7 @@
 
 ## TypeScript 
 
+- [jakearchibald/wordle-analyzer](https://github.com/jakearchibald/wordle-analyzer) - 
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
