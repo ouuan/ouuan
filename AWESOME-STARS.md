@@ -217,6 +217,7 @@
 
 ## JavaScript 
 
+- [akshayravikumar/TeXnique](https://github.com/akshayravikumar/TeXnique) - A LaTeX Typesetting Game
 - [wuomzfx/tree-shaking-test](https://github.com/wuomzfx/tree-shaking-test) - how to do tree-shaking best
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
 - [fastify/fastify-autoload](https://github.com/fastify/fastify-autoload) - Require all plugins in a directory
