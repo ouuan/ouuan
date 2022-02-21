@@ -587,6 +587,7 @@
 
 ## Shell 
 
+- [tamago324/cmp-zsh](https://github.com/tamago324/cmp-zsh) - nvim-cmp source for zsh
 - [SiddharthPant/booky](https://github.com/SiddharthPant/booky) - A simple script for pdf bookmarks creation
 - [nachoparker/btrfs-du](https://github.com/nachoparker/btrfs-du) - Easily print BTRFS subvolume/snapshot disk usage
 - [KSXGitHub/github-actions-deploy-aur](https://github.com/KSXGitHub/github-actions-deploy-aur) - GitHub Actions to publish AUR package
