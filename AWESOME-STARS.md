@@ -482,7 +482,7 @@
 - [rocats/repeater](https://github.com/rocats/repeater) - demo: @greater_repeater_bot
 - [anishathalye/neural-hash-collider](https://github.com/anishathalye/neural-hash-collider) - Preimage attack against NeuralHash 💣
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
-- [SigureMo/yutto](https://github.com/SigureMo/yutto) - :ice_cube: 一个可爱且任性的 B 站视频下载器（bilili2.x）
+- [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice_cube: 一个可爱且任性的 B 站视频下载器（bilili2.x）
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [jrouleau/bluetooth-autoconnect](https://github.com/jrouleau/bluetooth-autoconnect) - A linux command line tool to automatically connect to all paired and trusted bluetooth devices.
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
@@ -493,7 +493,7 @@
 - [nodchip/OnlineJudgeHelper](https://github.com/nodchip/OnlineJudgeHelper) - A scriprt to improve  the usability of online judges
 - [repology/repology-updater](https://github.com/repology/repology-updater) - Repology backend service to update repository and package data
 - [TobxD/codeforces_live_bot](https://github.com/TobxD/codeforces_live_bot) - 
-- [SigureMo/bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
+- [yutto-dev/bilili](https://github.com/yutto-dev/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [yanglbme/gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) - 🤖 Auto Deploy Gitee Pages With GitHub Actions | 无须人为干预，由 GitHub Actions 自动部署 Gitee Pages
 - [fkxxyz/rime-cloverpinyin](https://github.com/fkxxyz/rime-cloverpinyin) - 🍀️四叶草拼音输入方案，做最好用的基于rime开源的简体拼音输入方案！
