@@ -193,11 +193,11 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/EndlessCheng">EndlessCheng</a>
     </td>
     <td align="center">
-      <a href="https://github.com/memset0">
-        <img src="https://avatars2.githubusercontent.com/u/34177126" width="100px;" alt="memset0"/>
+      <a href="https://github.com/Clansty">
+        <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="Clansty"/>
       </a>
       <br />
-      <a href="https://github.com/memset0">whisperain</a>
+      <a href="https://github.com/Clansty">凌莞~(=^▽^=)</a>
     </td>
   </tr>
 </table>
