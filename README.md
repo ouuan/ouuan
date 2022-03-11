@@ -194,11 +194,11 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/WBGlIl">WBGlIl</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Clansty">
-        <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="Clansty"/>
+      <a href="https://github.com/iBug">
+        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
       </a>
       <br />
-      <a href="https://github.com/Clansty">凌莞~(=^▽^=)</a>
+      <a href="https://github.com/iBug">iBug</a>
     </td>
   </tr>
 </table>
