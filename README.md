@@ -126,7 +126,7 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
         <img src="https://avatars2.githubusercontent.com/u/9129438" width="100px;" alt="Fantasy9527"/>
       </a>
       <br />
-      <a href="https://github.com/Fantasy9527">{F.A.N}</a>
+      <a href="https://github.com/Fantasy9527">TIGA_142857</a>
     </td>
     <td align="center">
       <a href="https://github.com/tengge1">
