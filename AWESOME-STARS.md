@@ -98,7 +98,7 @@
 - [hluk/FakeVim](https://github.com/hluk/FakeVim) - Vim emulation in QTextEdit, QPlainTextEdit and similar Qt widgets
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
-- [THMonster/QLivePlayer](https://github.com/THMonster/QLivePlayer) - A cute and useful Live Stream Player with danmaku support.
+- [THMonster/QLivePlayer](https://github.com/THMonster/QLivePlayer) - Tools to play live stream with danmaku.
 - [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [leanprover-community/lean](https://github.com/leanprover-community/lean) - Lean Theorem Prover
 - [dev-cafe/cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook) - CMake Cookbook recipes.
@@ -175,7 +175,7 @@
 
 ## HTML 
 
-- [plazum/find-keke](https://github.com/plazum/find-keke) - 寻找唐可可
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [wjdp/htmltest](https://github.com/wjdp/htmltest) - :white_check_mark: Test generated HTML for problems
 - [ouuan/fake-luogu-paintboard-server](https://github.com/ouuan/fake-luogu-paintboard-server) - 模拟洛谷冬日绘板服务器，可用于测试脚本。
@@ -223,6 +223,7 @@
 - [fastify/fastify-autoload](https://github.com/fastify/fastify-autoload) - Require all plugins in a directory
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [plazum/find-keke](https://github.com/plazum/find-keke) - 寻找唐可可
 - [TheConnMan/docker-hub-rss](https://github.com/TheConnMan/docker-hub-rss) - RSS feed for Docker Hub images
 - [fastify/fastify-secure-session](https://github.com/fastify/fastify-secure-session) - Create a secure stateless cookie session for Fastify
 - [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
