@@ -217,6 +217,7 @@
 
 ## JavaScript 
 
+- [kawa-yoiko/medle](https://github.com/kawa-yoiko/medle) - 旋律猜谜游戏，每日更新~・Daily melody-guessing game (available in en/zh)
 - [akshayravikumar/TeXnique](https://github.com/akshayravikumar/TeXnique) - A LaTeX Typesetting Game
 - [wuomzfx/tree-shaking-test](https://github.com/wuomzfx/tree-shaking-test) - how to do tree-shaking best
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
@@ -625,6 +626,7 @@
 
 ## TypeScript 
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [jakearchibald/wordle-analyzer](https://github.com/jakearchibald/wordle-analyzer) - 
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
