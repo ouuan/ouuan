@@ -541,7 +541,7 @@
 - [ouuan/Anti-YiGeDingLia](https://github.com/ouuan/Anti-YiGeDingLia) - 反一个顶俩
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 - [memset0/uoj-ac-compare](https://github.com/memset0/uoj-ac-compare) - UOJ 通过题目比较器
-- [megvii-research/ICCV2019-LearningToPaint](https://github.com/megvii-research/ICCV2019-LearningToPaint) - ICCV2019 - A painting AI that can reproduce paintings stroke by stroke using deep reinforcement learning.
+- [megvii-research/ICCV2019-LearningToPaint](https://github.com/megvii-research/ICCV2019-LearningToPaint) - ICCV2019 - Learning to Paint With Model-based Deep Reinforcement Learning
 - [Nandaka/PixivUtil2](https://github.com/Nandaka/PixivUtil2) - Download images from Pixiv and more!
 - [mattya/chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) - Chainer implementation of Deep Convolutional Generative Adversarial Network
 - [joelibaceta/video-to-ascii](https://github.com/joelibaceta/video-to-ascii) - It is a simple python package to play videos in the terminal using characters as pixels
