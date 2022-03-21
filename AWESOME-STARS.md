@@ -98,7 +98,6 @@
 - [hluk/FakeVim](https://github.com/hluk/FakeVim) - Vim emulation in QTextEdit, QPlainTextEdit and similar Qt widgets
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
-- [THMonster/QLivePlayer](https://github.com/THMonster/QLivePlayer) - Tools to play live stream with danmaku.
 - [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [leanprover-community/lean](https://github.com/leanprover-community/lean) - Lean Theorem Prover
 - [dev-cafe/cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook) - CMake Cookbook recipes.
@@ -175,7 +174,6 @@
 
 ## HTML 
 
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [wjdp/htmltest](https://github.com/wjdp/htmltest) - :white_check_mark: Test generated HTML for problems
 - [ouuan/fake-luogu-paintboard-server](https://github.com/ouuan/fake-luogu-paintboard-server) - 模拟洛谷冬日绘板服务器，可用于测试脚本。
@@ -338,6 +336,7 @@
 
 ## Kotlin 
 
+- [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
@@ -410,6 +409,7 @@
 
 ## Markdown 
 
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [FastGitORG/document](https://github.com/FastGitORG/document) - 📄 FastGit Document
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -574,6 +574,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
+- [THMonster/Revda](https://github.com/THMonster/Revda) - Tools to play live stream with danmaku.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
