@@ -143,20 +143,20 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/guofei9987">郭飞</a>
     </td>
     <td align="center">
-      <a href="https://github.com/xtlsoft">
-        <img src="https://avatars2.githubusercontent.com/u/16159830" width="100px;" alt="xtlsoft"/>
-      </a>
-      <br />
-      <a href="https://github.com/xtlsoft">Tianle Xu</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
       </a>
       <br />
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/xtlsoft">
+        <img src="https://avatars2.githubusercontent.com/u/16159830" width="100px;" alt="xtlsoft"/>
+      </a>
+      <br />
+      <a href="https://github.com/xtlsoft">Tianle Xu</a>
     </td>
     <td align="center">
       <a href="https://github.com/cubercsl">
