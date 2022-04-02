@@ -89,7 +89,7 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
         <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
       </a>
       <br />
-      <a href="https://github.com/Ir1d">Ir1dXD</a>
+      <a href="https://github.com/Ir1d">Dejia Xu</a>
     </td>
     <td align="center">
       <a href="https://github.com/hua1995116">
