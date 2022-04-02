@@ -569,6 +569,7 @@
 
 ## Ruby 
 
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [AndrewRadev/switch.vim](https://github.com/AndrewRadev/switch.vim) - A simple Vim plugin to switch segments of text with predefined replacements
 - [igrigorik/vimgolf](https://github.com/igrigorik/vimgolf) - Real Vim ninjas count every keystroke - do you?
 - [igrigorik/gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
@@ -634,6 +635,8 @@
 
 ## TypeScript 
 
+- [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
+- [plausible/plausible-tracker](https://github.com/plausible/plausible-tracker) - Frontend library to interact with Plausible Analytics
 - [RennCheung/codemirror-editor-vue3](https://github.com/RennCheung/codemirror-editor-vue3) - CodeMirror component for Vue3
 - [LeSuisse/vue-dompurify-html](https://github.com/LeSuisse/vue-dompurify-html) - Safe replacement for the v-html directive
 - [tooot-app/app](https://github.com/tooot-app/app) - 
