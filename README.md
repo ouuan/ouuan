@@ -166,18 +166,18 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/cubercsl">cubercsl</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Konano">
-        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
-      </a>
-      <br />
-      <a href="https://github.com/Konano">Nano</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/EndlessCheng">
         <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
       </a>
       <br />
       <a href="https://github.com/EndlessCheng">EndlessCheng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Konano">
+        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
+      </a>
+      <br />
+      <a href="https://github.com/Konano">Nano</a>
     </td>
     <td align="center">
       <a href="https://github.com/thanhtoan1196">
