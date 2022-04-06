@@ -115,7 +115,7 @@
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor) - The IDE for competitive programming :tada: | Fetch, Code, Compile, Run, Check, Submit :rocket:
 - [qt/qtbase](https://github.com/qt/qtbase) - Qt Base (Core, Gui, Widgets, Network, ...)
-- [itay-grudev/SingleApplication](https://github.com/itay-grudev/SingleApplication) - Replacement of QtSingleApplication for Qt5 with support for instance communication.
+- [itay-grudev/SingleApplication](https://github.com/itay-grudev/SingleApplication) - Replacement of QtSingleApplication for Qt5 and Qt6 with support for instance communication.
 - [vijos/malicious-code](https://github.com/vijos/malicious-code) - Malicious code that Vijos judged.
 - [syzoj/syzoj-tools](https://github.com/syzoj/syzoj-tools) - 一个为 OI 题目设计的方便的命令行工具，实现造题、验题、评测等整个评测流程
 - [keyu-tian/Gobang-by-Qt](https://github.com/keyu-tian/Gobang-by-Qt) - A Gobang game (includes a naive AI) based on Min-Max-Search and Alpha-Beta-Pruning algorithm. (by Qt5.11)
@@ -220,6 +220,7 @@
 
 ## JavaScript 
 
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [kawa-yoiko/medle](https://github.com/kawa-yoiko/medle) - 旋律猜谜游戏，每日更新~・Daily melody-guessing game (available in en/zh)
 - [akshayravikumar/TeXnique](https://github.com/akshayravikumar/TeXnique) - A LaTeX Typesetting Game
