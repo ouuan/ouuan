@@ -360,6 +360,8 @@
 
 ## Lua 
 
+- [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Lua plugin for starting and interacting with github copilot
+- [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
 - [lukas-reineke/cmp-under-comparator](https://github.com/lukas-reineke/cmp-under-comparator) - nvim-cmp comparator function for completion items that start with one or more underlines
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
@@ -577,6 +579,7 @@
 
 ## Rust 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
@@ -636,6 +639,7 @@
 
 ## TypeScript 
 
+- [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
 - [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 - [plausible/plausible-tracker](https://github.com/plausible/plausible-tracker) - Frontend library to interact with Plausible Analytics
