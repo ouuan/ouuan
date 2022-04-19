@@ -71,18 +71,18 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/webpointdev">New Dragon Warrior</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lzwjava">
-        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
-      </a>
-      <br />
-      <a href="https://github.com/lzwjava">lzwjava</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mashirozx">
         <img src="https://avatars2.githubusercontent.com/u/16148054" width="100px;" alt="mashirozx"/>
       </a>
       <br />
       <a href="https://github.com/mashirozx">Mashiro</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lzwjava">
+        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
+      </a>
+      <br />
+      <a href="https://github.com/lzwjava">lzwjava</a>
     </td>
     <td align="center">
       <a href="https://github.com/Ir1d">
