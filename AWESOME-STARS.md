@@ -220,6 +220,12 @@
 
 ## JavaScript 
 
+- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
+- [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
+- [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
+- [ahmadnassri/node-glob-promise](https://github.com/ahmadnassri/node-glob-promise) - Promise version of glob
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [kawa-yoiko/medle](https://github.com/kawa-yoiko/medle) - 旋律猜谜游戏，每日更新~・Daily melody puzzle game (available in en/zh)
@@ -639,6 +645,10 @@
 
 ## TypeScript 
 
+- [hoiheart/vue-diff](https://github.com/hoiheart/vue-diff) - VueJS diff viewer plugin
+- [vbenjs/vite-plugin-compression](https://github.com/vbenjs/vite-plugin-compression) - Use gzip or brotli to compress resources
+- [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template
+- [antfu/vite-plugin-restart](https://github.com/antfu/vite-plugin-restart) - Custom files/globs to restart Vite server
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [antfu/vue-starport](https://github.com/antfu/vue-starport) - 🛰 Shared component across routes with animations
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
