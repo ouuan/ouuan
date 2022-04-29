@@ -9,9 +9,11 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: ouuan/waka-readme@30days
+      - uses: athul/waka-readme@b317bba454ce1f0bacbcd7cdd3bfa6355f8fa4d1
         with:
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
-          COMMIT_MESSAGE: Update Wakapi stats
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+          COMMIT_MESSAGE: Update Wakapi stats
           BLOCKS: "⬜🟨🟩"
+          TIME_RANGE: last_30_days
+          SHOW_TIME: true
