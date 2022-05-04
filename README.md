@@ -136,18 +136,18 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/Fantasy9527">No.142857</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tengge1">
-        <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
-      </a>
-      <br />
-      <a href="https://github.com/tengge1">tengge1</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/guofei9987">
         <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
       </a>
       <br />
       <a href="https://github.com/guofei9987">郭飞</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tengge1">
+        <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
+      </a>
+      <br />
+      <a href="https://github.com/tengge1">tengge1</a>
     </td>
   </tr>
   <tr>
