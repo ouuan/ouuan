@@ -246,7 +246,7 @@
 - [fastify/fastify-jwt](https://github.com/fastify/fastify-jwt) - JWT utils for Fastify
 - [fastify/fastify-sensible](https://github.com/fastify/fastify-sensible) - Defaults for Fastify that everyone can agree on
 - [fastify/fastify-helmet](https://github.com/fastify/fastify-helmet) - Important security headers for Fastify
-- [fastify/fastify-csrf](https://github.com/fastify/fastify-csrf) - A fastify csrf plugin.
+- [fastify/csrf-protection](https://github.com/fastify/csrf-protection) - A fastify csrf plugin.
 - [fastify/fastify-cookie](https://github.com/fastify/fastify-cookie) - A Fastify plugin to add cookies support
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [fastify/fastify-auth](https://github.com/fastify/fastify-auth) - Run multiple auth functions in Fastify
@@ -275,7 +275,6 @@
 - [mauriciopoppe/greuler](https://github.com/mauriciopoppe/greuler) - Graph theory visualizations
 - [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
 - [mkg20001/tg-sticker-convert-bot](https://github.com/mkg20001/tg-sticker-convert-bot) - Converts Telegram Photos / Documents into the required 512 .PNG format
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [piroor/tst-more-tree-commands](https://github.com/piroor/tst-more-tree-commands) - Provides extra tree manipulation commands for Tree Style Tab.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [enyancc/vscode-ext-color-highlight](https://github.com/enyancc/vscode-ext-color-highlight) - Extension adds colored border around css/web colors in the editor
@@ -663,7 +662,7 @@
 - [RennCheung/codemirror-editor-vue3](https://github.com/RennCheung/codemirror-editor-vue3) - CodeMirror component for Vue3
 - [LeSuisse/vue-dompurify-html](https://github.com/LeSuisse/vue-dompurify-html) - Safe replacement for the v-html directive
 - [tooot-app/app](https://github.com/tooot-app/app) - 
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [jakearchibald/wordle-analyzer](https://github.com/jakearchibald/wordle-analyzer) - 
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
@@ -695,6 +694,7 @@
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [Dreamacro/clash-dashboard](https://github.com/Dreamacro/clash-dashboard) - web port of clash
 - [znck/grammarly](https://github.com/znck/grammarly) - Grammarly for VS Code
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
