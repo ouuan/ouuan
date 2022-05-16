@@ -492,6 +492,7 @@
 
 ## Python 
 
+- [haiwen/seahub](https://github.com/haiwen/seahub) - The web end of seafile server.
 - [nICEnnnnnnnLee/LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) - you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
