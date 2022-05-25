@@ -166,13 +166,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/cubercsl">cubercsl</a>
     </td>
     <td align="center">
-      <a href="https://github.com/xtlsoft">
-        <img src="https://avatars2.githubusercontent.com/u/16159830" width="100px;" alt="xtlsoft"/>
-      </a>
-      <br />
-      <a href="https://github.com/xtlsoft">Tianle Xu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Konano">
         <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
       </a>
@@ -180,11 +173,11 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/Konano">Nano</a>
     </td>
     <td align="center">
-      <a href="https://github.com/thanhtoan1196">
-        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
+      <a href="https://github.com/xtlsoft">
+        <img src="https://avatars2.githubusercontent.com/u/16159830" width="100px;" alt="xtlsoft"/>
       </a>
       <br />
-      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
+      <a href="https://github.com/xtlsoft">Tianle Xu</a>
     </td>
     <td align="center">
       <a href="https://github.com/WBGlIl">
@@ -192,6 +185,13 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       </a>
       <br />
       <a href="https://github.com/WBGlIl">WBGlIl</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/thanhtoan1196">
+        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
+      </a>
+      <br />
+      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
     </td>
     <td align="center">
       <a href="https://github.com/Clansty">
