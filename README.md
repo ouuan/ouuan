@@ -57,13 +57,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/wizardforcel">布客飞龙</a>
     </td>
     <td align="center">
-      <a href="https://github.com/esin">
-        <img src="https://avatars2.githubusercontent.com/u/69767" width="100px;" alt="esin"/>
-      </a>
-      <br />
-      <a href="https://github.com/esin">Andrey Esin</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gaocegege">
         <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
       </a>
@@ -98,8 +91,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/Ir1d">Dejia Xu</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/hua1995116">
         <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
@@ -107,6 +98,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/hua1995116">蓝色的秋风</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/zTrix">
         <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
@@ -149,8 +142,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/Fantasy9527">No.142857</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/EndlessCheng">
         <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
@@ -158,6 +149,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/EndlessCheng">灵茶山艾府（0x3F）</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/tengge1">
         <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
@@ -194,11 +187,18 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/WBGlIl">WBGlIl</a>
     </td>
     <td align="center">
-      <a href="https://github.com/thanhtoan1196">
-        <img src="https://avatars2.githubusercontent.com/u/16433547" width="100px;" alt="thanhtoan1196"/>
+      <a href="https://github.com/Clansty">
+        <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="Clansty"/>
       </a>
       <br />
-      <a href="https://github.com/thanhtoan1196">Toan Tran</a>
+      <a href="https://github.com/Clansty">凌莞~(=^▽^=)</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/iBug">
+        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
+      </a>
+      <br />
+      <a href="https://github.com/iBug">iBug</a>
     </td>
   </tr>
 </table>
