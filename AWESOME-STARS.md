@@ -659,7 +659,6 @@
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
 - [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 - [plausible/plausible-tracker](https://github.com/plausible/plausible-tracker) - Frontend library to interact with Plausible Analytics
-- [RennCheung/codemirror-editor-vue3](https://github.com/RennCheung/codemirror-editor-vue3) - CodeMirror component for Vue3
 - [LeSuisse/vue-dompurify-html](https://github.com/LeSuisse/vue-dompurify-html) - Safe replacement for the v-html directive
 - [tooot-app/app](https://github.com/tooot-app/app) - 
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
