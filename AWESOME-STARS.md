@@ -223,7 +223,7 @@
 
 ## JavaScript 
 
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
+- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [ahmadnassri/node-glob-promise](https://github.com/ahmadnassri/node-glob-promise) - Promise version of glob
@@ -416,7 +416,7 @@
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
 - [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars.
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [zyf722/nShogi-Lua](https://github.com/zyf722/nShogi-Lua) - A Shogi game written in TI-Lua
 
 ## Makefile 
@@ -588,6 +588,7 @@
 
 ## Rust 
 
+- [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -648,6 +649,7 @@
 
 ## TypeScript 
 
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [hgraceb/flop-player](https://github.com/hgraceb/flop-player) - Web minesweeper player
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [hoiheart/vue-diff](https://github.com/hoiheart/vue-diff) - VueJS diff viewer plugin
