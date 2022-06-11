@@ -136,18 +136,18 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/guofei9987">郭飞</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Fantasy9527">
-        <img src="https://avatars2.githubusercontent.com/u/9129438" width="100px;" alt="Fantasy9527"/>
-      </a>
-      <br />
-      <a href="https://github.com/Fantasy9527">No.142857</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/EndlessCheng">
         <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
       </a>
       <br />
       <a href="https://github.com/EndlessCheng">灵茶山艾府（0x3F）</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fantasy9527">
+        <img src="https://avatars2.githubusercontent.com/u/9129438" width="100px;" alt="Fantasy9527"/>
+      </a>
+      <br />
+      <a href="https://github.com/Fantasy9527">No.142857</a>
     </td>
   </tr>
   <tr>
