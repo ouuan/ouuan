@@ -689,7 +689,7 @@
 - [dividab/ts-exhaustive-check](https://github.com/dividab/ts-exhaustive-check) - Exhaustive check for typescript type never
 - [ibezkrovnyi/image-quantization](https://github.com/ibezkrovnyi/image-quantization) - Image Quantization Library with alpha support (based on https://github.com/leeoniya/RgbQuant.js, https://github.com/timoxley/neuquant and http://www.ece.mcmaster.ca/~xwu/cq.c)
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown editor and viewer
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
 - [3Shain/Comen](https://github.com/3Shain/Comen) - 📺直播用弹幕栏【原bilichat】
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
