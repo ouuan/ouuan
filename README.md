@@ -129,13 +129,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <a href="https://github.com/gdut-yy">张逸扬</a>
     </td>
     <td align="center">
-      <a href="https://github.com/guofei9987">
-        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
-      </a>
-      <br />
-      <a href="https://github.com/guofei9987">郭飞</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/EndlessCheng">
         <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
       </a>
@@ -149,8 +142,6 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/Fantasy9527">No.142857</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/tengge1">
         <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
@@ -158,6 +149,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       <br />
       <a href="https://github.com/tengge1">tengge1</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Konano">
         <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
@@ -199,6 +192,13 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
       </a>
       <br />
       <a href="https://github.com/iBug">iBug</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Enter-tainer">
+        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
+      </a>
+      <br />
+      <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
     </td>
   </tr>
 </table>
