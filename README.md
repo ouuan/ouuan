@@ -101,18 +101,18 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/zTrix">
-        <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
-      </a>
-      <br />
-      <a href="https://github.com/zTrix">Wenlei Zhu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
       </a>
       <br />
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zTrix">
+        <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
+      </a>
+      <br />
+      <a href="https://github.com/zTrix">Wenlei Zhu</a>
     </td>
     <td align="center">
       <a href="https://github.com/Trumeet">
