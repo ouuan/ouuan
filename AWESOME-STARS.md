@@ -649,6 +649,7 @@
 
 ## TypeScript 
 
+- [ElMassimo/iles](https://github.com/ElMassimo/iles) - 🏝 The joyful site generator
 - [ka-weihe/fastest-levenshtein](https://github.com/ka-weihe/fastest-levenshtein) - The fastest implementation of Levenshtein distance in JS/TS.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [hgraceb/flop-player](https://github.com/hgraceb/flop-player) - Web minesweeper player
@@ -728,6 +729,7 @@
 
 ## Vim script 
 
+- [jxnblk/vim-mdx-js](https://github.com/jxnblk/vim-mdx-js) - 
 - [machakann/vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - Make the yanked region apparent!
 - [glts/vim-textobj-comment](https://github.com/glts/vim-textobj-comment) - Vim text objects for comments
 - [antoinemadec/FixCursorHold.nvim](https://github.com/antoinemadec/FixCursorHold.nvim) - Fix CursorHold Performance.
