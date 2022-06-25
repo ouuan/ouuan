@@ -139,7 +139,6 @@
 
 ## CSS 
 
-- [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [Peuj/duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer) - Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.
 - [memset0/lavandula](https://github.com/memset0/lavandula) - mem0 的小玩具 qwq
