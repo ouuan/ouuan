@@ -368,6 +368,7 @@
 
 ## Lua 
 
+- [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Lua rewrite of vim-lastplace
 - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Lua plugin for starting and interacting with github copilot
 - [lukas-reineke/cmp-under-comparator](https://github.com/lukas-reineke/cmp-under-comparator) - nvim-cmp comparator function for completion items that start with one or more underlines
