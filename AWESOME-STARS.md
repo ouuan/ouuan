@@ -590,6 +590,7 @@
 
 ## Rust 
 
+- [Brooooooklyn/simple-git](https://github.com/Brooooooklyn/simple-git) - Simple and fast git helper functions.
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
