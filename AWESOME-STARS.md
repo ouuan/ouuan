@@ -224,6 +224,7 @@
 
 ## JavaScript 
 
+- [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 - [brummelte/sleep-promise](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
