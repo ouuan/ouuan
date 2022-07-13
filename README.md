@@ -158,18 +158,18 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/tengge1">tengge1</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Konano">
-        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
-      </a>
-      <br />
-      <a href="https://github.com/Konano">Nano</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/cubercsl">
         <img src="https://avatars2.githubusercontent.com/u/22931465" width="100px;" alt="cubercsl"/>
       </a>
       <br />
       <a href="https://github.com/cubercsl">cubercsl</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Konano">
+        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
+      </a>
+      <br />
+      <a href="https://github.com/Konano">Nano</a>
     </td>
     <td align="center">
       <a href="https://github.com/Clansty">
