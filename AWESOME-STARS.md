@@ -653,6 +653,7 @@
 
 ## TypeScript 
 
+- [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 - [unjs/unbuild](https://github.com/unjs/unbuild) - An unified javascript build system
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [scttcper/qbittorrent](https://github.com/scttcper/qbittorrent) - qBittorrent api wrapper
