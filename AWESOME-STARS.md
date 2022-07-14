@@ -234,7 +234,7 @@
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
-- [kawa-yoiko/medle](https://github.com/kawa-yoiko/medle) - 旋律猜谜游戏，每日更新~・Daily melody puzzle game (available in en/zh)
+- [ayuusweetfish/medle](https://github.com/ayuusweetfish/medle) - 旋律猜谜游戏，每日更新~・Daily melody puzzle game (available in en/zh)
 - [akshayravikumar/TeXnique](https://github.com/akshayravikumar/TeXnique) - A LaTeX Typesetting Game
 - [wuomzfx/tree-shaking-test](https://github.com/wuomzfx/tree-shaking-test) - how to do tree-shaking best
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers an online tool and a Chrome extension.
