@@ -654,6 +654,7 @@
 
 ## TypeScript 
 
+- [giscus/giscus-component](https://github.com/giscus/giscus-component) - Component library for giscus, a comments system powered by GitHub Discussions.
 - [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 - [unjs/unbuild](https://github.com/unjs/unbuild) - An unified javascript build system
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
