@@ -128,7 +128,7 @@
 - [Dust1404/Project_LemonPlus](https://github.com/Dust1404/Project_LemonPlus) - A tiny judging environment for OI contest based on Project_Lemon
 - [Edgration/icey](https://github.com/Edgration/icey) - icey Local Judge
 - [Sojiv/Project_lemon](https://github.com/Sojiv/Project_lemon) - A tiny judging environment for OI contest, clone of Project-Lemon on Google code (https://code.google.com/p/project-lemon/)
-- [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) - Automatically exported from code.google.com/p/testlib
+- [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) - C++ library to develop competitive programming problems
 - [LazyJazz/Game04](https://github.com/LazyJazz/Game04) - Game04Project
 - [hanlin-ren/uoj-hacker](https://github.com/hanlin-ren/uoj-hacker) - A python script to get all AC submissions for a problem in uoj + a python script to stress test the submissions.
 
