@@ -156,7 +156,7 @@
 - [caddyserver/transform-encoder](https://github.com/caddyserver/transform-encoder) - Log encoder module for custom log formats
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
+- [Bytebase/Bytebase](https://github.com/Bytebase/Bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and community yt-dlp archival manager
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -496,6 +496,7 @@
 
 ## Python 
 
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [haiwen/seahub](https://github.com/haiwen/seahub) - The web end of seafile server.
 - [nICEnnnnnnnLee/LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) - you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
@@ -726,7 +727,7 @@
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
-- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
+- [Bytebase/star-history](https://github.com/Bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [OI-wiki/OI-wiki-vscode](https://github.com/OI-wiki/OI-wiki-vscode) - 在 VS Code 中搜索 OI wiki
