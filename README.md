@@ -63,6 +63,20 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/gaocegege">Ce Gao</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Harry-Chen">
+        <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
+      </a>
+      <br />
+      <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/losfair">
+        <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
+      </a>
+      <br />
+      <a href="https://github.com/losfair">Heyang Zhou</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/mashirozx">
         <img src="https://avatars2.githubusercontent.com/u/16148054" width="100px;" alt="mashirozx"/>
       </a>
@@ -83,6 +97,8 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <br />
       <a href="https://github.com/Ir1d">Dejia Xu</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lzwjava">
         <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
@@ -97,8 +113,6 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <br />
       <a href="https://github.com/hua1995116">蓝色的秋风</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
@@ -134,6 +148,8 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <br />
       <a href="https://github.com/gdut-yy">张逸扬</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/guofei9987">
         <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
@@ -148,8 +164,6 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <br />
       <a href="https://github.com/Fantasy9527">No.142857</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/tengge1">
         <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
@@ -184,20 +198,6 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       </a>
       <br />
       <a href="https://github.com/WhaleFell">落落</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/xtlsoft">
-        <img src="https://avatars2.githubusercontent.com/u/16159830" width="100px;" alt="xtlsoft"/>
-      </a>
-      <br />
-      <a href="https://github.com/xtlsoft">Tianle Xu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/WBGlIl">
-        <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
-      </a>
-      <br />
-      <a href="https://github.com/WBGlIl">WBGlIl</a>
     </td>
   </tr>
 </table>
