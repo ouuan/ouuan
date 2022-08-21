@@ -34,7 +34,7 @@ Wish you a good-looking profile README!
 
 I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
 
--   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
+-   :hammer_and_pick: C++ / Qt / TypeScript / Vue / Rust / Python
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
 -   :seedling: Taking courses & doing assignments at THU
 -   :man: Pronouns: he/him
