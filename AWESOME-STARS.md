@@ -637,7 +637,7 @@
 - [ouuan/AUR-template](https://github.com/ouuan/AUR-template) - Manage AUR packages in a GitHub repository, with CI tests and auto-publish :rocket:
 - [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
 - [wjdp/htmltest-action](https://github.com/wjdp/htmltest-action) - :white_check_mark::octocat: Run htmltest as part of your GitHub Actions workflow
-- [shalva97/kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configration files
+- [shalva97/kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configuration files
 - [saber-nyan/kernel-modules-hook](https://github.com/saber-nyan/kernel-modules-hook) - Keeps your Arch Linux fully functional after a kernel upgrade
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [peter-evans/link-checker](https://github.com/peter-evans/link-checker) - A GitHub action for link checking repository Markdown and HTML files
