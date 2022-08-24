@@ -43,7 +43,7 @@
 - [Stylus](#stylus)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [sed](#sed)
 
@@ -747,7 +747,7 @@
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 
-## Vim script 
+## Vim Script 
 
 - [jxnblk/vim-mdx-js](https://github.com/jxnblk/vim-mdx-js) - 
 - [machakann/vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - Make the yanked region apparent!
