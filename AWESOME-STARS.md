@@ -593,8 +593,18 @@
 
 ## Rust 
 
-- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
+- [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
 - [dtolnay/readonly](https://github.com/dtolnay/readonly) - Struct fields that are made read-only accessible to other modules
+- [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust
+- [seanmonstar/num_cpus](https://github.com/seanmonstar/num_cpus) - Get the number of CPUs in Rust
+- [allan2/dotenvy](https://github.com/allan2/dotenvy) - A well-maintained fork of the Rust dotenv crate
+- [chronotope/chrono](https://github.com/chronotope/chrono) - Date and time library for Rust
+- [smol-rs/async-channel](https://github.com/smol-rs/async-channel) - Async multi-producer multi-consumer channel
+- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+- [adwhit/diesel-derive-enum](https://github.com/adwhit/diesel-derive-enum) - Use enums with Diesel ORM
+- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 - [gleich/ordinal](https://github.com/gleich/ordinal) - Ordinals (1st, 2nd, 3rd etc) for Rust
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
