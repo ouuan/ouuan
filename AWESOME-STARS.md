@@ -594,6 +594,7 @@
 
 ## Rust 
 
+- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
 - [dtolnay/readonly](https://github.com/dtolnay/readonly) - Struct fields that are made read-only accessible to other modules
 - [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust
