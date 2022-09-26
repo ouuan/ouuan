@@ -63,18 +63,18 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/gaocegege">Ce Gao</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Harry-Chen">
-        <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
-      </a>
-      <br />
-      <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/losfair">
         <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
       </a>
       <br />
       <a href="https://github.com/losfair">Heyang Zhou</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Harry-Chen">
+        <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
+      </a>
+      <br />
+      <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
     </td>
     <td align="center">
       <a href="https://github.com/mashirozx">
