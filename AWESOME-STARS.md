@@ -594,7 +594,7 @@
 
 ## Rust 
 
-- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
 - [dtolnay/readonly](https://github.com/dtolnay/readonly) - Struct fields that are made read-only accessible to other modules
