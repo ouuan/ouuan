@@ -703,7 +703,7 @@
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
-- [UNIDY2002/THUInfo](https://github.com/UNIDY2002/THUInfo) - An APP aimed at integrating various sources of campus information, developed with React Native ⚛️
+- [UNIDY2002/THUInfo](https://github.com/UNIDY2002/THUInfo) - An APP aimed at integrating various sources of campus information, developed with React Native
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
