@@ -641,6 +641,7 @@
 
 ## Shell 
 
+- [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [tamago324/cmp-zsh](https://github.com/tamago324/cmp-zsh) - nvim-cmp source for zsh
 - [SiddharthPant/booky](https://github.com/SiddharthPant/booky) - A simple script for pdf bookmarks creation
 - [nachoparker/btrfs-du](https://github.com/nachoparker/btrfs-du) - Easily print BTRFS subvolume/snapshot disk usage
