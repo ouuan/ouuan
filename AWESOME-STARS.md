@@ -457,6 +457,7 @@
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [diauweb/diauweb](https://github.com/diauweb/diauweb) - 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [k4yt3x/flowerhd](https://github.com/k4yt3x/flowerhd) - 花！是一个高清重制机上些许衍生创作的表情包
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
@@ -814,7 +815,6 @@
 - [advanced-cropper/vue-advanced-cropper](https://github.com/advanced-cropper/vue-advanced-cropper) - The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design
 - [xiaokaike/vue-color](https://github.com/xiaokaike/vue-color) - :art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [EtherOJ/EtherOJ](https://github.com/EtherOJ/EtherOJ) - A GitHub-Based Open Source and free Online Judge.
 - [dd-center/vtbs.moe](https://github.com/dd-center/vtbs.moe) - Virtual YouTubers in bilibili
 - [pnowy/github-stars-history](https://github.com/pnowy/github-stars-history) - The missing github stars history!
