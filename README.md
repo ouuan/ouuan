@@ -205,7 +205,7 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
 
 ---
 
-#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
+#### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
 
