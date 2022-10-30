@@ -221,6 +221,7 @@
 
 ## JavaScript 
 
+- [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
 - [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - JavaScript library to generate a human readable String describing the file size
 - [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 - [brummelte/sleep-promise](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
