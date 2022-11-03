@@ -499,6 +499,7 @@
 
 ## Python 
 
+- [fonttools/fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [haiwen/seahub](https://github.com/haiwen/seahub) - The web end of seafile server.
 - [nICEnnnnnnnLee/LiveRecorder](https://github.com/nICEnnnnnnnLee/LiveRecorder) - you-live - A live recorder focus on China mainland livestream sites(A站/B站/斗鱼/快手)
@@ -638,6 +639,7 @@
 
 ## Shell 
 
+- [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [tamago324/cmp-zsh](https://github.com/tamago324/cmp-zsh) - nvim-cmp source for zsh
 - [SiddharthPant/booky](https://github.com/SiddharthPant/booky) - A simple script for pdf bookmarks creation
