@@ -343,7 +343,7 @@
 - [syzoj/syzoj](https://github.com/syzoj/syzoj) - 一个用于算法竞赛的在线评测系统。An online judge system for algorithm competition.
 - [Anguei/Luogu-Super-Todolist](https://github.com/Anguei/Luogu-Super-Todolist) - 洛谷超级任务计划，不限任务计划长度（第三方）
 - [Jannchie/Historical-ranking-data-visualization-based-on-d3.js](https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js) - [Deprecated!] This is a data visualization project that converts historical data rankings into dynamic bar charts.
-- [AimonaStudio/luogu-drawer](https://github.com/AimonaStudio/luogu-drawer) - post your img to luogu-paintBoard
+- [TexteaInc/luogu-drawer](https://github.com/TexteaInc/luogu-drawer) - post your img to luogu-paintBoard
 - [UniversalOJ/UOJ-System](https://github.com/UniversalOJ/UOJ-System) - Universal Online Judge (Community Edition)
 - [vfleaking/uoj](https://github.com/vfleaking/uoj) - Universal Online Judge
 - [Anguei/Luogu-Ac-Comparator](https://github.com/Anguei/Luogu-Ac-Comparator) - 比较你和其他用户之间通过的题目异同
@@ -703,7 +703,7 @@
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
-- [UNIDY2002/THUInfo](https://github.com/UNIDY2002/THUInfo) - An APP aimed at integrating various sources of campus information, developed with React Native
+- [thu-info-community/thu-info-app](https://github.com/thu-info-community/thu-info-app) - An APP aimed at integrating various sources of campus information, developed with React Native
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [unigraph-dev/unigraph-dev](https://github.com/unigraph-dev/unigraph-dev) - A local-first and universal knowledge graph, personal search engine, and workspace for your life.
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and community youtube-dl/yt-dlp archival manager
@@ -755,7 +755,7 @@
 - [OI-wiki/OI-wiki-vscode](https://github.com/OI-wiki/OI-wiki-vscode) - 在 VS Code 中搜索 OI wiki
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
-- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(Github Action自动日更)。
+- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily). Github 中国和全球用户排名，全球仓库 Star 最多排名(Github Action自动日更)。
 - [jmerle/competitive-companion](https://github.com/jmerle/competitive-companion) - Browser extension which parses competitive programming problems
 - [Enter-tainer/luoguPaintAutomatonTS](https://github.com/Enter-tainer/luoguPaintAutomatonTS) - luogu冬日画板自动绘图脚本支持多用户，维护
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
