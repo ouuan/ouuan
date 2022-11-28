@@ -676,6 +676,7 @@
 
 ## TeX 
 
+- [josephwright/siunitx](https://github.com/josephwright/siunitx) - A comprehensive (SI) units package for LaTeX
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 
 ## TypeScript 
