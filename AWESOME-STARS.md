@@ -683,6 +683,10 @@
 
 ## TypeScript 
 
+- [eemeli/yaml](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML
+- [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers
+- [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error) - Wrap zod validation errors in user-friendly readable messages
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [xna00/unocss-language-server](https://github.com/xna00/unocss-language-server) - 
 - [giscus/giscus-component](https://github.com/giscus/giscus-component) - Component library for giscus, a comments system powered by GitHub Discussions.
 - [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
