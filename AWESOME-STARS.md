@@ -182,6 +182,7 @@
 ## HTML 
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
+- [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
 - [CSSInDepth/css-in-depth](https://github.com/CSSInDepth/css-in-depth) - Code examples from CSS In Depth
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [wjdp/htmltest](https://github.com/wjdp/htmltest) - :white_check_mark: Test generated HTML for problems
@@ -226,7 +227,6 @@
 ## JavaScript 
 
 - [omrilotan/isbot](https://github.com/omrilotan/isbot) - 🤖/👨‍🦰 Detect bots/crawlers/spiders using the user agent string
-- [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
 - [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
 - [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - JavaScript library to generate a human readable String describing the file size
 - [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
