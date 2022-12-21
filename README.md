@@ -91,20 +91,20 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/hua1995116">蓝色的秋风</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ir1d">
-        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ir1d">Dejia Xu</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
       </a>
       <br />
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ir1d">
+        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ir1d">Dejia Xu</a>
     </td>
     <td align="center">
       <a href="https://github.com/webpointdev">
