@@ -598,6 +598,7 @@
 
 ## Rust 
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
@@ -684,6 +685,7 @@
 
 ## TypeScript 
 
+- [meilisearch/instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - The search client to use Meilisearch with InstantSearch.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [yjl9903/vite-plugin-info](https://github.com/yjl9903/vite-plugin-info) - Export build information as a Vite virutal module
 - [ouuan/mastodon-auto-reply-bot](https://github.com/ouuan/mastodon-auto-reply-bot) - A Mastodon Bot to automatically reply to statuses that match the given filters.
