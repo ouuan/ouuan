@@ -84,18 +84,18 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/mashirozx">Mashiro</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hua1995116">
-        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
-      </a>
-      <br />
-      <a href="https://github.com/hua1995116">蓝色的秋风</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
       </a>
       <br />
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hua1995116">
+        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
+      </a>
+      <br />
+      <a href="https://github.com/hua1995116">蓝色的秋风</a>
     </td>
   </tr>
   <tr>
@@ -179,18 +179,18 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/Konano">Nano</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Fantasy9527">
-        <img src="https://avatars2.githubusercontent.com/u/9129438" width="100px;" alt="Fantasy9527"/>
-      </a>
-      <br />
-      <a href="https://github.com/Fantasy9527">No.142857</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/WhaleFell">
         <img src="https://avatars2.githubusercontent.com/u/63758849" width="100px;" alt="WhaleFell"/>
       </a>
       <br />
       <a href="https://github.com/WhaleFell">落落</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fantasy9527">
+        <img src="https://avatars2.githubusercontent.com/u/9129438" width="100px;" alt="Fantasy9527"/>
+      </a>
+      <br />
+      <a href="https://github.com/Fantasy9527">No.142857</a>
     </td>
     <td align="center">
       <a href="https://github.com/cubercsl">
