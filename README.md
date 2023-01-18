@@ -197,7 +197,7 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
         <img src="https://avatars2.githubusercontent.com/u/22931465" width="100px;" alt="cubercsl"/>
       </a>
       <br />
-      <a href="https://github.com/cubercsl">cubercsl‮</a>
+      <a href="https://github.com/cubercsl">cubercsl</a>
     </td>
   </tr>
 </table>
