@@ -449,6 +449,7 @@
 
 ## Others 
 
+- [sdras/night-owl-vscode-theme](https://github.com/sdras/night-owl-vscode-theme) - 🌌 NIGHT OWL: A VS Code dark theme for contrast for nighttime coding, 🦉 LIGHT OWL: a daytime light theme
 - [veorq/cryptocoding](https://github.com/veorq/cryptocoding) - Guidelines for low-level cryptography software
 - [ouuan/luogu-motaki](https://github.com/ouuan/luogu-motaki) - 服务端-客户端架构的洛谷冬日绘板工具
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
