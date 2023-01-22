@@ -228,6 +228,7 @@
 
 ## JavaScript 
 
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [papandreou/fontverter](https://github.com/papandreou/fontverter) - Convert font buffers between TTF/WOFF/WOFF2
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [ouuan/eslint-config](https://github.com/ouuan/eslint-config) - ouuan's personal ESLint configs
@@ -692,6 +693,8 @@
 
 ## TypeScript 
 
+- [ElMassimo/vite-plugin-image-presets](https://github.com/ElMassimo/vite-plugin-image-presets) - 🖼 Image Presets for Vite.js apps
+- [image-size/image-size](https://github.com/image-size/image-size) - Node module for detecting image dimensions
 - [ouuan/glyph-segregator](https://github.com/ouuan/glyph-segregator) - A new way to optimize web fonts for a specific static site.
 - [thomasdondorf/puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster) - Puppeteer Pool, run a cluster of instances in parallel
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
