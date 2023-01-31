@@ -304,7 +304,7 @@
 - [t9tio/cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com :fishsticks:
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [abskmj/hukum](https://github.com/abskmj/hukum) - An NPM module that displays Github Action progress in the terminal and aims to improve your development experience by printing status in realtime.
 - [BeautyyuYanli/full-mark-composition-generator](https://github.com/BeautyyuYanli/full-mark-composition-generator) - 将专业术语和名人名言以随机报菜名的方式填入模板，生成一篇只有聪明人才能看懂的满分作文！
