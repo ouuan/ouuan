@@ -790,7 +790,7 @@
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
-- [github-star-history/star-history](https://github.com/github-star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
+- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [OI-wiki/OI-wiki-vscode](https://github.com/OI-wiki/OI-wiki-vscode) - 在 VS Code 中搜索 OI wiki
