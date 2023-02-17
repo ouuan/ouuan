@@ -43,7 +43,15 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
 
 ---
 
-#### :sparkles: [My followers](src/getTopFollowers.py)
+### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
+
+<!--START_SECTION:blog-posts-->
+
+<!--END_SECTION:blog-posts-->
+
+---
+
+### :sparkles: [My followers](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -205,7 +213,7 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
 
 ---
 
-#### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
 
@@ -222,6 +230,6 @@ Shell            4 hrs 38 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ---
 
-#### :star2: [Projects starred by me](https://github.com/maguowei/starred)
+### :star2: [Projects starred by me](https://github.com/maguowei/starred)
 
 [My Awesome Stars](AWESOME-STARS.md)
