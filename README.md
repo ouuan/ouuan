@@ -140,13 +140,6 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/lzwjava">Zhiwei Li</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zTrix">
-        <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
-      </a>
-      <br />
-      <a href="https://github.com/zTrix">Wenlei Zhu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Trumeet">
         <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
       </a>
@@ -160,8 +153,6 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <br />
       <a href="https://github.com/guofei9987">郭飞</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Clansty">
         <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="Clansty"/>
@@ -169,6 +160,8 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <br />
       <a href="https://github.com/Clansty">凌莞~(=^▽^=)</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/WBGlIl">
         <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
@@ -210,6 +203,13 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       </a>
       <br />
       <a href="https://github.com/cubercsl">cubercsl</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tengge1">
+        <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
+      </a>
+      <br />
+      <a href="https://github.com/tengge1">tengge1</a>
     </td>
   </tr>
 </table>
