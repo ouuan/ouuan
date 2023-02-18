@@ -66,6 +66,11 @@ query {{
 }}
 '''
         response = requests.post(f"https://api.github.com/graphql", json.dumps({ "query": query }), headers = headers)
+        if not response.ok or "data" not in response.json():
+            print(query)
+            print(response.status_code)
+            print(response.text)
+            exit(1)
         res = response.json()["data"]["user"]["followers"]
         for follower in res["nodes"]:
             following = follower["following"]["totalCount"]
@@ -80,6 +85,7 @@ query {{
                 continue
             followers.append((followerNumber, login, id, name if name else login))
             print(followers[-1])
+        sys.stdout.flush()
         if not res["pageInfo"]["hasNextPage"]:
             break
         cursor = res["pageInfo"]["endCursor"]
