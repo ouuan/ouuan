@@ -36,7 +36,7 @@ if __name__ == "__main__":
         query = f'''
 query {{
     user(login: "{handle}") {{
-        followers(first: 100{f', after: "{cursor}"' if cursor else ''}) {{
+        followers(first: 10{f', after: "{cursor}"' if cursor else ''}) {{
             pageInfo{{
                 endCursor
                 hasNextPage
