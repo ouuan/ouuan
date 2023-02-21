@@ -293,6 +293,7 @@
 - [enyancc/vscode-ext-color-highlight](https://github.com/enyancc/vscode-ext-color-highlight) - Extension adds colored border around css/web colors in the editor
 - [ouuan/my-vscode-extensions](https://github.com/ouuan/my-vscode-extensions) - List your installed VS Code extensions in a Markdown file :sunglasses:
 - [kuresaru/geetest-validator](https://github.com/kuresaru/geetest-validator) - 极验验证器 调试工具 测试用
+- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [vitalets/websocket-as-promised](https://github.com/vitalets/websocket-as-promised) - A Promise-based API for WebSockets
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
@@ -461,7 +462,6 @@
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [phyphox/phyphox-experiments](https://github.com/phyphox/phyphox-experiments) - Physical Phone Experiments (in-app experiment collection)
 - [brechtsanders/winlibs_mingw](https://github.com/brechtsanders/winlibs_mingw) - winlibs standalone build of GCC compiler and MinGW-w64
-- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [themotu/wearenotsheep](https://github.com/themotu/wearenotsheep) - Guidance for changing the default branch name for GitHub repositories
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
