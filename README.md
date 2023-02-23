@@ -158,7 +158,7 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
         <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="Clansty"/>
       </a>
       <br />
-      <a href="https://github.com/Clansty">Clansty Icaria ~(=^▽^=)</a>
+      <a href="https://github.com/Clansty">凌莞~(=^▽^=)</a>
     </td>
   </tr>
   <tr>
