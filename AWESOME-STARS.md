@@ -239,7 +239,6 @@
 - [brummelte/sleep-promise](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
-- [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [ahmadnassri/node-glob-promise](https://github.com/ahmadnassri/node-glob-promise) - Promise version of glob
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
@@ -733,6 +732,7 @@
 - [hgraceb/flop-player](https://github.com/hgraceb/flop-player) - Web minesweeper player
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [hoiheart/vue-diff](https://github.com/hoiheart/vue-diff) - VueJS diff viewer plugin
+- [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [vbenjs/vite-plugin-compression](https://github.com/vbenjs/vite-plugin-compression) - Use gzip or brotli to compress resources
 - [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template
 - [antfu/vite-plugin-restart](https://github.com/antfu/vite-plugin-restart) - Custom files/globs to restart Vite server
@@ -810,7 +810,7 @@
 - [machakann/vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - Make the yanked region apparent!
 - [glts/vim-textobj-comment](https://github.com/glts/vim-textobj-comment) - Vim text objects for comments
 - [antoinemadec/FixCursorHold.nvim](https://github.com/antoinemadec/FixCursorHold.nvim) - Fix CursorHold Performance.
-- [axlebedev/footprints](https://github.com/axlebedev/footprints) - Vim plugin: footprints. Highlight last edited lines.
+- [axlebedev/vim-footprints](https://github.com/axlebedev/vim-footprints) - Vim plugin: footprints. Highlight last edited lines.
 - [leafOfTree/vim-vue-plugin](https://github.com/leafOfTree/vim-vue-plugin) - Vim syntax and indent plugin for .vue files
 - [othree/html5.vim](https://github.com/othree/html5.vim) - HTML5 omnicomplete and syntax
 - [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange) - Easy text exchange operator for Vim
