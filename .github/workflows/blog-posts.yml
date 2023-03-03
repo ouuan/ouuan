@@ -11,6 +11,7 @@ jobs:
         run: |
           curl -LO https://github.com/ouuan/ouuan.moe/raw/dist/feed.json
           node src/listPosts.js
+          rm feed.json
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
