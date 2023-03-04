@@ -9,6 +9,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Update post list
         run: |
+          sleep 1m
           curl -LO https://github.com/ouuan/ouuan.moe/raw/dist/feed.json
           node src/listPosts.js
           rm feed.json
