@@ -39,7 +39,7 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
 -   :seedling: Taking courses & doing assignments at THU
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
--   :heart: [支付宝 / 微信](https://ouuan.moe/sponsor) / [ko-fi (PayPal / card)](https://ko-fi.com/ouuan)
+-   :heart: [Sponsor me](https://ouuan.moe/sponsor) via [Weixin](https://ouuan.moe/images/wechat-donate.png) / [Alipay](https://ouuan.moe/images/alipay-donate.png) / [ko-fi.com](https://ko-fi.com/ouuan)
 
 ---
 
