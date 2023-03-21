@@ -698,6 +698,7 @@
 
 ## TypeScript 
 
+- [AriPerkkio/vitest-sonar-reporter](https://github.com/AriPerkkio/vitest-sonar-reporter) - SonarQube reporter for Vitest
 - [sniptt-official/guards](https://github.com/sniptt-official/guards) - 🛡 Comprehensive collection of type guards for JavaScript and TypeScript; Inspired by Elixir
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
