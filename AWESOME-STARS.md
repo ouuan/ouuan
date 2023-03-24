@@ -698,6 +698,9 @@
 
 ## TypeScript 
 
+- [vuejs/test-utils](https://github.com/vuejs/test-utils) - Vue Test Utils for Vue 3
+- [nuxt-modules/eslint](https://github.com/nuxt-modules/eslint) - ESLint module for Nuxt.js
+- [danielroe/nuxt-vitest](https://github.com/danielroe/nuxt-vitest) - An in-development vitest environment with support for testing code that needs a Nuxt runtime environment
 - [AriPerkkio/vitest-sonar-reporter](https://github.com/AriPerkkio/vitest-sonar-reporter) - SonarQube reporter for Vitest
 - [sniptt-official/guards](https://github.com/sniptt-official/guards) - 🛡 Comprehensive collection of type guards for JavaScript and TypeScript; Inspired by Elixir
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
