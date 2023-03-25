@@ -853,6 +853,7 @@
 
 ## Vue 
 
+- [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [ouuan/iles-blog](https://github.com/ouuan/iles-blog) - ouuan's blog
 - [agateblue/tempo](https://github.com/agateblue/tempo) - Your personal diary and mood tracker
 - [ouuan/codle](https://github.com/ouuan/codle) - 💻 Guess code like Wordle with AST nodes as letters 🌳
