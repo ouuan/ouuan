@@ -128,13 +128,6 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/Ir1d">Dejia Xu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/webpointdev">
-        <img src="https://avatars2.githubusercontent.com/u/88071912" width="100px;" alt="webpointdev"/>
-      </a>
-      <br />
-      <a href="https://github.com/webpointdev">New Dragon Warrior</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/lzwjava">
         <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
       </a>
@@ -162,8 +155,6 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <br />
       <a href="https://github.com/Clansty">凌莞~(=^▽^=)</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/WBGlIl">
         <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
@@ -171,6 +162,8 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <br />
       <a href="https://github.com/WBGlIl">WBGlIl</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/gdut-yy">
         <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
@@ -212,6 +205,13 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       </a>
       <br />
       <a href="https://github.com/tengge1">tengge1</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xtlsoft">
+        <img src="https://avatars2.githubusercontent.com/u/16159830" width="100px;" alt="xtlsoft"/>
+      </a>
+      <br />
+      <a href="https://github.com/xtlsoft">Tianle Xu</a>
     </td>
   </tr>
 </table>
