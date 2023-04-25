@@ -149,18 +149,18 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/Trumeet">Yuuta Liang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Clansty">
-        <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="Clansty"/>
-      </a>
-      <br />
-      <a href="https://github.com/Clansty">凌莞~(=^▽^=)</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Konano">
         <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
       </a>
       <br />
       <a href="https://github.com/Konano">Nano</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Clansty">
+        <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="Clansty"/>
+      </a>
+      <br />
+      <a href="https://github.com/Clansty">凌莞~(=^▽^=)</a>
     </td>
   </tr>
   <tr>
