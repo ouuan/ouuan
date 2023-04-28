@@ -198,7 +198,7 @@
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [cpeditor/cpeditor.github.io](https://github.com/cpeditor/cpeditor.github.io) - The official website of CP Editor :memo:
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
-- [yihui/yihui.org](https://github.com/yihui/yihui.org) - Personal website of Yihui Xie
+- [yihui/yihui.org](https://github.com/yihui/yihui.org) - Personal website and discussion board of Yihui Xie
 - [Lingeros-tot/Lingeros-tot.github.io](https://github.com/Lingeros-tot/Lingeros-tot.github.io) - 
 - [yhx-12243/OI-transit](https://github.com/yhx-12243/OI-transit) - OI transit
 - [Magolor/magolor.github.io](https://github.com/Magolor/magolor.github.io) - Magolor's Blog:
