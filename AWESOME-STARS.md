@@ -225,7 +225,7 @@
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
 - [oasisfeng/island](https://github.com/oasisfeng/island) - Island for Android
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-- [ia-toki/judgels](https://github.com/ia-toki/judgels) - Competitive programming platform
+- [ia-toki/judgels](https://github.com/ia-toki/judgels) - Competitive programming contest system
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [dj3500/hightail](https://github.com/dj3500/hightail) - 
 
