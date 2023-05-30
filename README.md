@@ -207,11 +207,11 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ZenithalHourlyRate">
-        <img src="https://avatars2.githubusercontent.com/u/19512674" width="100px;" alt="ZenithalHourlyRate"/>
+      <a href="https://github.com/iBug">
+        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
       </a>
       <br />
-      <a href="https://github.com/ZenithalHourlyRate">Hongren (Zenithal) Zheng</a>
+      <a href="https://github.com/iBug">iBug</a>
     </td>
   </tr>
 </table>
