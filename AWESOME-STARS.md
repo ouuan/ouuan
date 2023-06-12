@@ -114,7 +114,7 @@
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [cpeditor/cpeditor](https://github.com/cpeditor/cpeditor) - The IDE for competitive programming :tada: | Fetch, Code, Compile, Run, Check, Submit :rocket:
 - [qt/qtbase](https://github.com/qt/qtbase) - Qt Base (Core, Gui, Widgets, Network, ...)
-- [itay-grudev/SingleApplication](https://github.com/itay-grudev/SingleApplication) - Replacement of QtSingleApplication for Qt5 and Qt6 with support for instance communication.
+- [itay-grudev/SingleApplication](https://github.com/itay-grudev/SingleApplication) - Replacement of QtSingleApplication for Qt 5 and Qt 6 with support for inter-instance communication.
 - [vijos/malicious-code](https://github.com/vijos/malicious-code) - Malicious code that Vijos judged.
 - [syzoj/syzoj-tools](https://github.com/syzoj/syzoj-tools) - 一个为 OI 题目设计的方便的命令行工具，实现造题、验题、评测等整个评测流程
 - [keyu-tian/Gobang-by-Qt](https://github.com/keyu-tian/Gobang-by-Qt) - A Gobang game (includes a naive AI) based on Min-Max-Search and Alpha-Beta-Pruning algorithm. (by Qt5.11)
@@ -726,7 +726,7 @@
 - [frenic/csstype](https://github.com/frenic/csstype) - Strict TypeScript and Flow types for style based on MDN data
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [antfu/bumpp](https://github.com/antfu/bumpp) - Interactive CLI that bumps your version numbers and more
-- [meilisearch/instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - The search client to use Meilisearch with InstantSearch.
+- [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [yjl9903/vite-plugin-info](https://github.com/yjl9903/vite-plugin-info) - Export build information as a Vite virutal module
 - [ouuan/mastodon-auto-reply-bot](https://github.com/ouuan/mastodon-auto-reply-bot) - A Mastodon Bot to automatically reply to statuses that match the given filters.
