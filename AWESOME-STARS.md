@@ -176,7 +176,7 @@
 - [tuna/tunasync](https://github.com/tuna/tunasync) - Mirror job management tool.
 - [sodaling/FastestBilibiliDownloader](https://github.com/sodaling/FastestBilibiliDownloader) - B站视频极速批量下载器|The fastest Bilibili video downloader
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
+- [GrantBirki/hub](https://github.com/GrantBirki/hub) - A command-line tool that makes git easier to use with GitHub.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [apex/gh-polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
