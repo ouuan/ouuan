@@ -84,18 +84,18 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/losfair">Heyang Zhou</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Harry-Chen">
-        <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
-      </a>
-      <br />
-      <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/EndlessCheng">
         <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
       </a>
       <br />
       <a href="https://github.com/EndlessCheng">灵茶山艾府</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Harry-Chen">
+        <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
+      </a>
+      <br />
+      <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
     </td>
     <td align="center">
       <a href="https://github.com/hua1995116">
