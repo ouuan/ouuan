@@ -2,7 +2,7 @@
 
 Thank you if you like this profile README!
 
-BUT, please DO NOT copy this and create your profile based on it.
+But, please DO NOT copy this and create your profile based on it.
 
 You can use it as a reference, and copy a part of it, but DO NOT copy
 all of this and create your profile based on it.
