@@ -26,6 +26,7 @@
 - [Lean](#lean)
 - [Less](#less)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -448,6 +449,10 @@
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [zyf722/nShogi-Lua](https://github.com/zyf722/nShogi-Lua) - A Shogi game written in TI-Lua
 
+## MDX 
+
+- [ouuan/iles-blog](https://github.com/ouuan/iles-blog) - ouuan's blog
+
 ## Makefile 
 
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
@@ -861,7 +866,6 @@
 ## Vue 
 
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
-- [ouuan/iles-blog](https://github.com/ouuan/iles-blog) - ouuan's blog
 - [agateblue/tempo](https://github.com/agateblue/tempo) - Your personal diary and mood tracker
 - [ouuan/codle](https://github.com/ouuan/codle) - 💻 Guess code like Wordle with AST nodes as letters 🌳
 - [ouuan/luogu-paintboard-heatmap](https://github.com/ouuan/luogu-paintboard-heatmap) - 洛谷冬日绘板热力图
