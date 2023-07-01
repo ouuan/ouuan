@@ -643,7 +643,7 @@
 - [gleich/ordinal](https://github.com/gleich/ordinal) - Ordinals (1st, 2nd, 3rd etc) for Rust
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
-- [mackwic/colored](https://github.com/mackwic/colored) - (Rust) Coloring terminal so simple you already know how to do it !
+- [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it !
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
