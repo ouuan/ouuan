@@ -165,13 +165,6 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/WBGlIl">
-        <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
-      </a>
-      <br />
-      <a href="https://github.com/WBGlIl">WBGlIl</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gdut-yy">
         <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
       </a>
@@ -212,6 +205,13 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       </a>
       <br />
       <a href="https://github.com/ZenithalHourlyRate">Hongren (Zenithal) Zheng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/iBug">
+        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
+      </a>
+      <br />
+      <a href="https://github.com/iBug">iBug</a>
     </td>
   </tr>
 </table>
