@@ -193,18 +193,18 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/tengge1">tengge1</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Enter-tainer">
-        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
-      </a>
-      <br />
-      <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ZenithalHourlyRate">
         <img src="https://avatars2.githubusercontent.com/u/19512674" width="100px;" alt="ZenithalHourlyRate"/>
       </a>
       <br />
       <a href="https://github.com/ZenithalHourlyRate">Hongren (Zenithal) Zheng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Enter-tainer">
+        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
+      </a>
+      <br />
+      <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
     </td>
     <td align="center">
       <a href="https://github.com/iBug">
