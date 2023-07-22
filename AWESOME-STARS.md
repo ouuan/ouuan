@@ -623,6 +623,7 @@
 
 ## Rust 
 
+- [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [vivekmalneedi/veridian](https://github.com/vivekmalneedi/veridian) - A SystemVerilog Language Server
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Retry with backoff without effort.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
@@ -867,7 +868,7 @@
 
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [agateblue/tempo](https://github.com/agateblue/tempo) - Your personal diary and mood tracker
-- [ouuan/codle](https://github.com/ouuan/codle) - 💻 Guess code like Wordle with AST nodes as letters 🌳
+- [ouuan/codle](https://github.com/ouuan/codle) - 💻 Guess code like Wordle with parse tree nodes as letters 🌳
 - [ouuan/luogu-paintboard-heatmap](https://github.com/ouuan/luogu-paintboard-heatmap) - 洛谷冬日绘板热力图
 - [MegEngine/MegSpot](https://github.com/MegEngine/MegSpot) - MegSpot是一款高效、专业、跨平台的图片&视频对比应用
 - [vuejs/docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) - :cn: Chinese translation for v3.vuejs.org
