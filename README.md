@@ -197,7 +197,7 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
         <img src="https://avatars2.githubusercontent.com/u/19512674" width="100px;" alt="ZenithalHourlyRate"/>
       </a>
       <br />
-      <a href="https://github.com/ZenithalHourlyRate">Hongren (Zenithal) Zheng</a>
+      <a href="https://github.com/ZenithalHourlyRate">Hongren Zheng</a>
     </td>
     <td align="center">
       <a href="https://github.com/Enter-tainer">
