@@ -736,8 +736,8 @@
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [yjl9903/vite-plugin-info](https://github.com/yjl9903/vite-plugin-info) - Export build information as a Vite virutal module
 - [ouuan/mastodon-auto-reply-bot](https://github.com/ouuan/mastodon-auto-reply-bot) - A Mastodon Bot to automatically reply to statuses that match the given filters.
-- [eemeli/yaml](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML
-- [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Mastodon API client for JavaScript, TypeScript, Node.js, browsers
+- [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and stringifier for JavaScript
+- [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Universal Mastodon API client for JavaScript
 - [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error) - Wrap zod validation errors in user-friendly readable messages
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [xna00/unocss-language-server](https://github.com/xna00/unocss-language-server) - 
