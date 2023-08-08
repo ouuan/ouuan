@@ -48,11 +48,11 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
 ### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
 
 <!--START_SECTION:blog-posts-->
+-   2023-08-08 [配一下 mpv](https://ouuan.moe/post/2023/08/mpv-tweaks?utm_source=GitHubProfile)
 -   2023-07-18 [CNATDA 第八章学习笔记](https://ouuan.moe/post/2023/07/cnatda-8?utm_source=GitHubProfile)
 -   2023-07-15 [CNATDA 第六章学习笔记](https://ouuan.moe/post/2023/07/cnatda-6?utm_source=GitHubProfile)
 -   2023-07-08 [CNATDA 第五章学习笔记](https://ouuan.moe/post/2023/07/cnatda-5?utm_source=GitHubProfile)
 -   2023-07-05 [CNATDA 第四章学习笔记](https://ouuan.moe/post/2023/06/cnatda-4?utm_source=GitHubProfile)
--   2023-06-24 [CNATDA 第三章学习笔记](https://ouuan.moe/post/2023/06/cnatda-3?utm_source=GitHubProfile)
 <!--END_SECTION:blog-posts-->
 
 ---
