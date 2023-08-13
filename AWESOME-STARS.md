@@ -188,6 +188,7 @@
 
 ## HTML 
 
+- [thu-cs-lab/Router-Lab-Docs](https://github.com/thu-cs-lab/Router-Lab-Docs) - Documentation for Router Lab
 - [Chiyuru/chiyuru.github.io](https://github.com/Chiyuru/chiyuru.github.io) - Personal website
 - [ayuusweetfish/caisse](https://github.com/ayuusweetfish/caisse) - Personal website/memex
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
