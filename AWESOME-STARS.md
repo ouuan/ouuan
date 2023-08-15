@@ -716,6 +716,7 @@
 
 ## TypeScript 
 
+- [antfu/shikiji](https://github.com/antfu/shikiji) - An ESM-focused rewrite of shiki, and a little bit more.
 - [vuejs/test-utils](https://github.com/vuejs/test-utils) - Vue Test Utils for Vue 3
 - [nuxt-modules/eslint](https://github.com/nuxt-modules/eslint) - ESLint module for Nuxt.js
 - [danielroe/nuxt-vitest](https://github.com/danielroe/nuxt-vitest) - An in-development vitest environment with support for testing code that needs a Nuxt runtime environment
