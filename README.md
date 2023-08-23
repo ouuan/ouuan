@@ -128,18 +128,18 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/Ir1d">Dejia Xu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Konano">
-        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
-      </a>
-      <br />
-      <a href="https://github.com/Konano">Nano</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/guofei9987">
         <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
       </a>
       <br />
       <a href="https://github.com/guofei9987">郭飞</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Konano">
+        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
+      </a>
+      <br />
+      <a href="https://github.com/Konano">Nano</a>
     </td>
     <td align="center">
       <a href="https://github.com/lzwjava">
@@ -179,13 +179,6 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       <a href="https://github.com/WhaleFell">落落</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ZenithalHourlyRate">
-        <img src="https://avatars2.githubusercontent.com/u/19512674" width="100px;" alt="ZenithalHourlyRate"/>
-      </a>
-      <br />
-      <a href="https://github.com/ZenithalHourlyRate">Hongren Zheng</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Enter-tainer">
         <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
       </a>
@@ -212,6 +205,13 @@ I'm Y**ou** Y**u**f**an**, an undergraduate student at THU.
       </a>
       <br />
       <a href="https://github.com/xtlsoft">Tianle Xu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xf4n9x">
+        <img src="https://avatars2.githubusercontent.com/u/40891670" width="100px;" alt="0xf4n9x"/>
+      </a>
+      <br />
+      <a href="https://github.com/0xf4n9x">M4rtin Hsu</a>
     </td>
   </tr>
 </table>
