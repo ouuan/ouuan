@@ -211,7 +211,6 @@
 - [Magolor/magolor.github.io](https://github.com/Magolor/magolor.github.io) - Magolor's Blog:
 - [trinitrotofu/BZPRO](https://github.com/trinitrotofu/BZPRO) - BZOJ离线题库 附赠下载器一枚
 - [Ruanxingzhi/bzojch](https://github.com/Ruanxingzhi/bzojch) - BZOJ离线题库
-- [OIerDb-ng/OIer](https://github.com/OIerDb-ng/OIer) - A database for OIers
 - [zyf722/zyf722.github.io](https://github.com/zyf722/zyf722.github.io) - World.create(__MAX__);
 
 ## Haml 
@@ -608,6 +607,7 @@
 - [NVlabs/stylegan](https://github.com/NVlabs/stylegan) - StyleGAN - Official TensorFlow Implementation
 - [ShuhuaGao/gpFlappyBird](https://github.com/ShuhuaGao/gpFlappyBird) - Flappy Bird AI using Cartesian Genetic Programming (Evolutionary Computation)
 - [Alif-01/AutoHeadReplace](https://github.com/Alif-01/AutoHeadReplace) - 
+- [OIerDb-ng/OIer](https://github.com/OIerDb-ng/OIer) - A database for OIers
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [Anguei/Luogu-Ac-Difficulties](https://github.com/Anguei/Luogu-Ac-Difficulties) - 统计你在洛谷通过的题目是什么难度的
 
