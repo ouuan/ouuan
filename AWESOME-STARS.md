@@ -501,7 +501,6 @@
 - [ouuan/omuse-zsh-theme](https://github.com/ouuan/omuse-zsh-theme) - A zsh theme based on amuse
 - [Jannchie/BiliOB](https://github.com/Jannchie/BiliOB) - BiliOB观测者是一个观测B站UP主及视频数据变化，并予以分析的Web应用程序。
 - [kfcd/chaizi](https://github.com/kfcd/chaizi) - 漢語拆字字典
-- [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [KeiKinn/ShadowsocksBio](https://github.com/KeiKinn/ShadowsocksBio) - 记录一下Shadowsocks的前世今生，以及一个简单的教程总结
