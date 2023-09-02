@@ -177,6 +177,13 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <a href="https://github.com/WhaleFell">落落</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Fantasy9527">
+        <img src="https://avatars2.githubusercontent.com/u/9129438" width="100px;" alt="Fantasy9527"/>
+      </a>
+      <br />
+      <a href="https://github.com/Fantasy9527">No.142857</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Enter-tainer">
         <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
       </a>
@@ -203,13 +210,6 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       </a>
       <br />
       <a href="https://github.com/xtlsoft">Tianle Xu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/0xf4n9x">
-        <img src="https://avatars2.githubusercontent.com/u/40891670" width="100px;" alt="0xf4n9x"/>
-      </a>
-      <br />
-      <a href="https://github.com/0xf4n9x">M4rtin Hsu</a>
     </td>
   </tr>
 </table>
