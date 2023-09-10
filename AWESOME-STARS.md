@@ -148,7 +148,7 @@
 
 ## Dockerfile 
 
-- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - :octocat: GitHub Action for Chocolatey, the package manager for Windows
+- [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - GitHub Action for Chocolatey, the package manager for Windows
 
 ## Elixir 
 
