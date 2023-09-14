@@ -337,7 +337,7 @@
 - [f2e-awesome/knowledge](https://github.com/f2e-awesome/knowledge) - 文档着重构建一个完整的「前端技术架构图谱」，方便 F2E(Front End Engineering又称FEE、F2E) 学习与进阶。
 - [remarkjs/remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - remark plugin to support frontmatter (YAML, TOML, and more)
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
-- [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
+- [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [vogievetsky/KoalasToTheMax](https://github.com/vogievetsky/KoalasToTheMax) - Koalas To The Max
 - [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
