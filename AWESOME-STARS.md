@@ -275,7 +275,7 @@
 - [fastify/fastify-static](https://github.com/fastify/fastify-static) - Plugin for serving static files as fast as possible
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [ZenithalHourlyRate/thuservices](https://github.com/ZenithalHourlyRate/thuservices) - https://thu.services. A yellow page for Tsinghua/THU service/info/utils
+- [ZenithalHourlyRate/thuservices](https://github.com/ZenithalHourlyRate/thuservices) - https://thu.services
 - [johnsoncodehk/vue-tsc](https://github.com/johnsoncodehk/vue-tsc) - vue-tsc --noEmit && vite build
 - [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 - [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) - eslint-config-typescript for vue projects
@@ -747,7 +747,7 @@
 - [antfu/bumpp](https://github.com/antfu/bumpp) - Interactive CLI that bumps your version numbers and more
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
-- [yjl9903/vite-plugin-info](https://github.com/yjl9903/vite-plugin-info) - Export build information as a Vite virutal module
+- [yjl9903/unplugin-info](https://github.com/yjl9903/unplugin-info) - Export build information as a virutal module
 - [ouuan/mastodon-auto-reply-bot](https://github.com/ouuan/mastodon-auto-reply-bot) - A Mastodon Bot to automatically reply to statuses that match the given filters.
 - [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and stringifier for JavaScript
 - [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Universal Mastodon API client for JavaScript
