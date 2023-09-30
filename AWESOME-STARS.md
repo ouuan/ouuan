@@ -34,7 +34,6 @@
 - [PureScript](#purescript)
 - [Python](#python)
 - [QML](#qml)
-- [Ren'Py](#ren'py)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -616,10 +615,6 @@
 ## QML 
 
 - [WuSiYu/PlasmaVideoWallpaper](https://github.com/WuSiYu/PlasmaVideoWallpaper) - A KDE Plasma 5 wallpaper plugin which can let you using a video as the wallpaper
-
-## Ren'Py 
-
-- [MAY-game-studio/Loraines_when_they_shine](https://github.com/MAY-game-studio/Loraines_when_they_shine) - 
 
 ## Roff 
 
