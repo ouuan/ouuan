@@ -774,7 +774,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [jakearchibald/wordle-analyzer](https://github.com/jakearchibald/wordle-analyzer) - 
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [thu-info-community/thu-info-app](https://github.com/thu-info-community/thu-info-app) - An APP aimed at integrating various sources of campus information, developed with React Native
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
@@ -796,7 +796,7 @@
 - [dividab/ts-exhaustive-check](https://github.com/dividab/ts-exhaustive-check) - Exhaustive check for typescript type never
 - [ibezkrovnyi/image-quantization](https://github.com/ibezkrovnyi/image-quantization) - Image Quantization Library with alpha support (based on https://github.com/leeoniya/RgbQuant.js, https://github.com/timoxley/neuquant and http://www.ece.mcmaster.ca/~xwu/cq.c)
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
+- [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
 - [3Shain/Comen](https://github.com/3Shain/Comen) - 📺直播用弹幕栏【原bilichat】
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
