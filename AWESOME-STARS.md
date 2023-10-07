@@ -512,7 +512,6 @@
 - [teorth/QED](https://github.com/teorth/QED) - Repository for the QED interactive text and possible extensions
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [jalios/pdf2svg-windows](https://github.com/jalios/pdf2svg-windows) - pdf2SVG for windows (using poppler and cairo)
-- [MegaOwIer/CNOI-problems](https://github.com/MegaOwIer/CNOI-problems) - 
 - [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 《提问的智慧》中文版
 - [QuadnucYard/kkksc03_voice](https://github.com/QuadnucYard/kkksc03_voice) - kkksc03音源
 - [ciwomuli/chen_zhe_voice](https://github.com/ciwomuli/chen_zhe_voice) - 
