@@ -25,7 +25,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lean](#lean)
-- [Less](#less)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -386,10 +385,6 @@
 - [leanprover-community/mathlib](https://github.com/leanprover-community/mathlib) - Lean 3's obsolete mathematical components library: please use mathlib4
 - [ljt12138/Proof-of-Surreal](https://github.com/ljt12138/Proof-of-Surreal) - A formal proof of NOI 2020 D2T2
 
-## Less 
-
-- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - MDUI 是一个基于 Material Design 的前端框架。
-
 ## Lua 
 
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
@@ -727,7 +722,7 @@
 - [AriPerkkio/vitest-sonar-reporter](https://github.com/AriPerkkio/vitest-sonar-reporter) - SonarQube reporter for Vitest
 - [sniptt-official/guards](https://github.com/sniptt-official/guards) - 🛡 Comprehensive collection of type guards for JavaScript and TypeScript; Inspired by Elixir
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG f
 - [ekalinin/sitemap.js](https://github.com/ekalinin/sitemap.js) - Sitemap-generating framework for node.js
 - [nick-fields/retry](https://github.com/nick-fields/retry) - Retries a GitHub Action step on failure or timeout
@@ -836,6 +831,7 @@
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - mdui 是使用 Web Components 实现 Material You 设计规范的前端组件库
 
 ## Vim Script 
 
