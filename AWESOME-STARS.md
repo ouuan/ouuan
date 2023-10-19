@@ -710,6 +710,7 @@
 
 ## TeX 
 
+- [thu-cs-lab/tanlabs](https://github.com/thu-cs-lab/tanlabs) - Tsinghua Advanced Networking Labs on FPGA
 - [josephwright/siunitx](https://github.com/josephwright/siunitx) - A comprehensive (SI) units package for LaTeX
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 
