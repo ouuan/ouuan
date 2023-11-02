@@ -482,7 +482,6 @@
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [themotu/wearenotsheep](https://github.com/themotu/wearenotsheep) - Guidance for changing the default branch name for GitHub repositories
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [b1f6c1c4/learn-git-the-super-hard-way](https://github.com/b1f6c1c4/learn-git-the-super-hard-way) - 不走寻常路的Git教程
 - [tounan/renaming](https://github.com/tounan/renaming) - Yep
 - [adobe-fonts/source-han-super-otc](https://github.com/adobe-fonts/source-han-super-otc) - Source Han & Noto CJK Mega/Ultra OTCs
