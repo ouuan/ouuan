@@ -804,7 +804,6 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-- [Dreamacro/clash-dashboard](https://github.com/Dreamacro/clash-dashboard) - web port of clash
 - [znck/grammarly](https://github.com/znck/grammarly) - Grammarly for VS Code
 - [cschleiden/vscode-github-actions](https://github.com/cschleiden/vscode-github-actions) - Simple, unofficial extension to view GitHub Actions workflows and runs in VS Code
 - [hecrj/download-release-action](https://github.com/hecrj/download-release-action) - Download the assets of a GitHub release
