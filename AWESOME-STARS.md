@@ -120,7 +120,7 @@
 - [itay-grudev/SingleApplication](https://github.com/itay-grudev/SingleApplication) - Replacement of QtSingleApplication for Qt 5 and Qt 6 with support for inter-instance communication.
 - [vijos/malicious-code](https://github.com/vijos/malicious-code) - Malicious code that Vijos judged.
 - [syzoj/syzoj-tools](https://github.com/syzoj/syzoj-tools) - 一个为 OI 题目设计的方便的命令行工具，实现造题、验题、评测等整个评测流程
-- [keyu-tian/Gobang-by-Qt](https://github.com/keyu-tian/Gobang-by-Qt) - A Gobang game (includes a naive AI) based on Min-Max-Search and Alpha-Beta-Pruning algorithm. (by Qt5.11)
+- [keyu-tian/Gobang-by-Qt](https://github.com/keyu-tian/Gobang-by-Qt) - Gobang game with a strong AI based on MiniMax search and alpha-beta pruning.  *Dozens of C++ tricks & hacks are used for extreme efficiency.*  Come and try to see if you can beat the powerful AI!
 - [Project-LemonLime/Project_LemonLime](https://github.com/Project-LemonLime/Project_LemonLime) - 为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持
 - [Laakeri/tiralabra](https://github.com/Laakeri/tiralabra) - 
 - [biswajitsc/jigsaw-solver](https://github.com/biswajitsc/jigsaw-solver) - A jigsaw puzzle solver for randomly shuffled square shaped images.
@@ -407,7 +407,7 @@
 - [lukas-reineke/cmp-under-comparator](https://github.com/lukas-reineke/cmp-under-comparator) - nvim-cmp comparator function for completion items that start with one or more underlines
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
-- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Standalone UI for nvim-lsp progress
+- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Extensible UI for Neovim notifications and LSP progress messages.
 - [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar
 - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI for Neovim, writen in Lua.
 - [luukvbaal/stabilize.nvim](https://github.com/luukvbaal/stabilize.nvim) - Neovim plugin to stabilize window open/close events.
