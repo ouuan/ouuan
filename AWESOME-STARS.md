@@ -627,6 +627,7 @@
 
 ## Rust 
 
+- [jam1garner/binwrite](https://github.com/jam1garner/binwrite) - A Rust crate for helping write structs as binary data using ✨macro magic✨
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
