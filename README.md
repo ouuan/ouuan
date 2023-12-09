@@ -189,7 +189,7 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
         <img src="https://avatars2.githubusercontent.com/u/63758849" width="100px;" alt="WhaleFell"/>
       </a>
       <br />
-      <a href="https://github.com/WhaleFell">落落</a>
+      <a href="https://github.com/WhaleFell">WhaleFall</a>
     </td>
     <td align="center">
       <a href="https://github.com/iBug">
