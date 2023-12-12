@@ -353,6 +353,7 @@
 - [ITcarrot/hoj](https://github.com/ITcarrot/hoj) - 一个基于UOJ开发的在线评测系统
 - [yuku/old-textcomplete](https://github.com/yuku/old-textcomplete) - Moved to yuku/textcomplete
 - [mervick/emojionearea](https://github.com/mervick/emojionearea) - Emoji Picker Plugin for jQuery
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [shi-yang/jnoj](https://github.com/shi-yang/jnoj) - Jiangnan Online Judge
 - [zyr17/MajsoulPaipuAnalyzer](https://github.com/zyr17/MajsoulPaipuAnalyzer) - 雀魂牌谱分析工具
@@ -722,7 +723,7 @@
 - [antfu/shikiji](https://github.com/antfu/shikiji) - An ESM-focused rewrite of shiki, and a little bit more.
 - [vuejs/test-utils](https://github.com/vuejs/test-utils) - Vue Test Utils for Vue 3
 - [nuxt-modules/eslint](https://github.com/nuxt-modules/eslint) - ESLint module for Nuxt.js
-- [nuxt/nuxt-vitest](https://github.com/nuxt/nuxt-vitest) - An vitest environment with support for testing code that needs a Nuxt runtime environment
+- [danielroe/nuxt-vitest](https://github.com/danielroe/nuxt-vitest) - An vitest environment with support for testing code that needs a Nuxt runtime environment
 - [AriPerkkio/vitest-sonar-reporter](https://github.com/AriPerkkio/vitest-sonar-reporter) - SonarQube reporter for Vitest
 - [sniptt-official/guards](https://github.com/sniptt-official/guards) - 🛡 Comprehensive collection of type guards for JavaScript and TypeScript; Inspired by Elixir
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
@@ -761,7 +762,7 @@
 - [ka-weihe/fastest-levenshtein](https://github.com/ka-weihe/fastest-levenshtein) - The fastest implementation of Levenshtein distance in JS/TS.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [hgraceb/flop-player](https://github.com/hgraceb/flop-player) - Web minesweeper player
-- [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
+- [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [hoiheart/vue-diff](https://github.com/hoiheart/vue-diff) - VueJS diff viewer plugin
 - [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [vbenjs/vite-plugin-compression](https://github.com/vbenjs/vite-plugin-compression) - Use gzip or brotli to compress resources
@@ -831,7 +832,6 @@
 - [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
 - [jmerle/competitive-companion](https://github.com/jmerle/competitive-companion) - Browser extension which parses competitive programming problems
 - [Enter-tainer/luoguPaintAutomatonTS](https://github.com/Enter-tainer/luoguPaintAutomatonTS) - luogu冬日画板自动绘图脚本支持多用户，维护
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - mdui 是使用 Web Components 实现 Material You 设计规范的前端组件库
