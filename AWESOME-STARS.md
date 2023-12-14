@@ -120,7 +120,7 @@
 - [itay-grudev/SingleApplication](https://github.com/itay-grudev/SingleApplication) - Replacement of QtSingleApplication for Qt 5 and Qt 6 with support for inter-instance communication.
 - [vijos/malicious-code](https://github.com/vijos/malicious-code) - Malicious code that Vijos judged.
 - [syzoj/syzoj-tools](https://github.com/syzoj/syzoj-tools) - 一个为 OI 题目设计的方便的命令行工具，实现造题、验题、评测等整个评测流程
-- [keyu-tian/Cpp-Gobang-with-AI](https://github.com/keyu-tian/Cpp-Gobang-with-AI) - Gobang game with a strong AI based on minimax search and alpha-beta pruning.  *Dozens of C++ tricks & hacks are used to improve efficiency.* C++ Qt5 used. Come and try to see if you can beat the power
+- [keyu-tian/Cpp-Gomoku-with-AI](https://github.com/keyu-tian/Cpp-Gomoku-with-AI) - C++ Gomoku with a strong AI based on minimax search and alpha-beta pruning with Qt5 GUI.  *Dozens of C++ tricks & hacks are used to improve efficiency.* Come and try to see if you can beat the powerfu
 - [Project-LemonLime/Project_LemonLime](https://github.com/Project-LemonLime/Project_LemonLime) - 为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持
 - [Laakeri/tiralabra](https://github.com/Laakeri/tiralabra) - 
 - [biswajitsc/jigsaw-solver](https://github.com/biswajitsc/jigsaw-solver) - A jigsaw puzzle solver for randomly shuffled square shaped images.
