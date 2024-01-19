@@ -836,6 +836,7 @@
 
 ## Vim Script 
 
+- [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [jxnblk/vim-mdx-js](https://github.com/jxnblk/vim-mdx-js) - 
 - [machakann/vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - Make the yanked region apparent!
 - [glts/vim-textobj-comment](https://github.com/glts/vim-textobj-comment) - Vim text objects for comments
