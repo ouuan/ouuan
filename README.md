@@ -83,18 +83,18 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <a href="https://github.com/EndlessCheng">灵茶山艾府</a>
     </td>
     <td align="center">
-      <a href="https://github.com/losfair">
-        <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
-      </a>
-      <br />
-      <a href="https://github.com/losfair">Heyang Zhou</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/hua1995116">
         <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
       </a>
       <br />
       <a href="https://github.com/hua1995116">蓝色的秋风</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/losfair">
+        <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
+      </a>
+      <br />
+      <a href="https://github.com/losfair">Heyang Zhou</a>
     </td>
     <td align="center">
       <a href="https://github.com/Harry-Chen">
