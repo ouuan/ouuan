@@ -634,7 +634,7 @@
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Retry with backoff without effort.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
-- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
+- [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
 - [dtolnay/readonly](https://github.com/dtolnay/readonly) - Struct fields that are made read-only accessible to other modules
 - [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust
