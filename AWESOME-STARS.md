@@ -728,7 +728,7 @@
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 150 icon sets and 200k icons). SV
 - [ekalinin/sitemap.js](https://github.com/ekalinin/sitemap.js) - Sitemap-generating framework for node.js
 - [nick-fields/retry](https://github.com/nick-fields/retry) - Retries a GitHub Action step on failure or timeout
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [wataru-chocola/remark-definition-list](https://github.com/wataru-chocola/remark-definition-list) - remark plugin to support definition list
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [ElMassimo/vite-plugin-image-presets](https://github.com/ElMassimo/vite-plugin-image-presets) - 🖼 Image Presets for Vite.js apps
@@ -741,7 +741,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [antfu/bumpp](https://github.com/antfu/bumpp) - Interactive CLI that bumps your version numbers and more
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
-- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [yjl9903/unplugin-info](https://github.com/yjl9903/unplugin-info) - Export build information as a virutal module
 - [ouuan/mastodon-auto-reply-bot](https://github.com/ouuan/mastodon-auto-reply-bot) - A Mastodon Bot to automatically reply to statuses that match the given filters.
 - [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and stringifier for JavaScript
