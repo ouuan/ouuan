@@ -238,6 +238,7 @@
 
 ## JavaScript 
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [yi-Xu-0100/repo-list-generator](https://github.com/yi-Xu-0100/repo-list-generator) - 📃 The GitHub action that generate repository list for user or organization.
 - [adrgs/requestrepo](https://github.com/adrgs/requestrepo) - Analyze HTTP and DNS requests and create custom DNS records for your subdomain
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -869,7 +870,7 @@
 - [m-pilia/vim-pkgbuild](https://github.com/m-pilia/vim-pkgbuild) - Vim plugin to edit PKGBUILD files
 - [kana/vim-textobj-entire](https://github.com/kana/vim-textobj-entire) - Vim plugin: Text objects for entire buffer
 - [jamesl33/vim-textobj-function](https://github.com/jamesl33/vim-textobj-function) - Vim plugin: Text objects for functions
-- [dkarter/bullets.vim](https://github.com/dkarter/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
+- [bullets-vim/bullets.vim](https://github.com/bullets-vim/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [vim-autoformat/vim-autoformat](https://github.com/vim-autoformat/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
