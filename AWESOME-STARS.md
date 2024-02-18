@@ -841,7 +841,7 @@
 - [Enter-tainer/luoguPaintAutomatonTS](https://github.com/Enter-tainer/luoguPaintAutomatonTS) - luogu冬日画板自动绘图脚本支持多用户，维护
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using web components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components. mdui 是使用 Web Components 实现 Material You ( Material Design 3 ) 设计规范的前端组件库
 
 ## Vim Script 
 
