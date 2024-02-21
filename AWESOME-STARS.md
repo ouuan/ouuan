@@ -446,7 +446,7 @@
 - [ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim) - Lua port of the most famous vim colorscheme
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
-- [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
+- [hadronized/hop.nvim](https://github.com/hadronized/hop.nvim) - Neovim motions on speed!
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
