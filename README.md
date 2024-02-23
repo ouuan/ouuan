@@ -206,11 +206,11 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <a href="https://github.com/iBug">iBug</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lz233">
-        <img src="https://avatars2.githubusercontent.com/u/32504382" width="100px;" alt="lz233"/>
+      <a href="https://github.com/lwd-temp">
+        <img src="https://avatars2.githubusercontent.com/u/26019675" width="100px;" alt="lwd-temp"/>
       </a>
       <br />
-      <a href="https://github.com/lz233">lz差不多是条咸鱼了</a>
+      <a href="https://github.com/lwd-temp">Sunset Mikoto</a>
     </td>
   </tr>
 </table>
