@@ -319,7 +319,6 @@
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [abskmj/hukum](https://github.com/abskmj/hukum) - An NPM module that displays Github Action progress in the terminal and aims to improve your development experience by printing status in realtime.
 - [BeautyyuYanli/full-mark-composition-generator](https://github.com/BeautyyuYanli/full-mark-composition-generator) - 将专业术语和名人名言以随机报菜名的方式填入模板，生成一篇只有聪明人才能看懂的满分作文！
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [awesome-cp-projects/awesome-cp-projects.github.io](https://github.com/awesome-cp-projects/awesome-cp-projects.github.io) - :sunglasses: An awesome list of competitive-programming-related projects on GitHub, with stats instead of comments.
 - [zenolus/upsolve](https://github.com/zenolus/upsolve) - A Codeforces practice tracker (https://upsolve.me)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -497,7 +496,6 @@
 - [iotang/oiQuotations](https://github.com/iotang/oiQuotations) - Quotations for oi
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
-- [ouuan/omuse-zsh-theme](https://github.com/ouuan/omuse-zsh-theme) - A zsh theme based on amuse
 - [Jannchie/BiliOB](https://github.com/Jannchie/BiliOB) - BiliOB观测者是一个观测B站UP主及视频数据变化，并予以分析的Web应用程序。
 - [kfcd/chaizi](https://github.com/kfcd/chaizi) - 漢語拆字字典
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -723,6 +721,7 @@
 
 ## TypeScript 
 
+- [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
 - [mathworks/MATLAB-language-server](https://github.com/mathworks/MATLAB-language-server) - 
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iO
 - [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill) - Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.
@@ -825,6 +824,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [jinliming2/vscode-go-template](https://github.com/jinliming2/vscode-go-template) - Go Template Syntax Highlight Support for VSCode.
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [dd-center/Cluster-center](https://github.com/dd-center/Cluster-center) - DD@Home, Cluster Manager
@@ -847,6 +847,7 @@
 
 ## Vim Script 
 
+- [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [jxnblk/vim-mdx-js](https://github.com/jxnblk/vim-mdx-js) - 
 - [machakann/vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - Make the yanked region apparent!
