@@ -97,27 +97,27 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <a href="https://github.com/losfair">Heyang Zhou</a>
     </td>
     <td align="center">
+      <a href="https://github.com/guofei9987">
+        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
+      </a>
+      <br />
+      <a href="https://github.com/guofei9987">郭飞</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Harry-Chen">
         <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
       </a>
       <br />
       <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
       </a>
       <br />
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/guofei9987">
-        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
-      </a>
-      <br />
-      <a href="https://github.com/guofei9987">郭飞</a>
     </td>
     <td align="center">
       <a href="https://github.com/mashirozx">
