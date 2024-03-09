@@ -380,7 +380,7 @@
 ## Lean 
 
 - [blanchette/logical_verification_2020](https://github.com/blanchette/logical_verification_2020) - Companion files for Logical Verification 2020–2021 at VU Amsterdam
-- [ImperialCollegeLondon/natural_number_game](https://github.com/ImperialCollegeLondon/natural_number_game) - Building the natural numbers in Lean.
+- [ImperialCollegeLondon/natural_number_game](https://github.com/ImperialCollegeLondon/natural_number_game) - Building the natural numbers in Lean 3. The original natural number game, now frozen. See README for Lean 4 information.
 - [leanprover-community/mathlib](https://github.com/leanprover-community/mathlib) - Lean 3's obsolete mathematical components library: please use mathlib4
 - [ljt12138/Proof-of-Surreal](https://github.com/ljt12138/Proof-of-Surreal) - A formal proof of NOI 2020 D2T2
 
