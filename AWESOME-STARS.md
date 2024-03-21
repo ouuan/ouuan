@@ -323,7 +323,6 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [iamcal/js-emoji](https://github.com/iamcal/js-emoji) - A JS Emoji conversion library
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
-- [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [Monogatari/Monogatari](https://github.com/Monogatari/Monogatari) - Monogatari is a simple web visual novel engine, created to bring Visual Novels to the web.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -829,6 +828,7 @@
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event
+- [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [dd-center/Cluster-center](https://github.com/dd-center/Cluster-center) - DD@Home, Cluster Manager
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
