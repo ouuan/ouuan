@@ -192,18 +192,18 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <a href="https://github.com/lwd-temp">Sunset Mikoto</a>
     </td>
     <td align="center">
-      <a href="https://github.com/WhaleFell">
-        <img src="https://avatars2.githubusercontent.com/u/63758849" width="100px;" alt="WhaleFell"/>
-      </a>
-      <br />
-      <a href="https://github.com/WhaleFell">WhaleFall</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/iBug">
         <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
       </a>
       <br />
       <a href="https://github.com/iBug">iBug</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WhaleFell">
+        <img src="https://avatars2.githubusercontent.com/u/63758849" width="100px;" alt="WhaleFell"/>
+      </a>
+      <br />
+      <a href="https://github.com/WhaleFell">WhaleFall</a>
     </td>
     <td align="center">
       <a href="https://github.com/lz233">
