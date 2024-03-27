@@ -627,6 +627,7 @@
 
 ## Rust 
 
+- [snowfoxsh/nestify](https://github.com/snowfoxsh/nestify) - Nestify offers a macro to simplify and beautify nested struct definitions in Rust, enabling cleaner, more readable code structures with less verbosity. It's especially valuable for handling API respon
 - [tats-u/rust-zip-structs](https://github.com/tats-u/rust-zip-structs) - Rust library for handling ZIP structures / ZIPファイルの構造体を扱うRustライブラリ
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
