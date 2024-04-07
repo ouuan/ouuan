@@ -94,6 +94,7 @@
 
 ## C++ 
 
+- [Qalculate/libqalculate](https://github.com/Qalculate/libqalculate) - Qalculate! library and CLI
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [frvdecQAQ/reversi](https://github.com/frvdecQAQ/reversi) - 
 - [xsun2001/thuac2022-adk](https://github.com/xsun2001/thuac2022-adk) - 
