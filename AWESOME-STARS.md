@@ -639,6 +639,7 @@
 
 ## Rust 
 
+- [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm) - cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 - [magiclen/educe](https://github.com/magiclen/educe) - This crate offers procedural macros designed to facilitate the swift implementation of Rust's built-in traits.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [verus-lang/verus-analyzer](https://github.com/verus-lang/verus-analyzer) - A Verus compiler front-end for IDEs (derived from rust-analyzer)
