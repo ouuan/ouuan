@@ -9,7 +9,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@2aab71918a9e3553309bda98e1cc570a07482d3c
+      - uses: athul/waka-readme@8539bedb8277066fc9fe1b47d1f9b108eb866494
         with:
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
