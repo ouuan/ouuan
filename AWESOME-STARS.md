@@ -640,6 +640,7 @@
 
 ## Rust 
 
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm) - cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 - [magiclen/educe](https://github.com/magiclen/educe) - This crate offers procedural macros designed to facilitate the swift implementation of Rust's built-in traits.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -868,7 +869,7 @@
 
 ## Vim Script 
 
-- [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
+- [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [jxnblk/vim-mdx-js](https://github.com/jxnblk/vim-mdx-js) - 
 - [machakann/vim-highlightedyank](https://github.com/machakann/vim-highlightedyank) - Make the yanked region apparent!
