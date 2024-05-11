@@ -743,6 +743,7 @@
 
 ## TypeScript 
 
+- [ouuan/plausible-visitor-count](https://github.com/ouuan/plausible-visitor-count) - Proxy to get visitor count for a specific page from Plausible Analytics
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
 - [mathworks/MATLAB-language-server](https://github.com/mathworks/MATLAB-language-server) - 
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。 目前已适配 iO
@@ -913,7 +914,7 @@
 
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [agateblue/tempo](https://github.com/agateblue/tempo) - Your personal diary and mood tracker
-- [ouuan/codle](https://github.com/ouuan/codle) - 💻 Guess code like Wordle with parse tree nodes as letters 🌳
+- [ouuan/codle](https://github.com/ouuan/codle) - 💻 Guess code like Wordle with AST nodes as letters 🌳
 - [ouuan/luogu-paintboard-heatmap](https://github.com/ouuan/luogu-paintboard-heatmap) - 洛谷冬日绘板热力图
 - [MegEngine/MegSpot](https://github.com/MegEngine/MegSpot) - MegSpot是一款高效、专业、跨平台的图片&视频对比应用
 - [vuejs/docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) - :cn: Chinese translation for v3.vuejs.org
