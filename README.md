@@ -164,13 +164,6 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/WBGlIl">
-        <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
-      </a>
-      <br />
-      <a href="https://github.com/WBGlIl">WBGlIl</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Enter-tainer">
         <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
       </a>
@@ -211,6 +204,13 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       </a>
       <br />
       <a href="https://github.com/WhaleFell">WhaleFall</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lz233">
+        <img src="https://avatars2.githubusercontent.com/u/32504382" width="100px;" alt="lz233"/>
+      </a>
+      <br />
+      <a href="https://github.com/lz233">lz差不多是条咸鱼了</a>
     </td>
   </tr>
 </table>
