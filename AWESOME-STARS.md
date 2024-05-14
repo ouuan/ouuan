@@ -744,6 +744,7 @@
 
 ## TypeScript 
 
+- [ota-meshi/eslint-plugin-regexp](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regex mistakes and style guide violations.
 - [ouuan/plausible-visitor-count](https://github.com/ouuan/plausible-visitor-count) - Proxy to get visitor count for a specific page from Plausible Analytics
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
 - [mathworks/MATLAB-language-server](https://github.com/mathworks/MATLAB-language-server) - 
