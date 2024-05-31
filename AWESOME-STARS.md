@@ -41,8 +41,10 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Stylus](#stylus)
+- [Svelte](#svelte)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [sed](#sed)
@@ -393,6 +395,7 @@
 
 ## Lua 
 
+- [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) - Low latency typst preview for Neovim
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim) - Neovim fugitive style git blame plugin
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text.
@@ -640,6 +643,8 @@
 
 ## Rust 
 
+- [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm) - cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 - [magiclen/educe](https://github.com/magiclen/educe) - This crate offers procedural macros designed to facilitate the swift implementation of Rust's built-in traits.
@@ -734,6 +739,10 @@
 ## Stylus 
 
 - [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
+
+## Svelte 
+
+- [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
 
 ## TeX 
 
@@ -868,6 +877,10 @@
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components.
+
+## Typst 
+
+- [Enter-tainer/typst-preview](https://github.com/Enter-tainer/typst-preview) - Typst preview extension for VSCode
 
 ## Vim Script 
 
