@@ -9,3 +9,5 @@ I (@ouuan) have discovered the following vulnerabilities:
 -   [GHSA-4c78-229v-hf6m](https://github.com/TxtDot/txtdot/security/advisories/GHSA-4c78-229v-hf6m): txtdot SSRF vulnerability in /proxy
 -   [GHSA-4gj5-xj97-j8fp](https://github.com/TxtDot/txtdot/security/advisories/GHSA-4gj5-xj97-j8fp): txtdot SSRF vulnerability in /get
 -   [GHSA-99hj-2wwx-78m3](https://github.com/TxtDot/txtdot/security/advisories/GHSA-99hj-2wwx-78m3): txtdot Reflected XSS vulnerability in /proxy
+-   [CVE-2024-29415](https://nvd.nist.gov/vuln/detail/CVE-2024-29415): NPM ip package still incorrectly identifies some private IP addresses as public
+-   [CVE-2024-24789](https://nvd.nist.gov/vuln/detail/CVE-2024-24789): Go `archive/zip` EOCDR comment length handling is inconsistent with other ZIP implementations
