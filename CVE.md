@@ -11,3 +11,7 @@ I (@ouuan) have discovered the following vulnerabilities:
 -   [GHSA-99hj-2wwx-78m3](https://github.com/TxtDot/txtdot/security/advisories/GHSA-99hj-2wwx-78m3): txtdot Reflected XSS vulnerability in /proxy
 -   [CVE-2024-29415](https://nvd.nist.gov/vuln/detail/CVE-2024-29415): NPM ip package still incorrectly identifies some private IP addresses as public
 -   [CVE-2024-24789](https://nvd.nist.gov/vuln/detail/CVE-2024-24789): Go `archive/zip` EOCDR comment length handling is inconsistent with other ZIP implementations
+-   [CVE-2024-37661](https://nvd.nist.gov/vuln/detail/CVE-2024-37661): TP-LINK router TL-7DR5130 is vulnerable to forged ICMP redirect message attacks
+-   [CVE-2024-37662](https://nvd.nist.gov/vuln/detail/CVE-2024-37662): TP-LINK router TL-7DR5130 is vulnerable to TCP DoS or hijacking attacks
+-   [CVE-2024-37663](https://nvd.nist.gov/vuln/detail/CVE-2024-37663): Redmi router RB03 is vulnerable to forged ICMP redirect message attacks
+-   [CVE-2024-37664](https://nvd.nist.gov/vuln/detail/CVE-2024-37664): Redmi router RB03 is vulnerable to TCP DoS or hijacking attacks
