@@ -394,6 +394,7 @@
 
 ## Lua 
 
+- [seanbreckenridge/gitsigns-yadm.nvim](https://github.com/seanbreckenridge/gitsigns-yadm.nvim) - gitsigns _on_attach_pre hook to show git decorations for files tracked by yadm
 - [vladdoster/remember.nvim](https://github.com/vladdoster/remember.nvim) - A port of the Vim plugin vim-lastplace. It uses the same logic as vim-lastplace, but leverages the Neovim Lua API.
 - [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) - Low latency typst preview for Neovim
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
@@ -885,6 +886,7 @@
 
 ## Vim Script 
 
+- [seanbreckenridge/yadm-git.vim](https://github.com/seanbreckenridge/yadm-git.vim) - Integrates yadm with vim-fugitive and vim-gitgutter, so you can manage your dotfiles without leaving vim
 - [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [jxnblk/vim-mdx-js](https://github.com/jxnblk/vim-mdx-js) - 
