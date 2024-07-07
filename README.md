@@ -47,11 +47,11 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
 ### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
 
 <!--START_SECTION:blog-posts-->
+-   2024-07-07 [DownUnderCTF 2024 Write-Up](https://ouuan.moe/post/2024/07/ductf-2024?utm_source=GitHubProfile)
 -   2024-05-24 [解决使用 profile-sync-daemon 时 Firefox 开机启动报错](https://ouuan.moe/post/2024/05/psd-firefox-startup?utm_source=GitHubProfile)
 -   2024-02-06 [OSTEP 学习笔记 —— Virtualization](https://ouuan.moe/post/2024/01/ostep-virtualization?utm_source=GitHubProfile)
 -   2024-02-05 [DiceCTF 2024 Quals Write-Up](https://ouuan.moe/post/2024/02/dicectf-2024-quals?utm_source=GitHubProfile)
 -   2023-12-03 [THUCTF2023 IoT 赛道 WriteUp](https://ouuan.moe/post/2023/12/thuctf2023-iot-writeup?utm_source=GitHubProfile)
--   2023-10-22 [THUCTF2023 WriteUp](https://ouuan.moe/post/2023/10/thuctf2023-writeup?utm_source=GitHubProfile)
 <!--END_SECTION:blog-posts-->
 
 ---
