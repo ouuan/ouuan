@@ -890,7 +890,7 @@
 
 ## Typst 
 
-- [Enter-tainer/typst-preview](https://github.com/Enter-tainer/typst-preview) - Typst preview extension for VSCode
+- [Enter-tainer/typst-preview](https://github.com/Enter-tainer/typst-preview) - [DEPRECATED] Use tinymist instead
 
 ## Verilog 
 
