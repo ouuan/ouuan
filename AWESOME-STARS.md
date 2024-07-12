@@ -466,7 +466,7 @@
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅  Highlight, list and search todo comments in your projects
 - [ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim) - Lua port of the most famous vim colorscheme
-- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
+- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [hadronized/hop.nvim](https://github.com/hadronized/hop.nvim) - Neovim motions on speed!
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A simple Neovim statusline
