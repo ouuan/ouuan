@@ -257,6 +257,7 @@
 
 ## JavaScript 
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [yi-Xu-0100/repo-list-generator](https://github.com/yi-Xu-0100/repo-list-generator) - 📃 The GitHub action that generate repository list for user or organization.
 - [adrgs/requestrepo](https://github.com/adrgs/requestrepo) - Analyze HTTP and DNS requests and create custom DNS records for your subdomain
@@ -368,6 +369,7 @@
 - [ITcarrot/hoj](https://github.com/ITcarrot/hoj) - 一个基于UOJ开发的在线评测系统
 - [yuku/old-textcomplete](https://github.com/yuku/old-textcomplete) - Moved to yuku/textcomplete
 - [mervick/emojionearea](https://github.com/mervick/emojionearea) - Emoji Picker Plugin for jQuery
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [shi-yang/jnoj](https://github.com/shi-yang/jnoj) - Jiangnan Online Judge
 - [zyr17/MajsoulPaipuAnalyzer](https://github.com/zyr17/MajsoulPaipuAnalyzer) - 雀魂牌谱分析工具
@@ -886,7 +888,6 @@
 - [jurplel/install-qt-action](https://github.com/jurplel/install-qt-action) - Install Qt on your Github Actions workflows with just one simple action
 - [jmerle/competitive-companion](https://github.com/jmerle/competitive-companion) - Browser extension which parses competitive programming problems
 - [Enter-tainer/luoguPaintAutomatonTS](https://github.com/Enter-tainer/luoguPaintAutomatonTS) - luogu冬日画板自动绘图脚本支持多用户，维护
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components.
