@@ -37,7 +37,7 @@ if __name__ == "__main__":
 query {{
     user(login: "{handle}") {{
         followers(first: 10{f', after: "{cursor}"' if cursor else ''}) {{
-            pageInfo{{
+            pageInfo {{
                 endCursor
                 hasNextPage
             }}
@@ -48,11 +48,25 @@ query {{
                 following {{
                     totalCount
                 }}
-                repositories(first: 3, isFork: false, orderBy: {{
-                    field: STARGAZERS,
-                    direction: DESC
-                }}) {{
-                    totalCount
+                repositories(
+                    first: 20,
+                    orderBy: {{
+                        field: STARGAZERS,
+                        direction: DESC,
+                    }},
+                ) {{
+                    nodes {{
+                        stargazerCount
+                    }}
+                }}
+                repositoriesContributedTo(
+                    first: 50,
+                    contributionTypes: [COMMIT],
+                    orderBy: {{
+                        field: STARGAZERS,
+                        direction: DESC,
+                    }},
+                ) {{
                     nodes {{
                         stargazerCount
                     }}
@@ -61,9 +75,7 @@ query {{
                     totalCount
                 }}
                 contributionsCollection {{
-                    contributionCalendar {{
-                        totalContributions
-                    }}
+                    hasAnyContributions
                 }}
             }}
         }}
@@ -74,20 +86,31 @@ query {{
         if not response.ok or "data" not in response.json():
             print(query)
             print(response.status_code)
+            print(response.headers)
             print(response.text)
             exit(1)
         res = response.json()["data"]["user"]["followers"]
         for follower in res["nodes"]:
             following = follower["following"]["totalCount"]
-            repoCount = follower["repositories"]["totalCount"]
             login = follower["login"]
             name = follower["name"]
             id = follower["databaseId"]
             followerNumber = follower["followers"]["totalCount"]
-            thirdStars = follower["repositories"]["nodes"][2]["stargazerCount"] if repoCount >= 3 else 0
-            contributionCount = follower["contributionsCollection"]["contributionCalendar"]["totalContributions"]
-            if following > thirdStars * 50 + repoCount * 5 + followerNumber or contributionCount < 5:
-                print(f"Skipped{'*' if followerNumber > 300 else ''}: https://github.com/{login} with {followerNumber} followers and {following} following")
+            active = follower["contributionsCollection"]["hasAnyContributions"]
+            if not active:
+                print(f"Skipped{'*' if followerNumber > 500 else ''} (inactive): https://github.com/{login} with {followerNumber} followers and {following} following")
+                continue
+            quota = followerNumber
+            for i, starCount in enumerate([repo["stargazerCount"] for repo in follower["repositories"]["nodes"]]):
+                if starCount <= i:
+                    break
+                quota += starCount * (i + 1)
+            for i, starCount in enumerate([repo["stargazerCount"] for repo in follower["repositoriesContributedTo"]["nodes"]]):
+                if starCount <= i:
+                    break
+                quota += i * 5
+            if following > quota:
+                print(f"Skipped{'*' if followerNumber > 500 else ''} (quota): https://github.com/{login} with {followerNumber} followers and {following} following")
                 continue
             followers.append((followerNumber, login, id, name if name else login))
             print(followers[-1])
