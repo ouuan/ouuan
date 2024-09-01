@@ -18,6 +18,7 @@ import requests
 import json
 import sys
 import re
+from time import sleep
 
 if __name__ == "__main__":
     assert(len(sys.argv) == 4)
@@ -118,6 +119,7 @@ query {{
         if not res["pageInfo"]["hasNextPage"]:
             break
         cursor = res["pageInfo"]["endCursor"]
+        sleep(1)
 
     followers.sort(reverse = True)
 
