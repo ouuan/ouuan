@@ -257,6 +257,7 @@
 
 ## JavaScript 
 
+- [OI-wiki/OI-Wiki-export](https://github.com/OI-wiki/OI-Wiki-export) - 将 OI-Wiki 导出为印刷质量的 pdf 的工具
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [yi-Xu-0100/repo-list-generator](https://github.com/yi-Xu-0100/repo-list-generator) - 📃 The GitHub action that generate repository list for user or organization.
