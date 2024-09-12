@@ -175,7 +175,7 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
         <img src="https://avatars2.githubusercontent.com/u/26019675" width="100px;" alt="SunsetMkt"/>
       </a>
       <br />
-      <a href="https://github.com/SunsetMkt">Sunset Mikoto</a>
+      <a href="https://github.com/SunsetMkt">Sunset</a>
     </td>
     <td align="center">
       <a href="https://github.com/Enter-tainer">
