@@ -500,6 +500,7 @@
 
 ## Others 
 
+- [bboysoulcn/registry-mirror](https://github.com/bboysoulcn/registry-mirror) - 方便地设置和启动各种镜像仓库代理
 - [Mosklia/gcc-hentai](https://github.com/Mosklia/gcc-hentai) - 让你的 GCC 变得更可爱！
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
 - [thu-cs-lab/MifConverter](https://github.com/thu-cs-lab/MifConverter) - Convert image / binary file to MIF format
