@@ -119,7 +119,7 @@ query {{
         if not res["pageInfo"]["hasNextPage"]:
             break
         cursor = res["pageInfo"]["endCursor"]
-        sleep(2)
+        sleep(5)
 
     followers.sort(reverse = True)
 
