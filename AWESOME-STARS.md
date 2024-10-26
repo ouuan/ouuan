@@ -411,7 +411,7 @@
 
 - [typicode/bg.nvim](https://github.com/typicode/bg.nvim) - Automatically sync your terminal background with your colorscheme 🎆
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - Highlight colors for neovim
-- [seanbreckenridge/gitsigns-yadm.nvim](https://github.com/seanbreckenridge/gitsigns-yadm.nvim) - gitsigns _on_attach_pre hook to show git decorations for files tracked by yadm
+- [purarue/gitsigns-yadm.nvim](https://github.com/purarue/gitsigns-yadm.nvim) - gitsigns _on_attach_pre hook to show git decorations for files tracked by yadm
 - [vladdoster/remember.nvim](https://github.com/vladdoster/remember.nvim) - A port of the Vim plugin vim-lastplace. It uses the same logic as vim-lastplace, but leverages the Neovim Lua API.
 - [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) - Low latency typst preview for Neovim
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
@@ -747,7 +747,7 @@
 - [saber-nyan/kernel-modules-hook](https://github.com/saber-nyan/kernel-modules-hook) - Keeps your Arch Linux fully functional after a kernel upgrade
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [peter-evans/link-checker](https://github.com/peter-evans/link-checker) - A GitHub action for link checking repository Markdown and HTML files
-- [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+- [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
@@ -912,7 +912,7 @@
 ## Vim Script 
 
 - [arp242/undofile_warn.vim](https://github.com/arp242/undofile_warn.vim) - Warn when using the undofile
-- [seanbreckenridge/yadm-git.vim](https://github.com/seanbreckenridge/yadm-git.vim) - Integrates yadm with vim-fugitive and vim-gitgutter, so you can manage your dotfiles without leaving vim
+- [purarue/yadm-git.vim](https://github.com/purarue/yadm-git.vim) - Integrates yadm with vim-fugitive and vim-gitgutter, so you can manage your dotfiles without leaving vim
 - [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [jxnblk/vim-mdx-js](https://github.com/jxnblk/vim-mdx-js) - 
