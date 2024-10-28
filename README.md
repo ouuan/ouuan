@@ -148,12 +148,21 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <a href="https://github.com/clansty">凌莞~(=^▽^=)</a>
     </td>
     <td align="center">
+      <a href="https://github.com/taoso">
+        <img src="https://avatars2.githubusercontent.com/u/2030591" width="100px;" alt="taoso"/>
+      </a>
+      <br />
+      <a href="https://github.com/taoso">taoso</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/lzwjava">
         <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
       </a>
       <br />
       <a href="https://github.com/lzwjava">Zhiwei Li</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/SunsetMkt">
         <img src="https://avatars2.githubusercontent.com/u/26019675" width="100px;" alt="SunsetMkt"/>
@@ -161,8 +170,6 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <br />
       <a href="https://github.com/SunsetMkt">Sunset</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Trumeet">
         <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
@@ -204,13 +211,6 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       </a>
       <br />
       <a href="https://github.com/gdut-yy">张逸扬</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/iBug">
-        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
-      </a>
-      <br />
-      <a href="https://github.com/iBug">iBug</a>
     </td>
   </tr>
 </table>
