@@ -911,6 +911,7 @@
 
 ## Vim Script 
 
+- [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
 - [arp242/undofile_warn.vim](https://github.com/arp242/undofile_warn.vim) - Warn when using the undofile
 - [purarue/yadm-git.vim](https://github.com/purarue/yadm-git.vim) - Integrates yadm with vim-fugitive and vim-gitgutter, so you can manage your dotfiles without leaving vim
 - [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
