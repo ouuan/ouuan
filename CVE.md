@@ -27,3 +27,4 @@
 -   [CVE-2024-37664](https://nvd.nist.gov/vuln/detail/CVE-2024-37664): Redmi router RB03 is vulnerable to TCP DoS or hijacking attacks
 -   [CVE-2024-38807](https://nvd.nist.gov/vuln/detail/CVE-2024-38807): Signature Forgery Vulnerability in Spring Boot's Loader
 -   [CVE-2024-7788](https://nvd.nist.gov/vuln/detail/CVE-2024-7788): Signature Forgery vulnerability in LibreOffice document repair mode
+-   [CVE-2024-50346](https://nvd.nist.gov/vuln/detail/CVE-2024-50346): WebFeed HTML injection vulnerabilities leading to CSRF and UI spoofing
