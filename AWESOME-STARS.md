@@ -409,6 +409,7 @@
 
 ## Lua 
 
+- [ouuan/nvim-bigfile](https://github.com/ouuan/nvim-bigfile) - Detect big files and disable features like LSP and TreeSitter to improve performance, with per-filetype size limit support.
 - [typicode/bg.nvim](https://github.com/typicode/bg.nvim) - Automatically sync your terminal background with your colorscheme 🎆
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - Highlight colors for neovim
 - [purarue/gitsigns-yadm.nvim](https://github.com/purarue/gitsigns-yadm.nvim) - gitsigns _on_attach_pre hook to show git decorations for files tracked by yadm
