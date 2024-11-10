@@ -206,11 +206,11 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <a href="https://github.com/so1ve">Ray</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gdut-yy">
-        <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
+      <a href="https://github.com/iBug">
+        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
       </a>
       <br />
-      <a href="https://github.com/gdut-yy">张逸扬</a>
+      <a href="https://github.com/iBug">iBug</a>
     </td>
   </tr>
 </table>
