@@ -1,5 +1,5 @@
 """
-   Copyright 2020-2022 Yufan You <https://github.com/ouuan>
+   Copyright 2020-2024 Yufan You <https://github.com/ouuan>
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -32,6 +32,7 @@ if __name__ == "__main__":
 
     followers = []
     cursor = None
+    retryCount = 0
 
     while True:
         query = f'''
@@ -85,11 +86,18 @@ query {{
 '''
         response = requests.post(f"https://api.github.com/graphql", json.dumps({ "query": query }), headers = headers)
         if not response.ok or "data" not in response.json():
+            if retryCount < 3 and "Retry-After" in response.headers:
+                wait = int(response.headers["Retry-After"])
+                print(f"Rate limit exceeded, retry after {wait} seconds")
+                sleep(wait)
+                retryCount += 1
+                continue
             print(query)
             print(response.status_code)
             print(response.headers)
             print(response.text)
             exit(1)
+        retryCount = 0
         res = response.json()["data"]["user"]["followers"]
         for follower in res["nodes"]:
             following = follower["following"]["totalCount"]
@@ -119,7 +127,6 @@ query {{
         if not res["pageInfo"]["hasNextPage"]:
             break
         cursor = res["pageInfo"]["endCursor"]
-        sleep(5)
 
     followers.sort(reverse = True)
 
