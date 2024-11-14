@@ -661,6 +661,7 @@
 
 ## Rust 
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [richard-uk1/vec_box](https://github.com/richard-uk1/vec_box) - A single macro to create a vec of boxed elements, for trait objects
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
