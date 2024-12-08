@@ -222,7 +222,7 @@
 - [martignoni/hugo-video](https://github.com/martignoni/hugo-video) - A Hugo theme component to embed videos using HTML video element
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-- [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
+- [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation
 - [cpeditor/cpeditor.github.io](https://github.com/cpeditor/cpeditor.github.io) - The official website of CP Editor :memo:
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [yihui/yihui.org](https://github.com/yihui/yihui.org) - Personal website and discussion board of Yihui Xie | 谢益辉
@@ -661,6 +661,7 @@
 
 ## Rust 
 
+- [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [richard-uk1/vec_box](https://github.com/richard-uk1/vec_box) - A single macro to create a vec of boxed elements, for trait objects
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
