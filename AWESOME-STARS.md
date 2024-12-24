@@ -562,6 +562,7 @@
 
 ## Python 
 
+- [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [GraySwanAI/nanoGCG](https://github.com/GraySwanAI/nanoGCG) - A fast + lightweight implementation of the GCG algorithm in PyTorch
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
