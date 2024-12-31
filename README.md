@@ -83,6 +83,13 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <a href="https://github.com/gaocegege">Ce Gao</a>
     </td>
     <td align="center">
+      <a href="https://github.com/zer0yu">
+        <img src="https://avatars2.githubusercontent.com/u/16551733" width="100px;" alt="zer0yu"/>
+      </a>
+      <br />
+      <a href="https://github.com/zer0yu">z3r0yu</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/guofei9987">
         <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
       </a>
@@ -103,6 +110,8 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <br />
       <a href="https://github.com/lowlighter">Simon Lecoq</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/losfair">
         <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
@@ -110,8 +119,6 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <br />
       <a href="https://github.com/losfair">Heyang Zhou</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Harry-Chen">
         <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
@@ -154,6 +161,8 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <br />
       <a href="https://github.com/clansty">凌莞~(=^▽^=)</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/taoso">
         <img src="https://avatars2.githubusercontent.com/u/2030591" width="100px;" alt="taoso"/>
@@ -161,8 +170,6 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <br />
       <a href="https://github.com/taoso">taoso</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lzwjava">
         <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
@@ -204,13 +211,6 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       </a>
       <br />
       <a href="https://github.com/so1ve">Ray</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/iBug">
-        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
-      </a>
-      <br />
-      <a href="https://github.com/iBug">iBug</a>
     </td>
   </tr>
 </table>
