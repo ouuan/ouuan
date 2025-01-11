@@ -86,7 +86,15 @@ query {{
     }}
 }}
 '''
-        response = requests.post(f"https://api.github.com/graphql", json.dumps({ "query": query }), headers = headers)
+        try:
+            response = requests.post(f"https://api.github.com/graphql", json.dumps({ "query": query }), headers = headers)
+        except Exception as e:
+            if retryCount >= 3:
+                raise e
+            print("Network error, retrying")
+            sleep(5)
+            retryCount += 1
+            continue
         if not response.ok or "data" not in response.json():
             if retryCount < 3 and "Retry-After" in response.headers:
                 wait = int(response.headers["Retry-After"])
