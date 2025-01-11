@@ -33,12 +33,14 @@ if __name__ == "__main__":
     followers = []
     cursor = None
     retryCount = 0
+    cwnd = 1
+    ssthresh = 20
 
     while True:
         query = f'''
 query {{
     user(login: "{handle}") {{
-        followers(first: 10{f', after: "{cursor}"' if cursor else ''}) {{
+        followers(first: {cwnd}{f', after: "{cursor}"' if cursor else ''}) {{
             pageInfo {{
                 endCursor
                 hasNextPage
@@ -92,12 +94,21 @@ query {{
                 sleep(wait)
                 retryCount += 1
                 continue
+            if cwnd > 1:
+                ssthresh = cwnd // 2
+                cwnd = 1
+                print(f"Error, entering slow start with {ssthresh = }")
+                continue
             print(query)
             print(response.status_code)
             print(response.headers)
             print(response.text)
             exit(1)
         retryCount = 0
+        if cwnd < ssthresh:
+            cwnd = min(ssthresh, cwnd * 2)
+        else:
+            cwnd += 1
         res = response.json()["data"]["user"]["followers"]
         for follower in res["nodes"]:
             following = follower["following"]["totalCount"]
