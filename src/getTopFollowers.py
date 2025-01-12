@@ -96,16 +96,17 @@ query {{
             retryCount += 1
             continue
         if not response.ok or "data" not in response.json():
-            if retryCount < 3 and "Retry-After" in response.headers:
-                wait = int(response.headers["Retry-After"])
-                print(f"Rate limit exceeded, retry after {wait} seconds")
-                sleep(wait)
+            if retryCount < 3:
                 retryCount += 1
-                continue
-            if cwnd > 1:
+                if "Retry-After" in response.headers:
+                    wait = int(response.headers["Retry-After"])
+                    print(f"Rate limit exceeded, retry after {wait} seconds")
+                    sleep(wait)
+                    continue
                 ssthresh = cwnd // 2
                 cwnd = 1
                 print(f"Error, entering slow start with {ssthresh = }")
+                sleep(5)
                 continue
             print(query)
             print(response.status_code)
