@@ -55,6 +55,9 @@ query {{
                 following {{
                     totalCount
                 }}
+                followers {{
+                    totalCount
+                }}
                 repositories(
                     first: 20,
                     orderBy: {{
@@ -78,11 +81,10 @@ query {{
                         stargazerCount
                     }}
                 }}
-                followers {{
-                    totalCount
-                }}
                 contributionsCollection {{
-                    hasAnyContributions
+                    contributionCalendar {{
+                        totalContributions
+                    }}
                 }}
             }}
         }}
@@ -128,7 +130,7 @@ query {{
             name = follower["name"]
             id = follower["databaseId"]
             followerNumber = follower["followers"]["totalCount"]
-            active = follower["contributionsCollection"]["hasAnyContributions"]
+            active = follower["contributionsCollection"]["contributionCalendar"]["totalContributions"] > 5
             if not active:
                 print(f"Skipped{'*' if followerNumber > 500 else ''} (inactive): https://github.com/{login} with {followerNumber} followers and {following} following")
                 continue
