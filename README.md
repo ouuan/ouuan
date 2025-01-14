@@ -185,13 +185,6 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <a href="https://github.com/Trumeet">Yuuta Liang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/WBGlIl">
-        <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
-      </a>
-      <br />
-      <a href="https://github.com/WBGlIl">WBGlIl</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Enter-tainer">
         <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
       </a>
@@ -211,6 +204,13 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       </a>
       <br />
       <a href="https://github.com/iBug">iBug</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/so1ve">
+        <img src="https://avatars2.githubusercontent.com/u/58381667" width="100px;" alt="so1ve"/>
+      </a>
+      <br />
+      <a href="https://github.com/so1ve">Ray</a>
     </td>
   </tr>
 </table>
