@@ -262,6 +262,7 @@
 
 ## JavaScript 
 
+- [zacharyreese/DualQRCode](https://github.com/zacharyreese/DualQRCode) - Two different URLs in one QR code
 - [MuiseDestiny/zotero-style](https://github.com/MuiseDestiny/zotero-style) - Ethereal Style for Zotero
 - [MuiseDestiny/zotero-reference](https://github.com/MuiseDestiny/zotero-reference) - PDF references add-on for Zotero.
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
