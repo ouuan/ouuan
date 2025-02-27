@@ -312,7 +312,6 @@
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [ds300/postinstall-postinstall](https://github.com/ds300/postinstall-postinstall) - 
 - [doesdev/rollup-plugin-analyzer](https://github.com/doesdev/rollup-plugin-analyzer) - Mad metrics for your rollup bundles, know all the things
-- [w8r/avl](https://github.com/w8r/avl) - :eyeglasses: Fast AVL tree for Node and browser
 - [07akioni/xicons](https://github.com/07akioni/xicons) - SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)
 - [DavidNHill/JSMinesweeper](https://github.com/DavidNHill/JSMinesweeper) - Minesweeper player, solver and analyser in javascript
 - [ouuan/botzone-local-runner](https://github.com/ouuan/botzone-local-runner) - 在本地运行 Botzone judger & bot
@@ -879,6 +878,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [pladaria/reconnecting-websocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js)
 - [dividab/ts-exhaustive-check](https://github.com/dividab/ts-exhaustive-check) - Exhaustive check for typescript type never
+- [w8r/avl](https://github.com/w8r/avl) - :eyeglasses: Fast AVL tree for Node and browser
 - [ibezkrovnyi/image-quantization](https://github.com/ibezkrovnyi/image-quantization) - Image Quantization Library with alpha support (based on https://github.com/leeoniya/RgbQuant.js, https://github.com/timoxley/neuquant and http://www.ece.mcmaster.ca/~xwu/cq.c)
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer (WIP)
