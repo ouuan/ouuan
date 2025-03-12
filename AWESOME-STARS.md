@@ -553,7 +553,7 @@
 ## PHP 
 
 - [banana-space/banana-space](https://github.com/banana-space/banana-space) - 
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [YLOJ/YLOJ](https://github.com/YLOJ/YLOJ) - Yali Online Judge
 - [joypixels/emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
 - [hanlin-studio/CFRatingColor](https://github.com/hanlin-studio/CFRatingColor) - 利用Shields.io，实现按颜色显示Codeforces的Rating
