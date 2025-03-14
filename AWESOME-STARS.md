@@ -564,6 +564,7 @@
 
 ## Python 
 
+- [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [emeryberger/CSrankings](https://github.com/emeryberger/CSrankings) - A web app for ranking computer science departments according to their research output in selective venues, and for finding active faculty across a wide range of areas.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [GraySwanAI/nanoGCG](https://github.com/GraySwanAI/nanoGCG) - A fast + lightweight implementation of the GCG algorithm in PyTorch
