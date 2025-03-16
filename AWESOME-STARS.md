@@ -214,7 +214,6 @@
 - [thu-cs-lab/Router-Lab-Docs](https://github.com/thu-cs-lab/Router-Lab-Docs) - Documentation for Router Lab
 - [Chiyuru/chiyuru.github.io](https://github.com/Chiyuru/chiyuru.github.io) - Personal website
 - [ayuusweetfish/caisse](https://github.com/ayuusweetfish/caisse) - Personal website/memex
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
 - [CSSInDepth/css-in-depth](https://github.com/CSSInDepth/css-in-depth) - Code examples from CSS In Depth
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
@@ -273,6 +272,7 @@
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [papandreou/fontverter](https://github.com/papandreou/fontverter) - Convert font buffers between TTF/WOFF/WOFF2
 - [papandreou/subset-font](https://github.com/papandreou/subset-font) - Create a subset of a TrueType/OpenType/WOFF/WOFF2 font using the wasm build of harfbuzz/hb-subset
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - JavaScript library to generate a human readable String describing the file size
 - [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 - [brummelte/sleep-promise](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
