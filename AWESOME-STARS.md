@@ -44,6 +44,7 @@
 - [Stylus](#stylus)
 - [Svelte](#svelte)
 - [TeX](#tex)
+- [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [Verilog](#verilog)
@@ -669,6 +670,7 @@
 
 ## Rust 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [algesten/ureq](https://github.com/algesten/ureq) - A simple, safe HTTP client
 - [bluss/arrayvec](https://github.com/bluss/arrayvec) - A vector with a fixed capacity. (Rust)
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
@@ -744,7 +746,6 @@
 ## Scheme 
 
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
-- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## Shell 
 
@@ -787,6 +788,10 @@
 - [thu-cs-lab/tanlabs](https://github.com/thu-cs-lab/tanlabs) - Tsinghua Advanced Networking Labs on FPGA
 - [josephwright/siunitx](https://github.com/josephwright/siunitx) - A comprehensive (SI) units package for LaTeX
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
+
+## Tree-sitter Query 
+
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## TypeScript 
 
