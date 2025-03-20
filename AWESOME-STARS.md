@@ -670,6 +670,7 @@
 
 ## Rust 
 
+- [wdanilo/borrow](https://github.com/wdanilo/borrow) - 
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [algesten/ureq](https://github.com/algesten/ureq) - A simple, safe HTTP client
 - [bluss/arrayvec](https://github.com/bluss/arrayvec) - A vector with a fixed capacity. (Rust)
