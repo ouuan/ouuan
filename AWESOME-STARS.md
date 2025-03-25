@@ -670,6 +670,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [wdanilo/borrow](https://github.com/wdanilo/borrow) - 
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [algesten/ureq](https://github.com/algesten/ureq) - A simple, safe HTTP client
@@ -997,7 +998,7 @@
 - [vuejs/docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) - :cn: Chinese translation for v3.vuejs.org
 - [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
 - [advanced-cropper/vue-advanced-cropper](https://github.com/advanced-cropper/vue-advanced-cropper) - The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design
-- [xiaokaike/vue-color](https://github.com/xiaokaike/vue-color) - :art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh
+- [linx4200/vue-color](https://github.com/linx4200/vue-color) - A modern collection of Vue 3 color pickers – fast, accessible, and easy to use. 👉 https://linx4200.github.io/vue-color/
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [EtherOJ/EtherOJ](https://github.com/EtherOJ/EtherOJ) - A GitHub-Based Open Source and free Online Judge.
 - [dd-center/vtbs.moe](https://github.com/dd-center/vtbs.moe) - Virtual YouTubers in bilibili
