@@ -411,6 +411,10 @@
 
 ## Lua 
 
+- [Kaiser-Yang/blink-cmp-dictionary](https://github.com/Kaiser-Yang/blink-cmp-dictionary) - Dictionary source for blink.cmp
+- [fang2hou/blink-copilot](https://github.com/fang2hou/blink-copilot) - ⚙️ Configurable GitHub Copilot blink.cmp source for Neovim
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
+- [ZWindL/orphans.nvim](https://github.com/ZWindL/orphans.nvim) - Track neglected plugins and rediscover the overlooked in your Neovim setup.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [nvzone/typr](https://github.com/nvzone/typr) - Most Beautiful Typing practice plugin for Neovim with dashboard
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
@@ -943,6 +947,7 @@
 
 ## Vim Script 
 
+- [petRUShka/vim-sage](https://github.com/petRUShka/vim-sage) - Vim plugin for SageMath (Sage) mathematics software system
 - [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
 - [arp242/undofile_warn.vim](https://github.com/arp242/undofile_warn.vim) - Warn when using the undofile
 - [purarue/yadm-git.vim](https://github.com/purarue/yadm-git.vim) - Integrates yadm with vim-fugitive and vim-gitgutter, so you can manage your dotfiles without leaving vim
