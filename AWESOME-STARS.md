@@ -61,6 +61,7 @@
 
 ## C 
 
+- [pwmt/zathura](https://github.com/pwmt/zathura) - Document viewer
 - [tp-ctf/TPCTF2025](https://github.com/tp-ctf/TPCTF2025) - official repository of TPCTF2025 (some challenges are still in progress)
 - [wavexx/xss-lock](https://github.com/wavexx/xss-lock) - xss-lock fork from https://bitbucket.org/raymonad/xss-lock
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
