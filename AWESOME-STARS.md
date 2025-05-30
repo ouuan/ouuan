@@ -685,6 +685,7 @@
 
 ## Rust 
 
+- [oxidecomputer/iddqd](https://github.com/oxidecomputer/iddqd) - Maps where keys are borrowed from values.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [wdanilo/borrow](https://github.com/wdanilo/borrow) - 
