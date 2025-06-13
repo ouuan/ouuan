@@ -950,6 +950,7 @@
 
 ## Typst 
 
+- [typst-doc-cn/clreq](https://github.com/typst-doc-cn/clreq) - A guide for Typst following clreq
 - [lynn/typst-syntree](https://github.com/lynn/typst-syntree) - Syntax trees for typst
 - [Enter-tainer/typst-preview](https://github.com/Enter-tainer/typst-preview) - [DEPRECATED] Use tinymist instead
 
