@@ -530,7 +530,6 @@
 - [ouuan/luogu-motaki](https://github.com/ouuan/luogu-motaki) - 服务端-客户端架构的洛谷冬日绘板工具
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
 - [tuna/collection](https://github.com/tuna/collection) - idea collections from TUNA
-- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [phyphox/phyphox-experiments](https://github.com/phyphox/phyphox-experiments) - Physical Phone Experiments (in-app experiment collection)
 - [brechtsanders/winlibs_mingw](https://github.com/brechtsanders/winlibs_mingw) - winlibs standalone build of GCC compiler and MinGW-w64
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
@@ -775,6 +774,7 @@
 - [nachoparker/btrfs-du](https://github.com/nachoparker/btrfs-du) - Easily print BTRFS subvolume/snapshot disk usage
 - [KSXGitHub/github-actions-deploy-aur](https://github.com/KSXGitHub/github-actions-deploy-aur) - GitHub Actions to publish AUR package
 - [lideming/kernel-modules-hook-reflink](https://github.com/lideming/kernel-modules-hook-reflink) - 
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [ouuan/pkgbuild-action](https://github.com/ouuan/pkgbuild-action) - Make the package in a minimal environment and generate `.SRCINFO`.
 - [ouuan/AUR-template](https://github.com/ouuan/AUR-template) - Manage AUR packages in a GitHub repository, with CI tests and auto-publish :rocket:
 - [wjdp/htmltest-action](https://github.com/wjdp/htmltest-action) - :white_check_mark::octocat: Run htmltest as part of your GitHub Actions workflow
