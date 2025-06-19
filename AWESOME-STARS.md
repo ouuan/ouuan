@@ -521,6 +521,7 @@
 
 ## Others 
 
+- [prncoprs/best-papers-in-computer-security](https://github.com/prncoprs/best-papers-in-computer-security) - This repo collects the best papers from top 4 computer security conferences, including IEEE S&P, ACM CCS, USENIX Security, and NDSS.
 - [bboysoulcn/registry-mirror](https://github.com/bboysoulcn/registry-mirror) - 方便地设置和启动各种镜像仓库代理
 - [Mosklia/gcc-hentai](https://github.com/Mosklia/gcc-hentai) - 让你的 GCC 变得更可爱！
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
