@@ -765,6 +765,7 @@
 
 ## Shell 
 
+- [joshskidmore/zsh-fzf-history-search](https://github.com/joshskidmore/zsh-fzf-history-search) - A simple zsh plugin that replaces Ctrl+R with an fzf-driven select which includes date/times.
 - [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker -- learn from it, adapt it for your needs; don't expect it to work as-is!
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
 - [hrsh7th/vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted) - vscode-langservers bin collection.
@@ -951,7 +952,7 @@
 
 ## Typst 
 
-- [typst-doc-cn/clreq](https://github.com/typst-doc-cn/clreq) - A guide for Typst following clreq
+- [typst-doc-cn/clreq](https://github.com/typst-doc-cn/clreq) - clreq-gap (Chinese layout gap analysis) for typst. 分析 Typst 与中文排版的差距。
 - [lynn/typst-syntree](https://github.com/lynn/typst-syntree) - Syntax trees for typst
 - [Enter-tainer/typst-preview](https://github.com/Enter-tainer/typst-preview) - [DEPRECATED] Use tinymist instead
 
