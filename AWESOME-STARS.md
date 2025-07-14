@@ -633,7 +633,7 @@
 - [zachMelody/bilibili-live-recorder](https://github.com/zachMelody/bilibili-live-recorder) - 下载 bilibili 直播 视频流
 - [online-judge-tools/oj](https://github.com/online-judge-tools/oj) - Tools for various online judges. Downloading sample cases, generating additional test cases, testing your code, and submitting it.
 - [eee555/Metasweeper](https://github.com/eee555/Metasweeper) - 元扫雷v3.2.0 —— 包含8种模式的专业扫雷版本、第三代扫雷录像播放器及高性能算法工具箱
-- [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github, Gitee和GitLab之间同步代码。Action for mirroring repos between Hubs (like Github, Gitee and GitLab).
+- [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github, Gitee, GitLab和GitCode之间同步代码。Action for mirroring repos between Hubs (like Github, Gitee, GitLab and GitCode).
 - [cms-dev/cms](https://github.com/cms-dev/cms) - Contest Management System
 - [Elteoremadebeethoven/AnimationsWithManim](https://github.com/Elteoremadebeethoven/AnimationsWithManim) - Animation course with Manim
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
