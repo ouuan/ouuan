@@ -27,7 +27,7 @@ Wish you a good-looking profile README!
 
 -->
 
-My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I'm a senior undergraduate and incoming graduate student at Tsinghua University in China.
+My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I'm a first-year master's student at Tsinghua University in China.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
@@ -36,7 +36,7 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
 
 -   :pencil2: Rust / C++ / TypeScript / Vue / Python / SystemVerilog
 -   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :seedling: Doing Web security research with @chenjj
+-   :microscope: Cyber security research with @chenjj
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new/choose)!
 -   :mag: [CVEs discovered by me](CVE.md)
 -   :star: [Projects starred by me](AWESOME-STARS.md)
