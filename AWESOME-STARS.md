@@ -686,6 +686,8 @@
 
 ## Rust 
 
+- [secure-foundations/owl](https://github.com/secure-foundations/owl) - Compositional Verification of Security Protocols
+- [secure-foundations/vest](https://github.com/secure-foundations/vest) - High-assurance and performant Rust-based parsing and serialization of binary data formats verified in Verus
 - [oxidecomputer/iddqd](https://github.com/oxidecomputer/iddqd) - Maps where keys are borrowed from values.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
