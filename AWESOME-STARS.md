@@ -686,6 +686,7 @@
 
 ## Rust 
 
+- [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions
 - [secure-foundations/owl](https://github.com/secure-foundations/owl) - Compositional Verification of Security Protocols
 - [secure-foundations/vest](https://github.com/secure-foundations/vest) - High-assurance and performant Rust-based parsing and serialization of binary data formats verified in Verus
 - [oxidecomputer/iddqd](https://github.com/oxidecomputer/iddqd) - Maps where keys are borrowed from values.
@@ -1014,6 +1015,7 @@
 
 ## Vue 
 
+- [ouuan/homepage](https://github.com/ouuan/homepage) - My academic homepage
 - [eslint/config-inspector](https://github.com/eslint/config-inspector) - A visual tool for inspecting and understanding your ESLint flat configs.
 - [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
 - [yeswehack/Dom-Explorer](https://github.com/yeswehack/Dom-Explorer) - 
