@@ -687,6 +687,7 @@
 
 ## Rust 
 
+- [regexident/cargo-modules](https://github.com/regexident/cargo-modules) - Visualize/analyze a Rust crate's internal structure
 - [vercel-community/rust](https://github.com/vercel-community/rust) - 🦀 Rust runtime for ▲ Vercel Serverless Functions
 - [secure-foundations/owl](https://github.com/secure-foundations/owl) - Compositional Verification of Security Protocols
 - [secure-foundations/vest](https://github.com/secure-foundations/vest) - High-assurance and performant Rust-based parsing and serialization of binary data formats verified in Verus
@@ -704,6 +705,7 @@
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [richard-uk1/vec_box](https://github.com/richard-uk1/vec_box) - A single macro to create a vec of boxed elements, for trait objects
+- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [typst/subsetter](https://github.com/typst/subsetter) - Reduces the size and coverage of OpenType fonts.
@@ -1019,7 +1021,6 @@
 - [eslint/config-inspector](https://github.com/eslint/config-inspector) - A visual tool for inspecting and understanding your ESLint flat configs.
 - [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
 - [yeswehack/Dom-Explorer](https://github.com/yeswehack/Dom-Explorer) - 
-- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Collaboratively track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [agateblue/tempo](https://github.com/agateblue/tempo) - Your personal diary and mood tracker
 - [ouuan/codle](https://github.com/ouuan/codle) - 💻 Guess code like Wordle with AST nodes as letters 🌳
