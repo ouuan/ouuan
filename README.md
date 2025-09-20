@@ -134,18 +134,18 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <a href="https://github.com/Konano">Nano</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mashirozx">
-        <img src="https://avatars2.githubusercontent.com/u/16148054" width="100px;" alt="mashirozx"/>
-      </a>
-      <br />
-      <a href="https://github.com/mashirozx">Mashiro</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/SunsetMkt">
         <img src="https://avatars2.githubusercontent.com/u/26019675" width="100px;" alt="SunsetMkt"/>
       </a>
       <br />
       <a href="https://github.com/SunsetMkt">Sunset Mikoto</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mashirozx">
+        <img src="https://avatars2.githubusercontent.com/u/16148054" width="100px;" alt="mashirozx"/>
+      </a>
+      <br />
+      <a href="https://github.com/mashirozx">Mashiro</a>
     </td>
     <td align="center">
       <a href="https://github.com/Ir1d">
