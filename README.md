@@ -47,11 +47,11 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
 ### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
 
 <!--START_SECTION:blog-posts-->
+-   2025-10-26 [GeekGame 2025 出题人题解：统一身份认证、勒索病毒](https://ouuan.moe/post/2025/10/geekgame-2025-graphauth-ransomware?utm_source=GitHubProfile)
 -   2025-05-10 [DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank?utm_source=GitHubProfile)
 -   2025-03-20 [修复 XeTeX 更新导致编译错误](https://ouuan.moe/post/2025/03/fix-xetex-update?utm_source=GitHubProfile)
 -   2025-03-11 [TPCTF 2025 Official Write-Up (6 challenges)](https://ouuan.moe/post/2025/03/tpctf-2025?utm_source=GitHubProfile)
 -   2025-03-04 [SECCON CTF 13 Finals 游记](https://ouuan.moe/post/2025/02/seccon-13-finals?utm_source=GitHubProfile)
--   2024-12-29 [ASIS CTF Finals 2024 Write-Up](https://ouuan.moe/post/2024/12/asis-ctf-finals-2024?utm_source=GitHubProfile)
 <!--END_SECTION:blog-posts-->
 
 ---
