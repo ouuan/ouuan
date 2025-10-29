@@ -422,7 +422,7 @@
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
 - [Kaiser-Yang/blink-cmp-dictionary](https://github.com/Kaiser-Yang/blink-cmp-dictionary) - Dictionary source for blink.cmp
 - [fang2hou/blink-copilot](https://github.com/fang2hou/blink-copilot) - ⚙️ Configurable GitHub Copilot blink.cmp source for Neovim
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
+- [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [ZWindL/orphans.nvim](https://github.com/ZWindL/orphans.nvim) - Track neglected plugins and rediscover the overlooked in your Neovim setup.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [nvzone/typr](https://github.com/nvzone/typr) - Most Beautiful Typing practice plugin for Neovim with dashboard
