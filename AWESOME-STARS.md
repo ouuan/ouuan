@@ -962,7 +962,7 @@
 
 ## Typst 
 
-- [typst-doc-cn/clreq](https://github.com/typst-doc-cn/clreq) - clreq-gap (Chinese layout gap analysis) for typst. 分析 Typst 与中文排版的差距。
+- [typst-doc-cn/clreq](https://github.com/typst-doc-cn/clreq) - clreq-gap (Chinese layout gap analysis) for typst. 分析 Typst 与中文排版的差距。https://gap.zhtyp.art
 - [lynn/typst-syntree](https://github.com/lynn/typst-syntree) - Syntax trees for typst
 - [Enter-tainer/typst-preview](https://github.com/Enter-tainer/typst-preview) - [DEPRECATED] Use tinymist instead
 
