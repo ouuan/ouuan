@@ -771,7 +771,7 @@
 ## Shell 
 
 - [felixonmars/vps2arch](https://github.com/felixonmars/vps2arch) - The fastest way to convert a VPS to Arch Linux! (forked from gitlab:drizzt/vps2arch)
-- [mkantor/docker-pushmi-pullyu](https://github.com/mkantor/docker-pushmi-pullyu) - Copy Docker images directly to a remote host without using Docker Hub or a hosted registry.
+- [mkantor/docker-pushmi-pullyu](https://github.com/mkantor/docker-pushmi-pullyu) - Copy Docker images directly to a remote host without using Docker Hub or a hosted registry
 - [joshskidmore/zsh-fzf-history-search](https://github.com/joshskidmore/zsh-fzf-history-search) - A simple zsh plugin that replaces Ctrl+R with an fzf-driven select which includes date/times.
 - [tianon/docker-postgres-upgrade](https://github.com/tianon/docker-postgres-upgrade) - a PoC for using "pg_upgrade" inside Docker -- learn from it, adapt it for your needs; don't expect it to work as-is!
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
