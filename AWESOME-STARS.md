@@ -279,7 +279,6 @@
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [papandreou/fontverter](https://github.com/papandreou/fontverter) - Convert font buffers between TTF/WOFF/WOFF2
 - [papandreou/subset-font](https://github.com/papandreou/subset-font) - Create a subset of a TrueType/OpenType/WOFF/WOFF2 font using the wasm build of harfbuzz/hb-subset
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - JavaScript library to generate a human readable String describing the file size
 - [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 - [brummelte/sleep-promise](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
@@ -507,7 +506,7 @@
 ## MDX 
 
 - [ouuan/iles-blog](https://github.com/ouuan/iles-blog) - ouuan's blog
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
 ## Makefile 
 
@@ -880,6 +879,7 @@
 - [neet/masto.js](https://github.com/neet/masto.js) - 🐘 Universal Mastodon API client for JavaScript
 - [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error) - Wrap zod validation errors in user-friendly readable messages
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [omrilotan/isbot](https://github.com/omrilotan/isbot) - 🤖/👨‍🦰 Detect bots/crawlers/spiders using the user agent string
 - [xna00/unocss-language-server](https://github.com/xna00/unocss-language-server) - 
 - [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
