@@ -567,6 +567,7 @@
 
 ## PHP 
 
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [kohler/hotcrp](https://github.com/kohler/hotcrp) - HotCRP conference review software
 - [banana-space/banana-space](https://github.com/banana-space/banana-space) - 
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
