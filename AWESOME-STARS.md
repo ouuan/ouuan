@@ -770,7 +770,6 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
-- [THMonster/Revda](https://github.com/THMonster/Revda) - Tools to play live stream with danmaku.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -1043,6 +1042,7 @@
 - [MegEngine/MegSpot](https://github.com/MegEngine/MegSpot) - MegSpot是一款高效、专业、跨平台的图片&视频对比应用
 - [vuejs/docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn) - :cn: Chinese translation for v3.vuejs.org
 - [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
+- [THMonster/Revda](https://github.com/THMonster/Revda) - Tools to play live stream with danmaku.
 - [advanced-cropper/vue-advanced-cropper](https://github.com/advanced-cropper/vue-advanced-cropper) - The advanced vue cropper library that gives you opportunity to create your own croppers suited for any website design
 - [zzetao/awesome-github-profile](https://github.com/zzetao/awesome-github-profile) - 🌐  A website of awesome Github Profile READMEs
 - [EtherOJ/EtherOJ](https://github.com/EtherOJ/EtherOJ) - A GitHub-Based Open Source and free Online Judge.
