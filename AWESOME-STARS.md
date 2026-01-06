@@ -682,6 +682,7 @@
 
 ## Rust 
 
+- [balliegojr/simple-dns](https://github.com/balliegojr/simple-dns) - Simple DNS written in Rust
 - [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [jonasbb/serde_with](https://github.com/jonasbb/serde_with) - This crate provides custom de/serialization helpers to use in combination with serde's `with`-annotation and with the improved `serde_as`-annotation.
