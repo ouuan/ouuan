@@ -49,6 +49,7 @@
 - [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [YAML](#yaml)
 - [sed](#sed)
 
 ## Assembly 
@@ -213,7 +214,6 @@
 
 - [SonarSource/mxss-cheatsheet](https://github.com/SonarSource/mxss-cheatsheet) - This repository is a one-stop shop for diving deep into the fascinating world of mXSS (mutations caused by browser quirks in HTML parsing). providing a curated list of examples that showcase unexpecte
 - [sec-deadlines/sec-deadlines.github.io](https://github.com/sec-deadlines/sec-deadlines.github.io) - Deadline countdowns for academic conferences in Security and Privacy
-- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [thu-cs-lab/Router-Lab-Docs](https://github.com/thu-cs-lab/Router-Lab-Docs) - Documentation for Router Lab
 - [Chiyuru/chiyuru.github.io](https://github.com/Chiyuru/chiyuru.github.io) - Personal website
 - [ayuusweetfish/caisse](https://github.com/ayuusweetfish/caisse) - Personal website/memex
@@ -275,7 +275,6 @@
 - [OI-wiki/OI-Wiki-export](https://github.com/OI-wiki/OI-Wiki-export) - 将 OI-Wiki 导出为印刷质量的 pdf 的工具
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [yi-Xu-0100/repo-list-generator](https://github.com/yi-Xu-0100/repo-list-generator) - 📃 The GitHub action that generate repository list for user or organization.
-- [adrgs/requestrepo](https://github.com/adrgs/requestrepo) - Analyze HTTP and DNS requests and create custom DNS records for your subdomain
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [papandreou/fontverter](https://github.com/papandreou/fontverter) - Convert font buffers between TTF/WOFF/WOFF2
 - [papandreou/subset-font](https://github.com/papandreou/subset-font) - Create a subset of a TrueType/OpenType/WOFF/WOFF2 font using the wasm build of harfbuzz/hb-subset
@@ -540,7 +539,7 @@
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [diauweb/diauweb](https://github.com/diauweb/diauweb) - 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [k4yt3x/flowerhd](https://github.com/k4yt3x/flowerhd) - 花！是一个高清重制机上些许衍生创作的表情包
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
@@ -738,6 +737,7 @@
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums
+- [adrgs/requestrepo](https://github.com/adrgs/requestrepo) - Analyze HTTP, DNS and SMTP requests and create custom responses and DNS records for your subdomain
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [vivekmalneedi/veridian](https://github.com/vivekmalneedi/veridian) - A SystemVerilog Language Server
 - [Xuanwo/backon](https://github.com/Xuanwo/backon) - Make retry like a built-in feature provided by Rust.
@@ -1051,6 +1051,10 @@
 - [dd-center/vtbs.moe](https://github.com/dd-center/vtbs.moe) - Virtual YouTubers in bilibili
 - [pnowy/github-stars-history](https://github.com/pnowy/github-stars-history) - The missing github stars history!
 - [guoj-dev/GuOJFrontend](https://github.com/guoj-dev/GuOJFrontend) - Frontend Project For GuOJ
+
+## YAML 
+
+- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
 
 ## sed 
 
