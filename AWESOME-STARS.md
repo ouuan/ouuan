@@ -35,7 +35,6 @@
 - [PureScript](#purescript)
 - [Python](#python)
 - [QML](#qml)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -166,6 +165,7 @@
 
 ## Dockerfile 
 
+- [satanTime/puppeteer-node](https://github.com/satanTime/puppeteer-node) - Preinstalled dependencies for puppeteer
 - [crazy-max/ghaction-chocolatey](https://github.com/crazy-max/ghaction-chocolatey) - GitHub Action for Chocolatey, the package manager for Windows
 
 ## EJS 
@@ -668,10 +668,6 @@
 ## QML 
 
 - [WuSiYu/PlasmaVideoWallpaper](https://github.com/WuSiYu/PlasmaVideoWallpaper) - A KDE Plasma 5 wallpaper plugin which can let you using a video as the wallpaper
-
-## Roff 
-
-- [satanTime/puppeteer-node](https://github.com/satanTime/puppeteer-node) - Preinstalled dependencies for puppeteer
 
 ## Ruby 
 
