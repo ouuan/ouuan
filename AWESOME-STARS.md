@@ -40,7 +40,6 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Stylus](#stylus)
-- [Svelte](#svelte)
 - [TeX](#tex)
 - [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
@@ -216,6 +215,7 @@
 - [thu-cs-lab/Router-Lab-Docs](https://github.com/thu-cs-lab/Router-Lab-Docs) - Documentation for Router Lab
 - [Chiyuru/chiyuru.github.io](https://github.com/Chiyuru/chiyuru.github.io) - Personal website
 - [ayuusweetfish/caisse](https://github.com/ayuusweetfish/caisse) - Personal website/memex
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
 - [CSSInDepth/css-in-depth](https://github.com/CSSInDepth/css-in-depth) - Code examples from CSS In Depth
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
@@ -501,7 +501,6 @@
 
 ## MDX 
 
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [ouuan/iles-blog](https://github.com/ouuan/iles-blog) - ouuan's blog
 - [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
@@ -584,6 +583,7 @@
 - [emeryberger/CSrankings](https://github.com/emeryberger/CSrankings) - A web app for ranking computer science departments according to their research output in selective venues, and for finding active faculty across a wide range of areas.
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [GraySwanAI/nanoGCG](https://github.com/GraySwanAI/nanoGCG) - A fast + lightweight implementation of the GCG algorithm in PyTorch
+- [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) - 
@@ -812,10 +812,6 @@
 ## Stylus 
 
 - [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
-
-## Svelte 
-
-- [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
 
 ## TeX 
 
