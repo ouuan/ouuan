@@ -28,3 +28,7 @@
 -   [CVE-2024-38807](https://nvd.nist.gov/vuln/detail/CVE-2024-38807): Signature Forgery Vulnerability in Spring Boot's Loader
 -   [CVE-2024-7788](https://nvd.nist.gov/vuln/detail/CVE-2024-7788): Signature Forgery vulnerability in LibreOffice document repair mode
 -   [CVE-2024-50346](https://nvd.nist.gov/vuln/detail/CVE-2024-50346): WebFeed HTML injection vulnerabilities leading to CSRF and UI spoofing
+
+## 2026
+
+-   [CVE-2026-0398](https://nvd.nist.gov/vuln/detail/CVE-2026-0398): Crafted zones can lead to large memory usage in PowerDNS Recursor
