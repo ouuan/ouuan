@@ -211,6 +211,7 @@
 
 ## HTML 
 
+- [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [sec-deadlines/sec-deadlines.github.io](https://github.com/sec-deadlines/sec-deadlines.github.io) - Deadline countdowns for academic conferences in Security and Privacy
 - [thu-cs-lab/Router-Lab-Docs](https://github.com/thu-cs-lab/Router-Lab-Docs) - Documentation for Router Lab
 - [Chiyuru/chiyuru.github.io](https://github.com/Chiyuru/chiyuru.github.io) - Personal website
