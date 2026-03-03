@@ -312,7 +312,6 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [thuservices/thuservices](https://github.com/thuservices/thuservices) - https://thu.services
 - [johnsoncodehk/vue-tsc](https://github.com/johnsoncodehk/vue-tsc) - vue-tsc --noEmit && vite build
-- [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [ds300/postinstall-postinstall](https://github.com/ds300/postinstall-postinstall) - 
@@ -916,6 +915,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 - [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) - ESLint configuration for Vue 3 + TypeScript projects
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [ouuan/truth-table-generator](https://github.com/ouuan/truth-table-generator) - 它现在不仅有真值表，还有主范式、最简范式、王浩算法、手动等值演算 | 离散数学 Open Project
