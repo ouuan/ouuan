@@ -681,6 +681,7 @@
 
 ## Rust 
 
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [wangrunji0408/iJiegeOS](https://github.com/wangrunji0408/iJiegeOS) - A Rust OS kernel autonomously implemented by Claude Code Sonnet 4.6.
 - [balliegojr/simple-dns](https://github.com/balliegojr/simple-dns) - Simple DNS written in Rust
 - [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
