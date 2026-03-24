@@ -1031,6 +1031,7 @@
 
 ## Vue 
 
+- [ouuan/ikizuxiv](https://github.com/ouuan/ikizuxiv) - 💙 IKIZULIVE! LOVELIVE! BLUEBIRD いきづらい部！人生不易部！🧡 X 推文存档网站，包含原文、中文翻译、AI 配音
 - [ouuan/homepage](https://github.com/ouuan/homepage) - My academic homepage
 - [eslint/config-inspector](https://github.com/eslint/config-inspector) - A visual tool for inspecting and understanding your ESLint flat configs.
 - [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
