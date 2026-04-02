@@ -682,7 +682,7 @@
 ## Rust 
 
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
-- [wangrunji0408/iJiegeOS](https://github.com/wangrunji0408/iJiegeOS) - A Rust OS kernel autonomously implemented by Claude Code Sonnet 4.6.
+- [wangrunji0408/iJiegeOS](https://github.com/wangrunji0408/iJiegeOS) - A Rust OS kernel autonomously implemented by Claude Code Opus/Sonnet 4.6.
 - [balliegojr/simple-dns](https://github.com/balliegojr/simple-dns) - Simple DNS written in Rust
 - [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -717,7 +717,7 @@
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [richard-uk1/vec_box](https://github.com/richard-uk1/vec_box) - A single macro to create a vec of boxed elements, for trait objects
-- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
+- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [typst/subsetter](https://github.com/typst/subsetter) - Reduces the size and coverage of OpenType fonts.
@@ -831,6 +831,7 @@
 
 ## TypeScript 
 
+- [AlanWanco/PomChat](https://github.com/AlanWanco/PomChat) - 通过本地音频 + ASS字幕实现即时通讯聊天渲染并导出视频的桌面工具
 - [SomiaWhiteRing/my9](https://github.com/SomiaWhiteRing/my9) - 构成我的9部作品
 - [prinsss/twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
