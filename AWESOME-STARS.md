@@ -331,7 +331,6 @@
 - [piroor/tst-more-tree-commands](https://github.com/piroor/tst-more-tree-commands) - Provides extra tree manipulation commands for Tree Style Tab.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [enyancc/vscode-ext-color-highlight](https://github.com/enyancc/vscode-ext-color-highlight) - Extension adds colored border around css/web colors in the editor
-- [ouuan/my-vscode-extensions](https://github.com/ouuan/my-vscode-extensions) - List your installed VS Code extensions in a Markdown file :sunglasses:
 - [kuresaru/geetest-validator](https://github.com/kuresaru/geetest-validator) - 极验验证器 调试工具 测试用
 - [vitalets/websocket-as-promised](https://github.com/vitalets/websocket-as-promised) - A Promise-based API for WebSockets
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
