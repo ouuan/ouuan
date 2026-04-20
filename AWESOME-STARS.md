@@ -278,7 +278,7 @@
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [papandreou/fontverter](https://github.com/papandreou/fontverter) - Convert font buffers between TTF/WOFF/WOFF2
 - [papandreou/subset-font](https://github.com/papandreou/subset-font) - Create a subset of a TrueType/OpenType/WOFF/WOFF2 font using the wasm build of harfbuzz/hb-subset
-- [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - JavaScript library to generate a human readable String describing the file size
+- [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - A lightweight, high-performance file size utility that converts bytes to human-readable strings. Zero dependencies. 100% test coverage.
 - [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 - [brummelte/sleep-promise](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
 - [haiwen/seahub](https://github.com/haiwen/seahub) - The web end of seafile server.
@@ -785,6 +785,7 @@
 
 ## Shell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [felixonmars/vps2arch](https://github.com/felixonmars/vps2arch) - The fastest way to convert a VPS to Arch Linux! (forked from gitlab:drizzt/vps2arch)
 - [mkantor/docker-pushmi-pullyu](https://github.com/mkantor/docker-pushmi-pullyu) - Copy Docker images directly to a remote host without using Docker Hub or a hosted registry
 - [joshskidmore/zsh-fzf-history-search](https://github.com/joshskidmore/zsh-fzf-history-search) - A simple zsh plugin that replaces Ctrl+R with an fzf-driven select which includes date/times.
