@@ -185,18 +185,18 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <a href="https://github.com/Trumeet">Yuuta Liang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Enter-tainer">
-        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
-      </a>
-      <br />
-      <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/zhuozhiyongde">
         <img src="https://avatars2.githubusercontent.com/u/36695271" width="100px;" alt="zhuozhiyongde"/>
       </a>
       <br />
       <a href="https://github.com/zhuozhiyongde">Arthals</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Enter-tainer">
+        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
+      </a>
+      <br />
+      <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
     </td>
     <td align="center">
       <a href="https://github.com/zTrix">
