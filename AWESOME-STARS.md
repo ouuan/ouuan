@@ -122,7 +122,7 @@
 - [ouuan/uoj-data-converter](https://github.com/ouuan/uoj-data-converter) - 将各种各样格式的数据转换为 UOJ 的格式 :tada: 文件名转换 | subtask 设置| 添加样例 | 生成 problem.conf :rocket:
 - [csb6/html-plus-plus](https://github.com/csb6/html-plus-plus) - Write HTML using C++ templates
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [ChungZH/notepanda](https://github.com/ChungZH/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
+- [zirnc/notepanda](https://github.com/zirnc/notepanda) - 📃 A simple cross-platform notepad. Based on Qt and C++.
 - [neko-para/qgdbint](https://github.com/neko-para/qgdbint) - GDB interface in Qt
 - [KDE/systemsettings](https://github.com/KDE/systemsettings) - Control center to configure your Plasma Desktop
 - [ouuan/CPTH](https://github.com/ouuan/CPTH) - :star2: Competitive Programming Template Headers | With documentation, CI tests and Codecov
