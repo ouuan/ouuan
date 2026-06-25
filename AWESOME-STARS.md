@@ -186,7 +186,7 @@
 - [bangumi/server](https://github.com/bangumi/server) - API server for bgm.tv
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [caddyserver/transform-encoder](https://github.com/caddyserver/transform-encoder) - Log encoder module for custom log formats
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites
@@ -632,7 +632,7 @@
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [zachMelody/bilibili-live-recorder](https://github.com/zachMelody/bilibili-live-recorder) - 下载 bilibili 直播 视频流
 - [online-judge-tools/oj](https://github.com/online-judge-tools/oj) - Tools for various online judges. Downloading sample cases, generating additional test cases, testing your code, and submitting it.
-- [eee555/Metasweeper](https://github.com/eee555/Metasweeper) - 元扫雷v3.3.0 —— 包含8种模式的专业扫雷版本、第三代扫雷录像播放器及高性能算法工具箱
+- [eee555/Metasweeper](https://github.com/eee555/Metasweeper) - 元扫雷v3.3.1 —— 包含8种模式的专业扫雷版本、第三代扫雷录像播放器及高性能算法工具箱
 - [Yikun/hub-mirror-action](https://github.com/Yikun/hub-mirror-action) - 一个Github Action，用于在Github, Gitee, GitLab和GitCode之间同步代码。Action for mirroring repos between Hubs (like Github, Gitee, GitLab and GitCode).
 - [cms-dev/cms](https://github.com/cms-dev/cms) - Contest Management System
 - [Elteoremadebeethoven/AnimationsWithManim](https://github.com/Elteoremadebeethoven/AnimationsWithManim) - Animation course with Manim
@@ -832,6 +832,7 @@
 
 ## TypeScript 
 
+- [hamproductions/the-sorter](https://github.com/hamproductions/the-sorter) - ヒトリダケナンテエラベナイヨ
 - [ouuan/ll-predict](https://github.com/ouuan/ll-predict) - Predict LoveLive! Series concert setlists
 - [AlanWanco/PomChat](https://github.com/AlanWanco/PomChat) - 通过本地音频 + ASS字幕实现即时通讯聊天渲染并导出视频的桌面工具
 - [SomiaWhiteRing/my9](https://github.com/SomiaWhiteRing/my9) - 构成我的9部作品
