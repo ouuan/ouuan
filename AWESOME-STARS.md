@@ -682,7 +682,7 @@
 ## Rust 
 
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
-- [wangrunji0408/iJiegeOS](https://github.com/wangrunji0408/iJiegeOS) - A Rust OS kernel autonomously implemented by Claude Code Opus/Sonnet.
+- [wangrunji0408/JiegeOSBench](https://github.com/wangrunji0408/JiegeOSBench) - Benchmarking a single‑prompt Rust OS kernel implementation, comparing Claude Code Fable, Opus, and Sonnet.
 - [balliegojr/simple-dns](https://github.com/balliegojr/simple-dns) - Simple DNS written in Rust
 - [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
