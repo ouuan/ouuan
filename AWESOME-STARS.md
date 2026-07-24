@@ -854,6 +854,7 @@
 - [chrisbottin/xml-formatter](https://github.com/chrisbottin/xml-formatter) - 
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
+- [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [vuejs/test-utils](https://github.com/vuejs/test-utils) - Vue Test Utils for Vue 3
 - [nuxt-modules/eslint](https://github.com/nuxt-modules/eslint) - ESLint module for Nuxt.js
 - [danielroe/nuxt-vitest](https://github.com/danielroe/nuxt-vitest) - An vitest environment with support for testing code that needs a Nuxt runtime environment
@@ -1039,7 +1040,6 @@
 - [ouuan/ikizuxiv](https://github.com/ouuan/ikizuxiv) - 💙 IKIZULIVE! LOVELIVE! BLUEBIRD いきづらい部！人生不易部！🧡 X 推文存档网站，包含原文、中文翻译、AI 配音
 - [ouuan/homepage](https://github.com/ouuan/homepage) - My academic homepage
 - [yeswehack/Dom-Explorer](https://github.com/yeswehack/Dom-Explorer) - 
-- [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [agateblue/tempo](https://github.com/agateblue/tempo) - Your personal diary and mood tracker
 - [ouuan/codle](https://github.com/ouuan/codle) - 💻 Guess code like Wordle with AST nodes as letters 🌳
 - [ouuan/luogu-paintboard-heatmap](https://github.com/ouuan/luogu-paintboard-heatmap) - 洛谷冬日绘板热力图
