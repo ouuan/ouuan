@@ -1,50 +1,25 @@
 <!--
-
-Thank you if you like this profile README!
-
-BUT, please DO NOT copy this and create your profile based on it.
-
-You can use it as a reference, and copy a part of it, but DO NOT copy
-all of this and create your profile based on it.
-
-It is very common that you forget to change some information and leave
-mine in your profile. This has happened too many times.
-
-And, this profile README is auto-updated by GitHub Actions, you can read
-[the official documentation](https://docs.github.com/actions) to learn
-how to use it.
-
-Only when you know what you are copying should you paste it. So, again,
-please DO NOT copy this and create your profile based on it.
-
-What's more, you can find other awesome profile READMEs at
-https://github.com/abhisheknaiidu/awesome-github-profile-readme. There
-could be a profile README that fits you better than this one.
-
-Wish you a good-looking profile README!
-
-                                   —— ouuan (https://github.com/ouuan)
-
+This profile README is auto-updated by GitHub Actions.
 -->
 
-My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I'm a first-year master's student at Tsinghua University in China.
+### 湖上一回首，青山卷白云
+
+Hi, I'm **Roc** ([@dllen](https://github.com/dllen)), a developer based in **Beijing, China**.
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dllen&theme=dark&show_icons=true&include_all_commits=true">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dllen&show_icons=true&include_all_commits=true">
 </picture>
 
--   :pencil2: Rust / C++ / TypeScript / Vue / Python / SystemVerilog
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :microscope: Cyber security research with @chenjj
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new/choose)!
--   :mag: [CVEs discovered by me](CVE.md)
+-   :pencil2: Python / Rust / C++ / Java / Scala / JavaScript / TypeScript
+-   :telescope: Focused on AI engineering, system programming, and high-performance software
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/dllen/dllen/discussions/new/choose)!
 -   :star: [Projects starred by me](AWESOME-STARS.md)
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+-   :link: Blog: [https://www.scp.net.cn](https://www.scp.net.cn)
 
 ---
 
-### :pencil: [Latest blog posts](https://scp.net.cn/blog/)
+### :pencil: [Latest blog posts](https://www.scp.net.cn/blog/)
 
 <!--START_SECTION:blog-posts-->
 - 2025-07-27 [Harness Engineering：让 AI 编码智能体"能用、可控、可维护"的工程体系](https://scp.net.cn/blog/harness-engineering/)
