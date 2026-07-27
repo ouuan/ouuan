@@ -738,7 +738,7 @@
 - [dtolnay/dyn-clone](https://github.com/dtolnay/dyn-clone) - Clone trait that is object-safe
 - [jam1garner/binwrite](https://github.com/jam1garner/binwrite) - A Rust crate for helping write structs as binary data using ✨macro magic✨
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
-- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
+- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Generate compile_commands.json for any C or C++ build
 - [Peternator7/strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums
 - [adrgs/requestrepo](https://github.com/adrgs/requestrepo) - Analyze HTTP, DNS and SMTP requests and create custom responses and DNS records for your subdomain
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
