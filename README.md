@@ -78,6 +78,161 @@ Hi, I'm **Roc** ([@dllen](https://github.com/dllen)), a developer based in **Bei
 ### :eyes: [Users I follow](src/getFollowing.py)
 
 <!--START_SECTION:following-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/torvalds">
+        <img src="https://avatars2.githubusercontent.com/u/1024025" width="100px;" alt="torvalds"/>
+      </a>
+      <br />
+      <a href="https://github.com/torvalds">Linus Torvalds</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/peng-zhihui">
+        <img src="https://avatars2.githubusercontent.com/u/12994887" width="100px;" alt="peng-zhihui"/>
+      </a>
+      <br />
+      <a href="https://github.com/peng-zhihui">稚晖</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ruanyf">
+        <img src="https://avatars2.githubusercontent.com/u/905434" width="100px;" alt="ruanyf"/>
+      </a>
+      <br />
+      <a href="https://github.com/ruanyf">Ruan YiFeng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tj">
+        <img src="https://avatars2.githubusercontent.com/u/25254" width="100px;" alt="tj"/>
+      </a>
+      <br />
+      <a href="https://github.com/tj">TJ</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/antfu">
+        <img src="https://avatars2.githubusercontent.com/u/11247099" width="100px;" alt="antfu"/>
+      </a>
+      <br />
+      <a href="https://github.com/antfu">Anthony Fu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/michaelliao">
+        <img src="https://avatars2.githubusercontent.com/u/470058" width="100px;" alt="michaelliao"/>
+      </a>
+      <br />
+      <a href="https://github.com/michaelliao">Crypto Michael</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/llSourcell">
+        <img src="https://avatars2.githubusercontent.com/u/1279609" width="100px;" alt="llSourcell"/>
+      </a>
+      <br />
+      <a href="https://github.com/llSourcell">Siraj Raval</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ry">
+        <img src="https://avatars2.githubusercontent.com/u/80" width="100px;" alt="ry"/>
+      </a>
+      <br />
+      <a href="https://github.com/ry">Ryan Dahl</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/antirez">
+        <img src="https://avatars2.githubusercontent.com/u/65632" width="100px;" alt="antirez"/>
+      </a>
+      <br />
+      <a href="https://github.com/antirez">Salvatore Sanfilippo</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Visualize-ML">
+        <img src="https://avatars2.githubusercontent.com/u/105787223" width="100px;" alt="Visualize-ML"/>
+      </a>
+      <br />
+      <a href="https://github.com/Visualize-ML">Iris Series 鸢尾花书</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mli">
+        <img src="https://avatars2.githubusercontent.com/u/421857" width="100px;" alt="mli"/>
+      </a>
+      <br />
+      <a href="https://github.com/mli">Mu Li</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xiaolai">
+        <img src="https://avatars2.githubusercontent.com/u/152970" width="100px;" alt="xiaolai"/>
+      </a>
+      <br />
+      <a href="https://github.com/xiaolai">xiaolai</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/programthink">
+        <img src="https://avatars2.githubusercontent.com/u/4027957" width="100px;" alt="programthink"/>
+      </a>
+      <br />
+      <a href="https://github.com/programthink">编程随想</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cloudwu">
+        <img src="https://avatars2.githubusercontent.com/u/729648" width="100px;" alt="cloudwu"/>
+      </a>
+      <br />
+      <a href="https://github.com/cloudwu">云风</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/phodal">
+        <img src="https://avatars2.githubusercontent.com/u/472311" width="100px;" alt="phodal"/>
+      </a>
+      <br />
+      <a href="https://github.com/phodal">Fengda Huang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vczh">
+        <img src="https://avatars2.githubusercontent.com/u/773569" width="100px;" alt="vczh"/>
+      </a>
+      <br />
+      <a href="https://github.com/vczh">vczh</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/halfrost">
+        <img src="https://avatars2.githubusercontent.com/u/10825609" width="100px;" alt="halfrost"/>
+      </a>
+      <br />
+      <a href="https://github.com/halfrost">halfrost</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/justjavac">
+        <img src="https://avatars2.githubusercontent.com/u/359395" width="100px;" alt="justjavac"/>
+      </a>
+      <br />
+      <a href="https://github.com/justjavac">迷渡</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/spf13">
+        <img src="https://avatars2.githubusercontent.com/u/173412" width="100px;" alt="spf13"/>
+      </a>
+      <br />
+      <a href="https://github.com/spf13">Steve Francia</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/simonw">
+        <img src="https://avatars2.githubusercontent.com/u/9599" width="100px;" alt="simonw"/>
+      </a>
+      <br />
+      <a href="https://github.com/simonw">Simon Willison</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ovilia">
+        <img src="https://avatars2.githubusercontent.com/u/779050" width="100px;" alt="Ovilia"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ovilia">Ovilia</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:following-->
 
 ---
