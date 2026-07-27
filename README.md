@@ -75,6 +75,13 @@ Hi, I'm **Roc** ([@dllen](https://github.com/dllen)), a developer based in **Bei
 
 ---
 
+### :eyes: [Users I follow](src/getFollowing.py)
+
+<!--START_SECTION:following-->
+<!--END_SECTION:following-->
+
+---
+
 ### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->

@@ -1,0 +1,33 @@
+name: Get Following Users
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  following:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Setup python
+        uses: actions/setup-python@v6
+      - name: Install requests
+        run: pip install requests
+      - name: Update README
+        run: python src/getFollowing.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Update following users"
+      - name: Pull changes
+        run: git pull -r
+      - name: Push changes
+        uses: ad-m/github-push-action@881a6320fdb16eb5318c5054f31c218aec2b324c
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
