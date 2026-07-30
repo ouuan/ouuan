@@ -187,7 +187,7 @@
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [caddyserver/transform-encoder](https://github.com/caddyserver/transform-encoder) - Log encoder module for custom log formats
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -285,7 +285,6 @@
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [ahmadnassri/node-glob-promise](https://github.com/ahmadnassri/node-glob-promise) - Promise version of glob
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
-- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [ayuusweetfish/medle](https://github.com/ayuusweetfish/medle) - 旋律猜谜游戏，每日更新~・Daily melody puzzle game (available in en/zh)
@@ -901,6 +900,7 @@
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [hoiheart/vue-diff](https://github.com/hoiheart/vue-diff) - VueJS diff viewer plugin
 - [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [vbenjs/vite-plugin-compression](https://github.com/vbenjs/vite-plugin-compression) - Use gzip or brotli to compress resources
 - [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template
 - [antfu/vite-plugin-restart](https://github.com/antfu/vite-plugin-restart) - Custom files/globs to restart Vite server
