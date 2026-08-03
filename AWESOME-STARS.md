@@ -578,6 +578,7 @@
 
 ## Python 
 
+- [ouuan/yakiflow](https://github.com/ouuan/yakiflow) - 🍖 自动化烤肉流水线 | Automatic media to subtitle pipeline
 - [tsukumijima/NDGRClient](https://github.com/tsukumijima/NDGRClient) - NDGRClient: Nicolive NDGR Message Server Client Library & Command Line Tool
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
