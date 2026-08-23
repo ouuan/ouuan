@@ -538,7 +538,7 @@
 - [adobe-fonts/source-han-super-otc](https://github.com/adobe-fonts/source-han-super-otc) - Source Han & Noto CJK Mega/Ultra OTCs
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [diauweb/diauweb](https://github.com/diauweb/diauweb) - 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [k4yt3x/flowerhd](https://github.com/k4yt3x/flowerhd) - 花！是一个高清重制机上些许衍生创作的表情包
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
