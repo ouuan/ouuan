@@ -22,16 +22,11 @@ Hi, I'm **Roc** ([@dllen](https://github.com/dllen)), a developer based in **Bei
 ### :pencil: [Latest blog posts](https://www.scp.net.cn/blog/)
 
 <!--START_SECTION:blog-posts-->
-- 2025-07-27 [Harness Engineering：让 AI 编码智能体"能用、可控、可维护"的工程体系](https://scp.net.cn/blog/harness-engineering/)
-- 2025-07-27 [Linux 内存与 PageCache 深度技术手册](https://scp.net.cn/blog/linux-memory-and-pagecache/)
-- 2025-07-27 [OpenClaw：开启 AI Agent 时代的超级个体与变现思考](https://scp.net.cn/blog/openclaw-analysis/)
-- 2025-07-27 [给迷惘一代的哲学药方：当尼采、佛陀与老子在十字路口相遇](https://scp.net.cn/blog/guidance-for-the-lost-soul-five-philosophies/)
-- 2025-07-27 [给 Java 插上翅膀：Alibaba Dragonwell Wisp 协程深度解析与实战避坑指南](https://scp.net.cn/blog/alibaba-dragonwell-wisp-coroutine-practice/)
-- 2025-07-27 [拒绝 'Vibe Coding' 的虚幻快感：深度解析 Spec-Driven Development (SDD) 与 AI 编程的未来](https://scp.net.cn/blog/spec-driven-development-depth-analysis/)
-- 2025-07-27 [向经典致敬：用大师的提问艺术驯服大模型](https://scp.net.cn/blog/efficient-llm-dialogue-with-classic-books/)
-- 2025-07-27 [彻底搞懂 Agent Skills：从原理到实践](https://scp.net.cn/blog/deep-dive-into-agent-skills/)
-- 2025-07-27 [现代 malloc 库核心内存管理策略](https://scp.net.cn/blog/modern-malloc-core-strategies/)
-- 2025-07-27 [高性能开发参考手册](https://scp.net.cn/blog/high-performance-low-latency-handbook/)
+-   2025-10-26 [GeekGame 2025 出题人题解：统一身份认证、勒索病毒](https://ouuan.moe/post/2025/10/geekgame-2025-graphauth-ransomware?utm_source=GitHubProfile)
+-   2025-05-10 [DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank?utm_source=GitHubProfile)
+-   2025-03-20 [修复 XeTeX 更新导致编译错误](https://ouuan.moe/post/2025/03/fix-xetex-update?utm_source=GitHubProfile)
+-   2025-03-11 [TPCTF 2025 Official Write-Up (6 challenges)](https://ouuan.moe/post/2025/03/tpctf-2025?utm_source=GitHubProfile)
+-   2025-03-04 [SECCON CTF 13 Finals 游记](https://ouuan.moe/post/2025/02/seccon-13-finals?utm_source=GitHubProfile)
 <!--END_SECTION:blog-posts-->
 
 ---
@@ -41,6 +36,13 @@ Hi, I'm **Roc** ([@dllen](https://github.com/dllen)), a developer based in **Bei
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
+    <td align="center">
+      <a href="https://github.com/ishandutta2007">
+        <img src="https://avatars2.githubusercontent.com/u/2527354" width="100px;" alt="ishandutta2007"/>
+      </a>
+      <br />
+      <a href="https://github.com/ishandutta2007">Ishan Dutta</a>
+    </td>
     <td align="center">
       <a href="https://github.com/skyvow">
         <img src="https://avatars2.githubusercontent.com/u/14972920" width="100px;" alt="skyvow"/>
@@ -88,18 +90,18 @@ Hi, I'm **Roc** ([@dllen](https://github.com/dllen)), a developer based in **Bei
       <a href="https://github.com/torvalds">Linus Torvalds</a>
     </td>
     <td align="center">
-      <a href="https://github.com/peng-zhihui">
-        <img src="https://avatars2.githubusercontent.com/u/12994887" width="100px;" alt="peng-zhihui"/>
-      </a>
-      <br />
-      <a href="https://github.com/peng-zhihui">稚晖</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ruanyf">
         <img src="https://avatars2.githubusercontent.com/u/905434" width="100px;" alt="ruanyf"/>
       </a>
       <br />
       <a href="https://github.com/ruanyf">Ruan YiFeng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/peng-zhihui">
+        <img src="https://avatars2.githubusercontent.com/u/12994887" width="100px;" alt="peng-zhihui"/>
+      </a>
+      <br />
+      <a href="https://github.com/peng-zhihui">稚晖</a>
     </td>
     <td align="center">
       <a href="https://github.com/tj">
