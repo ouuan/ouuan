@@ -155,6 +155,7 @@
 
 ## CSS 
 
+- [AlanWanco/nijidb-web](https://github.com/AlanWanco/nijidb-web) - nijigasaki db web-ui
 - [ghuntley/noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 - [mahmoud/zerover](https://github.com/mahmoud/zerover) - 0️⃣  Minimalist versioning scheme for devs who can't be bothered.
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
