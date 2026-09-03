@@ -27,7 +27,7 @@ Wish you a good-looking profile README!
 
 -->
 
-My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I'm a first-year master's student at Tsinghua University in China.
+My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I'm a second-year master's student at Tsinghua University in China.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
