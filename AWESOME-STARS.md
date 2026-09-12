@@ -579,6 +579,7 @@
 
 ## Python 
 
+- [AlanWanco/nijidb-web](https://github.com/AlanWanco/nijidb-web) - nijigasaki db web-ui
 - [ouuan/yakiflow](https://github.com/ouuan/yakiflow) - 🍖 自动化烤肉流水线 | Automatic media to subtitle pipeline
 - [tsukumijima/NDGRClient](https://github.com/tsukumijima/NDGRClient) - NDGRClient: Nicolive NDGR Message Server Client Library & Command Line Tool
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -1039,7 +1040,6 @@
 
 ## Vue 
 
-- [AlanWanco/nijidb-web](https://github.com/AlanWanco/nijidb-web) - nijigasaki db web-ui
 - [ouuan/ikizuxiv](https://github.com/ouuan/ikizuxiv) - 💙 IKIZULIVE! LOVELIVE! BLUEBIRD いきづらい部！人生不易部！🧡 X 推文存档网站，包含原文、中文翻译、AI 配音
 - [ouuan/homepage](https://github.com/ouuan/homepage) - My academic homepage
 - [yeswehack/Dom-Explorer](https://github.com/yeswehack/Dom-Explorer) - 
