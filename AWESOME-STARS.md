@@ -582,7 +582,6 @@
 - [AlanWanco/nijidb-web](https://github.com/AlanWanco/nijidb-web) - nijigasaki db web-ui
 - [ouuan/yakiflow](https://github.com/ouuan/yakiflow) - 🍖 自动化烤肉流水线 | Automatic media to subtitle pipeline
 - [tsukumijima/NDGRClient](https://github.com/tsukumijima/NDGRClient) - NDGRClient: Nicolive NDGR Message Server Client Library & Command Line Tool
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
@@ -837,6 +836,7 @@
 ## TypeScript 
 
 - [hamproductions/the-sorter](https://github.com/hamproductions/the-sorter) - ヒトリダケナンテエラベナイヨ
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [AlanWanco/PomChat](https://github.com/AlanWanco/PomChat) - 通过本地音频 + ASS字幕实现即时通讯聊天渲染并导出视频的桌面工具
 - [SomiaWhiteRing/my9](https://github.com/SomiaWhiteRing/my9) - 构成我的9部作品
 - [prinsss/twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
