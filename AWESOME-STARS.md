@@ -526,6 +526,7 @@
 - [ouuan/luogu-motaki](https://github.com/ouuan/luogu-motaki) - 服务端-客户端架构的洛谷冬日绘板工具
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
 - [tuna/collection](https://github.com/tuna/collection) - idea collections from TUNA
+- [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [phyphox/phyphox-experiments](https://github.com/phyphox/phyphox-experiments) - Physical Phone Experiments (in-app experiment collection)
 - [brechtsanders/winlibs_mingw](https://github.com/brechtsanders/winlibs_mingw) - winlibs standalone build of GCC compiler and MinGW-w64
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 
@@ -609,7 +610,6 @@
 - [anishathalye/neural-hash-collider](https://github.com/anishathalye/neural-hash-collider) - Preimage attack against NeuralHash 💣
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice_cube: 一个可爱且任性的 B 站视频下载器
-- [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [jrouleau/bluetooth-autoconnect](https://github.com/jrouleau/bluetooth-autoconnect) - A linux command line tool to automatically connect to all paired and trusted bluetooth devices.
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [0xHJK/music-dl](https://github.com/0xHJK/music-dl) - search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐、咪咕音乐等搜索和下载歌曲
