@@ -113,18 +113,18 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Harry-Chen">
-        <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
-      </a>
-      <br />
-      <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Konano">
         <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
       </a>
       <br />
       <a href="https://github.com/Konano">Nano</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Harry-Chen">
+        <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
+      </a>
+      <br />
+      <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
     </td>
     <td align="center">
       <a href="https://github.com/losfair">
@@ -185,18 +185,18 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
       <a href="https://github.com/taoso">taoso</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Enter-tainer">
-        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
-      </a>
-      <br />
-      <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Trumeet">
         <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
       </a>
       <br />
       <a href="https://github.com/Trumeet">Yuuta Liang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Enter-tainer">
+        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
+      </a>
+      <br />
+      <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
     </td>
     <td align="center">
       <a href="https://github.com/zTrix">
