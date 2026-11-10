@@ -32,3 +32,4 @@
 ## 2026
 
 -   [CVE-2026-0398](https://nvd.nist.gov/vuln/detail/CVE-2026-0398): Crafted zones can lead to large memory usage in PowerDNS Recursor
+-   [CVE-2026-59263](https://nvd.nist.gov/vuln/detail/CVE-2026-59263): Carefully crafted documents could display different data when opened with different programs, instead of being reported as corrupt
