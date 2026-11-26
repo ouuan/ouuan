@@ -577,6 +577,7 @@
 
 ## Python 
 
+- [ouuan/gallery-faces](https://github.com/ouuan/gallery-faces) - 人脸识别从 X / Instagram 导入的图片
 - [AlanWanco/nijidb-web](https://github.com/AlanWanco/nijidb-web) - nijigasaki db web-ui
 - [ouuan/yakiflow](https://github.com/ouuan/yakiflow) - 🍖 自动化烤肉流水线 | Automatic media to subtitle pipeline
 - [tsukumijima/NDGRClient](https://github.com/tsukumijima/NDGRClient) - NDGRClient: Nicolive NDGR Message Server Client Library & Command Line Tool
@@ -683,7 +684,7 @@
 
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
-- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A safety oriented and memory safe implementation of sudo and su
 - [balliegojr/simple-dns](https://github.com/balliegojr/simple-dns) - Simple DNS written in Rust
 - [toml-rs/toml](https://github.com/toml-rs/toml) - Rust TOML Parser
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
